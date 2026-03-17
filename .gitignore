@@ -1,0 +1,20 @@
+# Imagens pesadas (Opcional: use se preferir manter as fotos apenas local)
+# Se quiser subir fotos pro GitHub, ignore esta linha abaixo
+*.jpg
+*.png
+*.jpeg
+
+# Pastas de sistema e editores
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs temporários
+*.log
+
+# Arquivos de backup de editores
+*.bak
+*.swp
+
+# Caso use alguma planilha Excel de apoio
+~$*.xlsx
