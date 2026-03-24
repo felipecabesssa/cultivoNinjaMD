@@ -5,6 +5,18 @@
 - **Status:** 100% (Ciclo de Floração)
 - **Fotoperíodo:** 12/12
 
+## 🌞 Suplementação Solar (Abril - Setembro)
+- **Tipo:** Insolação Transversal Norte (Sol de Inverno).
+- **Janela de Exposição:** ~09:00h às 13:30h.
+- **Impacto:** Reforço de espectro pleno para galhos laterais e redução da umidade foliar. 
+- **Estratégia:** Rotação manual do vaso em 180° a cada 2 dias para garantir simetria nos buds.
+
+## 🌍 Localização & Microclima
+- **Orientação:** Fachada voltada para o Parque/ParkShopping (Vista Livre).
+- **Vantagem Estratégica:** Ausência de sombreamento por edifícios vizinhos, permitindo entrada de luz transversal de alta qualidade no outono/inverno.
+- **Ambientes:** - Quarto (Flora): Suplementação solar lateral nos buds inferiores.
+                 - Sala (Vega): Luz natural abundante para fortalecimento de caules da SLH.
+
 ## 🌡️ Controle Ambiental
 - **Temperatura Alvo:** 22°C - 24°C (Monitorado via Ar-Condicionado)
 - **Umidade Alvo:** 55% - 65% (Ajuste conforme VPD)
@@ -14,6 +26,8 @@
 - **Strain:** Radical Juice (Ripper Seeds)
 - **Fase:** Floração (Início da formação de pistilos/buds)
 - **Substrato:** Mix de Coco (Inerte)
+
+
 
 ---
 *Última atualização: 23/03/2026*

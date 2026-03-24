@@ -1,7 +1,7 @@
 # 🎒 Inventário de Cultivo
 
 ## 🧬 Banco de Sementes
-- [x] **Super Lemon Haze (SLH):** 2 unidades (Recebidas em 23/03/26)
+- [x] **Super Lemon Haze (SLH):** 3 unidades (Recebidas em 23/03/26)
 - [ ] **Radical Juice:** Ciclo atual (sem sementes extras)
 
 ## 🧪 Nutrientes e Aditivos
@@ -20,3 +20,4 @@
 - **Quantidade:** ~200g (Trimas e Top Buds)
 - **Data do Congelamento:** 12/12/2025
 - **Status:** Pronta para processamento (Abril/2026)
+
