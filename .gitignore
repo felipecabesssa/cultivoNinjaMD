@@ -1,20 +1,27 @@
-# Imagens pesadas (Opcional: use se preferir manter as fotos apenas local)
-#Se quiser subir fotos pro GitHub, ignore esta linha abaixo
-#*.jpg
-#*.png
-#*.jpeg
+# 🔒 Segurança: Ignorar PDFs e Notas Fiscais
+# (Mantenha as NFs apenas localmente para proteger seus dados)
+docs/nfs/*.pdf
+docs/nfs/*.jpg
+docs/nfs/*.png
 
-# Pastas de sistema e editores
+# 📂 Pastas de sistema e editores
 .vscode/
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Logs temporários
+# 🧪 Logs de automação e temporários
 *.log
-
-# Arquivos de backup de editores
+*.tmp
 *.bak
 *.swp
 
-# Caso use alguma planilha Excel de apoio
+# 📊 Arquivos de Office (Excel/Word)
 ~$*.xlsx
+~$*.docx
+*.tmp
+
+# 🖼️ Imagens do Grow
+# Mantemos as imagens leves liberadas, mas se for subir videos, ignore:
+*.mp4
+*.mov
