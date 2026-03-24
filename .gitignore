@@ -1,8 +1,8 @@
 # Imagens pesadas (Opcional: use se preferir manter as fotos apenas local)
-# Se quiser subir fotos pro GitHub, ignore esta linha abaixo
-*.jpg
-*.png
-*.jpeg
+#Se quiser subir fotos pro GitHub, ignore esta linha abaixo
+#*.jpg
+#*.png
+#*.jpeg
 
 # Pastas de sistema e editores
 .vscode/

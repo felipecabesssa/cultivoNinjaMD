@@ -1,4 +1,4 @@
-# 🥷 Cultivo Ninja - Dashboard Operacional
+# :bust_in_silhouette: Cultivo Ninja - Dashboard Operacional
 
 Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de cultivo indoor.
 
