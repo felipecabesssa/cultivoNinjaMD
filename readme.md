@@ -1,67 +1,21 @@
-# 🌿 Cultivo Técnico: Radical Juice & Ciclo Perpétuo
+# 🥷 Cultivo Ninja - Dashboard Operacional
 
-Repositório destinado ao logbook técnico, controle de qualidade (QA) e versionamento do ciclo de cultivo indoor. 
+Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de cultivo indoor.
 
----
+## 📍 Status Atual: **Floração (Radical Juice)**
+- **Semana:** Floração Plena
+- **Próximo Manejo:** Rega Quinta-feira (26/03) - Meta EC 1.900
+- **Meta Mensal:** Preparação do solo Super Lemon Haze (SLH)
 
-## 📊 Status Atual do Projeto
-- **Strain:** Radical Juice (Ripper Seeds)
-- **Fase:** Floração (Semana 4)
-- **Data do Flip:** 24/02/2026
-- **Setup:** LED 240W PRO-MID | Solo Orgânico/Coco | Ambiente Controlado (AC)
+## 📅 Milestones de Março/2026
+- [x] Aquisição de Kit Ice-o-Lator (Balde + Batedor)
+- [x] Recebimento das sementes Super Lemon Haze
+- [ ] Implementação de monitoramento de pH (Aguardando caneta)
 
----
-
-## 🗓️ Cronograma Trimestral (Impressão/Consulta)
-
-### Março: Transição Nutricional
-| SEG | TER | QUA | QUI | SEX | SAB | DOM |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 16 [PODA] | 17 [KIT] | 18 | 19 [REGA] | 20 | 21 | 22 |
-| 23 [REGA] | 24 | 25 | 26 [REGA] | 27 | 28 | 29 |
-| 30 [REGA] | 31 | | | | | |
-
-### Abril: Logística e Maturidade
-| SEG | TER | QUA | QUI | SEX | SAB | DOM |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | | 01 | 02 [REGA] | 03 | 04 | 05 |
-| 06 [REGA] | 07 [$$] | 08 | 09 [REGA] | 10 | 11 | 12 |
-| 13 [REGA] | 14 | 15 | 16 [REGA] | 17 | 18 | 19 |
-| 20 [REGA] | 21 [FLUSH]| 22 | 23 [REGA] | 24 | 25 | 26 |
-| 27 [REGA] | 28 [SEED] | 29 | 30 | | | |
-
-### Maio: Colheita e New Cycle (SLH)
-| SEG | TER | QUA | QUI | SEX | SAB | DOM |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| | | | | 01 [CUT] | 02 | 03 |
-| 04 | 05 | 06 | 07 [$$] | 08 | 09 | 10 |
-| 11 [TRANS] | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 [CURA] | 20 | 21 | 22 | 23 | 24 |
+## 🚀 Próximos Ciclos
+1. **Abril/Maio:** Extração de Ice-o-Lator (Matéria congelada 12/2025).
+2. **Junho:** Início do Ciclo Super Lemon Haze (Sativa Focus).
+3. **Dezembro:** Implementação de Automação de Rega (Viagem 20-26/12).
 
 ---
-
-## 🧪 Parâmetros de Nutrição (Log de Bordo)
-
-| Data | Evento | pH (In/Out) | EC (In/Out) | Notas |
-| :--- | :--- | :--- | :--- | :--- |
-| 15/03/26 | Última Rega (Antiga) | 6.3 / 6.5 | 600 / 1500 | Sinais de N alto (Garras). |
-| 16/03/26 | Defoliação D21 | - | - | Limpeza de 20% da folhagem. |
-| 19/03/26 | Primeira Rega EasyCoco | *TBD* | *TBD* | Início do reset nutricional. |
-
----
-
-## 📋 Checklist de Qualidade (QA)
-- [x] Defoliação técnica para exposição de buds inferiores.
-- [ ] Recebimento e conferência do Kit EasyCoco (Previsão: 17/03).
-- [ ] Compra de insumos para solo orgânico (Data: 10/04).
-- [ ] Início do cozimento do solo para as Super Lemon Haze (Data: 10/04).
-- [ ] Setup da tenda de secagem (Escuridão total/20°C/60% UR) (Data: 10/04).
-
----
-
-## 🛠️ Stack Tecnológica
-- **VS Code:** Documentação e Logs.
-- **GitHub:** Versionamento de ciclo e histórico de erros/acertos.
-- **Markdown:** Formatação de dados.
-
-> **Nota:** Este repositório segue os princípios de invisibilidade e precisão técnica.
+*cabesssa* | *Hardware: LED 240W + Easycoco*
