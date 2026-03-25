@@ -7,7 +7,7 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | Data | Volume (L) | E.C Entrada | E.C Saída | P.H (Est.) | Runoff (ml) | Observações Técnicas |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23/03 | 3.0 | 1.900 | 1.900 | 6.0 | 500 | Patas de águia (N alto/VPD baixo) |
-| 26/03 | - | - | - | - | - | *Agendada* |
+| 25/03 | 3.0 | 1.900 | 2.300 | null | 1000 | Patas de águia persistentes; Alerta de Overfert. |
 | 28/03 | - | - | - | - | - | *Agendada* |
 | 30/03 | - | - | - | - | - | *Agendada* |
 
