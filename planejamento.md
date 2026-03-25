@@ -10,8 +10,8 @@
 - [ ] **Exaustor de Linha (100mm):** Foco em silêncio para o quarto.
 - [ ] **Ventilador de Clip:** Circulação interna para a tenda de secagem.
 - [ ] **Bovedas 62% (67g):** Estabilização dos terpenos na cura.
-- [ ] **Insumos para Solo Orgânico:** Comprar e iniciar "cozimento" (maturação).
-- [ ] **Vasos de 20L (3 unidades):** Para as Super Lemon Haze.
+- [x] **Insumos para Solo Orgânico:** Comprar e iniciar "cozimento" (maturação).
+- [x] **Vasos de 20L (3 unidades):** Para as Super Lemon Haze.
 
 ### 🗓️ Junho (07/06) - Expansão Ciclo Perpétuo
 - [ ] **Tenda Nova (Sala):** Dedicada para Vega/Clones.
