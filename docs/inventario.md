@@ -1,7 +1,7 @@
 # 🎒 Inventário de Cultivo
 
 ## 🧬 Banco de Sementes
-- [x] **Super Lemon Haze (SLH):** 3 unidades (Recebidas em 23/03/26)
+- [x] **Super Lemon Haze (SLH):** 4 unidades (uma extra) (Recebidas em 23/03/26)
 - [ ] **Radical Juice:** Ciclo atual (sem sementes extras)
 
 ## 🧪 Nutrientes e Aditivos
