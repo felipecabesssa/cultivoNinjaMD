@@ -38,4 +38,4 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 - **Dica de QA:** Se o E.C de saída subir acima de 2.200, realizar rega apenas com água e CalMag na próxima vez.
 
 ---
-*Última sincronização com o banco de dados: 24/03/2026*
+*Última sincronização com o banco de dados: 25/03/2026*

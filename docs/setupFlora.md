@@ -22,6 +22,12 @@
 - **Umidade Alvo:** 55% - 65% (Ajuste conforme VPD)
 - **Automação:** Ar-condicionado automatizado via Smart Home
 
+## 💡 Iluminação (Fase Final Radical Juice)
+- **Potência:** 60% (Dimmer)
+- **Distância:** 50cm do topo (Canopy)
+- **Estratégia:** Manutenção de PPFD moderado até correção de E.C (Runoff).
+- **Próximo Salto:** Aumentar para 75% após rega de estabilização do dia 28/03.
+
 ## ⛈️ Contingência Climática - Operação "Chuva em BSB" (26/03)
 - **Cenário:** Umidade Relativa em 67% e Temperatura 23.4°C.
 - **Risco Identificado:** Proliferação de Botrytis em floração avançada (Radical Juice).
