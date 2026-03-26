@@ -21,3 +21,10 @@
 - **Data do Congelamento:** 12/12/2025
 - **Status:** Pronta para processamento (Abril/2026)
 
+## 🧬 Banco de Sementes (Seeds)
+- **Strain:** Super Lemon Haze (SLH)
+- **Banco:** Seeds Genetics
+- **Quantidade:** 4 sementes (Recebido 1 brinde/extra)
+- **Data de Recebimento:** 25/03/2026
+- **Status:** Disponível para início de germinação em Abril.
+
