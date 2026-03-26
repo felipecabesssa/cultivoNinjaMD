@@ -31,12 +31,23 @@
   - [x] Adição de ventilador secundário para reforço de circulação de ar.
 - **Status do Sistema:** Monitoramento ativo; meta de UR < 60%.
 
+## 📝 Monitoramento Climático (Pós-Contingência)
+- **Data:** 26/03/2026 - 11:30h
+- **UR Alvo:** < 60% | **UR Atual:** 62% (Em queda 📉)
+- **Status:** Ar-condicionado mantendo estabilidade térmica (23.4°C).
+- **Observação Visual:** Buds da Radical Juice apresentando tricomas densos e sem sinais de estresse fúngico.
+
 ## 🌿 Genética em Ciclo
 - **Strain:** Radical Juice (Ripper Seeds)
 - **Fase:** Floração (Início da formação de pistilos/buds)
 - **Substrato:** Mix de Coco (Inerte)
 
-
+## 🌒 Unidade de Secagem (Interna)
+- **Equipamento:** Tenda Dark Room 100% blackout.
+- **Ventilação:** Exaustor dedicado + Ventilador de clip (circulação indireta).
+- **Clima:** Integrado ao sistema de A/C do quarto.
+- **Controle de Umidade:** Desumidificador (conforme necessidade sazonal de BSB).
+- **Meta:** 18-20°C / 55-60% UR por 10-14 dias.
 
 ---
 *Última atualização: 25/03/2026*
