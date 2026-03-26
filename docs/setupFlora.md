@@ -22,6 +22,15 @@
 - **Umidade Alvo:** 55% - 65% (Ajuste conforme VPD)
 - **Automação:** Ar-condicionado automatizado via Smart Home
 
+## ⛈️ Contingência Climática - Operação "Chuva em BSB" (26/03)
+- **Cenário:** Umidade Relativa em 67% e Temperatura 23.4°C.
+- **Risco Identificado:** Proliferação de Botrytis em floração avançada (Radical Juice).
+- **Ações Realizadas:**
+  - [x] Janela fechada para bloquear umidade externa.
+  - [x] Ativação do modo desumidificador no Ar-Condicionado.
+  - [x] Adição de ventilador secundário para reforço de circulação de ar.
+- **Status do Sistema:** Monitoramento ativo; meta de UR < 60%.
+
 ## 🌿 Genética em Ciclo
 - **Strain:** Radical Juice (Ripper Seeds)
 - **Fase:** Floração (Início da formação de pistilos/buds)
