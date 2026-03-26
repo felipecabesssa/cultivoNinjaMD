@@ -13,6 +13,20 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 
 ---
 
+## 🚿 Próximo Ciclo de Rega (Planejado)
+**Data Prevista:** 28/03/2026 (Sábado)
+
+### 📋 Checklist de Execução:
+- [ ] **Volume:** 3.0 Litros.
+- [ ] **Composição:** Água mineral ou filtrada (100% declorada).
+- [ ] **Ajuste de pH:** Alvo **6.0** (Estabilidade do substrato).
+- [ ] **E.C de Entrada:** 0.0 (Zero nutrientes para realizar o flush leve).
+- [ ] **Meta de Saída (Runoff):** Reduzir de 2.300 para **1.900**.
+- [ ] **Objetivo:** Corrigir o "overfert" e as "patas de águia".
+
+---
+*Nota: Se o medidor de pH novo chegar a tempo, realizar a calibração antes desta rega.*
+
 ## 🛠️ Protocolo de Preparo (Easycoco)
 - **Base:** 4L de água (descansada para evaporar cloro).
 - **Proporção:** 10g Parte A + 10g Parte B (ajustar para atingir E.C alvo).
