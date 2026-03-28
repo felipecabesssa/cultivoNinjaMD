@@ -8,7 +8,7 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23/03 | 3.0 | 1.900 | 1.900 | 6.0 | 500 | Patas de águia (N alto/VPD baixo) |
 | 25/03 | 3.0 | 1.900 | 2.300 | null | 1000 | Patas de águia persistentes; Alerta de Overfert. |
-| 28/03 | - | - | - | - | - | *Agendada* |
+| 28/03 | 3.5 | 0.0   | **1.440** | 6.0 | 750 | Flush de correção concluído; E.C estabilizado. |
 | 30/03 | - | - | - | - | - | *Agendada* |
 
 ---
