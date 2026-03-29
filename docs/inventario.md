@@ -2,7 +2,7 @@
 
 ## 🧬 Genética e Banco de Sementes
 - [x] **Super Lemon Haze (SLH):** 4 unidades (3 + 1 brinde). *Status: Em germinação (28/03).*
-- [ ] **Radical Juice:** Ciclo atual (Sem estoque de sementes).
+- [x] **Radical Juice:** Ciclo atual (Sem estoque de sementes).
 
 ## 🧪 Nutrientes e Aditivos
 - **Easycoco Parte A/B:** ~500ml restantes de cada.

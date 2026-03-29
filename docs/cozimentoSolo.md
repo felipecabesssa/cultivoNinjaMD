@@ -16,9 +16,9 @@ Este processo ativa a vida microbiana (Bokashi) no substrato antes de receber as
 4. **Reativação:** A cada 3 dias, dê uma leve revolvida no solo para oxigenar.
 
 ## ✅ Checklist de Execução
-- [ ] Mistura realizada (Data: __/__/__)
-- [ ] Primeira rega de ativação
-- [ ] Observação de hifas brancas (Dia 5)
+- [x] Mistura realizada (Data: 28/03/2026)
+- [ ] Primeira rega de ativação (previsão 31/03/2026)
+- [ ] Observação de hifas brancas (Dia 5 - 02/04/2026)
 - [ ] Transplante das mudas de SLH (Data prevista: Meados de Abril)
 
 ---

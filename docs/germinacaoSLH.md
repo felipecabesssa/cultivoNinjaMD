@@ -23,7 +23,7 @@
 | Fase | Duração | Procedimento Técnico | Ambiente | Data
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Hidratação** | 12h - 24h | Copo com água + 1 colher chá de Água Oxigenada 10v. | Escuro (Armário) | 26-03-2026
-| **2. Papel Toalha** | 24h - 48h | Entre folhas de papel toalha úmidas (não encharcadas) em pote fechado. | Escuro e Morno |
+| **2. Papel Toalha** | 24h - 48h | Entre folhas de papel toalha úmidas (não encharcadas) em pote fechado. | Escuro e Morno | 28-03-2026
 | **3. Plantio** | Dia 3 ou 4 | Enterrar 0,5cm (raiz para baixo) em copinho com Carolina Soil puro. | Luz (LED 240W @ 25%) |
 | **4. Seedling** | 10 - 14 dias | Manter úmido com borrifador. Umidade alta (70-80%). | Área de Vega (Sala) |
 | **5. Transplante** | ~ Dia 15 | Mudar para o vaso de 20L (Solo já maturado com Bokashi). | Área de Vega (Sala) |
