@@ -2,40 +2,37 @@
 
 Este arquivo serve como o banco de dados de performance do solo e absorção de nutrientes.
 
-## 📈 Tabela de Acompanhamento - Ciclo Atual: Radical Juice
+## 📈 Tabela de Acompanhamento - Ciclo: Radical Juice
 
-| Data | Volume (L) | E.C Entrada | E.C Saída | P.H (Est.) | Runoff (ml) | Observações Técnicas |
+| Data | Vol (L) | E.C In | E.C Out | P.H | Runoff | Observações Técnicas |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 23/03 | 3.0 | 1.900 | 1.900 | 6.0 | 500 | Patas de águia (N alto/VPD baixo) |
-| 25/03 | 3.0 | 1.900 | 2.300 | null | 1000 | Patas de águia persistentes; Alerta de Overfert. |
-| 28/03 | 3.5 | 0.0   | **1.440** | 6.0 | 750 | Flush de correção concluído; E.C estabilizado. |
-| 30/03 | - | - | - | - | - | *Agendada* |
+| 23/03 | 3.0 | 1.900 | 1.900 | 6.0 | 500ml | Patas de águia (N alto/VPD baixo) |
+| 25/03 | 3.0 | 1.900 | 2.300 | - | 1.0L | Alerta de Overfert. |
+| 28/03 | 3.5 | 0.0 | **1.440** | 6.0 | 750ml | Flush de correção; E.C resetado. |
+| 30/03 | 3.0 | **1.600** | **1.900** | - | 600ml | Pistilos inferiores +2cm; Top buds 90%. |
+| 02/04 | 3.0 | 1.600 | 1.600 | 6.0 | ? | **Agendada**
 
----
 
-## 🚿 Próximo Ciclo de Rega (Planejado)
-**Data Prevista:** 28/03/2026 (Sábado)
 
-### 📋 Checklist de Execução:
-- [ ] **Volume:** 3.0 Litros.
-- [ ] **Composição:** Água mineral ou filtrada (100% declorada).
-- [ ] **Ajuste de pH:** Alvo **6.0** (Estabilidade do substrato).
-- [ ] **E.C de Entrada:** 0.0 (Zero nutrientes para realizar o flush leve).
-- [ ] **Meta de Saída (Runoff):** Reduzir de 2.300 para **1.900**.
-- [ ] **Objetivo:** Corrigir o "overfert" e as "patas de águia".
 
----
-*Nota: Se o medidor de pH novo chegar a tempo, realizar a calibração antes desta rega.*
+## 🛠️ Guia de Preparo Rápido (Easycoco em Gramas)
 
-## 🛠️ Protocolo de Preparo (Easycoco)
-- **Base:** 4L de água (descansada para evaporar cloro).
-- **Proporção:** 10g Parte A + 10g Parte B (ajustar para atingir E.C alvo).
-- **Meta E.C:** 1.800 a 2.000 (Fase de Floração).
-- **Meta P.H:** 5.8 - 6.2 (Faixa de absorção ideal para coco).
+Use esta tabela para preparar **3 Litros** de solução nutritiva:
+
+| Alvo E.C | Part A | Part B | Part C | Objetivo |
+| :--- | :--- | :--- | :--- | :--- |
+| **0.0 (Flush)** | 0g | 0g | 0g | Limpeza de sais / Correção |
+| **1.2 (Leve)** | 3.0g | 3.0g | 3.0g | Manutenção pós-stress |
+| **1.6 (Médio)** | 4.0g | 4.0g | 4.0g | Engorda de buds (Atual) |
+| **2.0 (Forte)** | 5.5g | 5.5g | 5.5g | Pico de floração |
+
 
 ## 📝 Notas de Manejo
 - **[23/03]:** E.C está em equilíbrio perfeito (In=Out). Manter a dose. A umidade de 65% (chuva em Brasília) está dificultando a transpiração.
 - **Dica de QA:** Se o E.C de saída subir acima de 2.200, realizar rega apenas com água e CalMag na próxima vez.
+- **[30/03]:** UR 55-60% / Temp 23-26ºC (Ambiente ideal). O E.C de saída subiu para 1.900 (acumulou um pouco desde o flush), mas está dentro da margem de segurança. 
+- **QA Alert:** As "patas de águia" persistem; a planta ainda está processando o excesso de Nitrogênio anterior. Manter a rega em 1.600 de entrada para não sobrecarregar.
+
 
 ---
-*Última sincronização com o banco de dados: 25/03/2026*
+*Última sincronização: 30/03/2026 às 09:10*
