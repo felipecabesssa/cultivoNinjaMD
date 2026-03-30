@@ -25,3 +25,35 @@ O VPD mede a capacidade da planta de transpirar e absorver nutrientes.
 **Status Atual:** ~1.7 kPa (Temp 27.5°C / UR 51%).
 - **Objetivo:** Trazer para a faixa de **1.4 - 1.5 kPa**.
 - **Como:** Baixar a temperatura para 25°C (Ligar AC) OU subir a UR para 60% (Umidificador).
+
+-------
+
+# 🧮 Lógica de Cálculo de VPD (Simplificada)
+
+Para evitar consultas externas, utilize esta regra de bolso para tomada de decisão rápida no cultivo.
+
+## 📝 A Fórmula "Mental"
+O VPD é a diferença entre a umidade que o ar **pode** segurar e a que ele **realmente** segura.
+- **Calor aumenta a capacidade do ar:** Quanto mais quente, mais umidade você precisa para manter a planta calma.
+- **Frio diminui a capacidade:** No frio, a umidade precisa ser menor para a planta não "sufocar".
+
+💡 Dica de Ouro (Check de Folha)
+Sempre considere que a temperatura da folha costuma ser 2ºC menor que a do ar.
+
+## 🛠️ Script de Decisão (Pseudo-código)
+
+```python
+if temp >= 28:
+    if UR < 55:
+        return "ALERTA: VPD MUITO ALTO. Ligar AC ou Umidificador."
+    else:
+        return "OK: Planta transpirando rápido, mas suportável."
+
+elif temp <= 24:
+    if UR > 65:
+        return "ALERTA: VPD MUITO BAIXO. Risco de mofo (Botrytis). Ligar exaustão máxima."
+    else:
+        return "OK: Metabolismo lento, ideal para preservação de terpenos."
+
+else: # Faixa atual (25-26ºC)
+    return "SWEET SPOT: Alvo 50-60% UR. Máxima eficiência de engorda."
