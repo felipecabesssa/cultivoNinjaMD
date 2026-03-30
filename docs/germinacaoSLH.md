@@ -20,13 +20,15 @@
 
 # 🌱 Cronograma de Germinação: Super Lemon Haze
 
-| Fase | Duração | Procedimento Técnico | Ambiente | Data
+| Fase | Duração | Procedimento Técnico | Ambiente | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Hidratação** | 12h - 24h | Copo com água + 1 colher chá de Água Oxigenada 10v. | Escuro (Armário) | 26-03-2026
-| **2. Papel Toalha** | 24h - 48h | Entre folhas de papel toalha úmidas (não encharcadas) em pote fechado. | Escuro e Morno | 28-03-2026
-| **3. Plantio** | Dia 3 ou 4 | Enterrar 0,5cm (raiz para baixo) em copinho com Carolina Soil puro. | Luz (LED 240W @ 25%) |
-| **4. Seedling** | 10 - 14 dias | Manter úmido com borrifador. Umidade alta (70-80%). | Área de Vega (Sala) |
-| **5. Transplante** | ~ Dia 15 | Mudar para o vaso de 20L (Solo já maturado com Bokashi). | Área de Vega (Sala) |
+| **1. Hidratação** | 24h | Água + H2O2 10v. | Escuro | ✅ |
+| **2. Papel Toalha** | 48h | Papel úmido em pote fechado. | Escuro/Morno | ✅ |
+| **3. Plantio** | 30/03 | Carolina Soil Puro / Profundidade 0,5cm. | LED 40% @ 50cm | ✅ |
+| **4. Seedling** | **Atual** | **Domo de Umidade + Borrifador.** | **Área de Vega** | 🚀 |
+| **5. Transplante** | ~ Dia 30 | Mudar para o vaso de 20L (Solo já maturado com Bokashi). | Área de Vega (Sala) |
+
+**Nota Técnica (30/03):** Semente apresentou abertura de cotilédones pré-plantio. Monitorar expansão foliar nas próximas 24h sob o domo.
 
 ---
 *Status Atual: Hidratação iniciada em 26/03.*
