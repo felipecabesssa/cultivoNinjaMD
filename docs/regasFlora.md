@@ -33,6 +33,10 @@ Use esta tabela para preparar **3 Litros** de solução nutritiva:
 - **[30/03]:** UR 55-60% / Temp 23-26ºC (Ambiente ideal). O E.C de saída subiu para 1.900 (acumulou um pouco desde o flush), mas está dentro da margem de segurança. 
 - **QA Alert:** As "patas de águia" persistem; a planta ainda está processando o excesso de Nitrogênio anterior. Manter a rega em 1.600 de entrada para não sobrecarregar.
 
+---
+
+💡 Dica Ninja:
+Como você vai desligar às 21h, você vai ter aquela "janela" das 09:00 às 11:00 da manhã para fazer as regas com a luz recém-acesa (que é o horário que a planta mais absorve água). Além disso, às 21h você dá o "boa noite" pra elas antes de dormir.
 
 ---
 *Última sincronização: 30/03/2026 às 09:10*
