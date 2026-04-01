@@ -26,8 +26,7 @@
 - **Data do Congelamento:** 11/11/2025.
 - **Previsão de Processamento:** Abril/2026 (04/04).
 
-## 🛒 Lista de Compras Próximas (Sprint 04/04)
-
-- [ ] **Gelo (15kg):** Comprar em posto ou distribuidora no dia da extração.
-- [ ] **Papel Manteiga:** Rolo novo para a base de secagem.
-- [ ] **Água Mineral (10L):** Para garantir baixa condutividade na lavagem.
+## 🛒 Compras para o Sábado (04/04)
+- [ ] 3x Sacos de Gelo de 5kg (Total 15kg).
+- [ ] 1x Rolo de Papel Manteiga (Qualidade premium).
+- [ ] 2x Galões de 5L de água mineral (Para lavagem final das bags).

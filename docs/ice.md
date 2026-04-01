@@ -29,6 +29,19 @@
 
 ---
 
+## 📋 Protocolo de Execução (Sábado)
+1. **Hidratação:** 15 min na água gelada antes de ligar o batedor.
+2. **Ciclos de Lavagem:** 3 rounds (10 min cada).
+3. **Coleta e Peneira:** Coletar o hash, secar levemente com pano de 25u e levar ao freezer.
+4. **Ralar (Microplaning):** Ralar o hash congelado sobre papel manteiga.
+
+## ⏱️ Timeline de Secagem e Cura
+- **Secagem (Geladeira):** 05/04 a 16/04 (Foco em cor clara e preservação).
+- **Cura (Pote de Vidro):** 17/04 a 20/04.
+- **🚀 Data de Lançamento (Consumo): 20/04/2026.**
+
+---
+
 ## 📊 Rendimento Esperado (Fresh Frozen)
 *Nota: Fresh Frozen tem mais peso de água, o rendimento nominal parece menor, mas a pureza é maior.*
 - **Expectativa (3-5%):** 6g a 10g de Hash Full Melt.
