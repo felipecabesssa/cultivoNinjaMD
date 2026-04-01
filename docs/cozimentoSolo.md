@@ -2,6 +2,17 @@
 
 Este processo ativa a vida microbiana (Bokashi) no substrato antes de receber as raízes jovens da SLH.
 
+---
+
+## 📈 Log de Ativação (Ciclo Março/Abril 2026)
+
+| Data | Ação Realizada | Observações de QA | Status |
+| :--- | :--- | :--- | :--- |
+| 28/03 | Mix Inicial | Carolina Soil + Perlita + Bokashi. Hidratado. | ✅ |
+| 01/04 | **1ª Revirada** | **Oxigenação e check de umidade. Solo estável.** | ✅ |
+| 04/04 | 2ª Revirada | Previsão: Verificar presença de hifas brancas. | ⏳ |
+| 07/04 | 3ª Revirada | Previsão: Último ajuste de umidade pré-transplante. | ⏳ |
+
 ## 🥣 A Mistura (Para 2 Vasos de 20L)
 - **Base:** 40L de Carolina Soil (Turfa + Perlita + Vermiculita).
 - **Aeração Extra:** 5L de Perlita Expandida (Para garantir que o solo não compacte).
@@ -15,11 +26,13 @@ Este processo ativa a vida microbiana (Bokashi) no substrato antes de receber as
    - *Nota de QA:* O Bokashi vai começar a criar hifas (um mofo branco benéfico). **Não remova**, isso é o sinal de que o solo está "vivo".
 4. **Reativação:** A cada 3 dias, dê uma leve revolvida no solo para oxigenar.
 
+----
+
 ## ✅ Checklist de Execução
-- [x] Mistura realizada (Data: 28/03/2026)
-- [ ] Primeira rega de ativação (previsão 31/03/2026)
-- [ ] Observação de hifas brancas (Dia 5 - 02/04/2026)
-- [ ] Transplante das mudas de SLH (Data prevista: Meados de Abril)
+- [x] Mistura realizada (28/03/2026)
+- [x] Primeira rega/revirada de ativação (01/04/2026)
+- [ ] Observação de hifas brancas (Previsão 04/04/2026)
+- [ ] Transplante das mudas de SLH (Previsão: Meados de Abril)
 
 ---
-*Dica de Gênio: Como você vai estar com a Radical Juice em flora plena no quarto, mantenha esses vasos maturando na área de Vega (Sala) para já irem pegando o clima do ambiente.*
+*Dica de Gênio: Mantenha o solo na sala (área de Vega). O calor residual do ambiente ajuda o Bokashi a trabalhar mais rápido.*
