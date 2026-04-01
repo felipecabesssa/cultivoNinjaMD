@@ -23,5 +23,11 @@
 
 ## ❄️ Matéria Congelada (Cold Storage)
 - **Quantidade:** ~200g (Trimas e Top Buds).
-- **Data do Congelamento:** 12/12/2025.
-- **Previsão de Processamento:** Abril/2026 (Pós-colheita Radical Juice).
+- **Data do Congelamento:** 11/11/2025.
+- **Previsão de Processamento:** Abril/2026 (04/04).
+
+## 🛒 Lista de Compras Próximas (Sprint 04/04)
+
+- [ ] **Gelo (15kg):** Comprar em posto ou distribuidora no dia da extração.
+- [ ] **Papel Manteiga:** Rolo novo para a base de secagem.
+- [ ] **Água Mineral (10L):** Para garantir baixa condutividade na lavagem.
