@@ -1,30 +1,43 @@
-# 🥷 Cultivo Ninja - Dashboard Operacional
+# 🤖 Cultivo Ninja - Dashboard Operacional
 
 Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de cultivo indoor. 
 *Engenharia aplicada à botânica.*
 
-## 📍 Status Atual: **Floração Final (Radical Juice)**
-- **Ambiente Flora (Quarto):** ✅ UR 55% | Temp 24°C (Estabilizado via A/C)
-- **Saúde:** E.C de Saída corrigido para **1.440** (Flush de 28/03 concluído).
-- **Ambiente Vega (Sala):** 🚀 Setup 100% Concluído | Berçário ativo (SLH).
+---
 
-## 📅 Milestones de Março/2026
-- [x] Refactoring de Infra: Reorganização da sala e descarte de entulho.
-- [x] Setup de Secagem: Arara convertida em unidade de secagem interna.
-- [x] Logística: Recebimento de Carolina Soil, Bokashi e Perlita.
-- [x] Genética: Início da germinação Super Lemon Haze (SLH).
-- [ ] Monitoramento pH: Aguardando entrega da caneta (Prev. 28/03 - 03/04).
+## 📈 Status Atual: **Floração Final (Radical Juice) & Seedling (SLH)**
 
-## 🔥 Ciclo em Execução: Super Lemon Haze (SLH)
-1. **Fase Atual:** Hidratação/Germinação.
-2. **Maturação do Solo:** Início do "cozimento" com Bokashi (Prev. 28/03 a 12/04).
-3. **Próximo Passo:** Transferência para substrato (Segunda, 30/03).
+| Parâmetro | Ambiente Flora (Quarto) | Ambiente Vega (Sala) |
+| :--- | :--- | :--- |
+| **Clima** | ✅ UR 55% / 25°C (A/C On) | ✅ UR 60% (Domo Ativo) |
+| **Saúde** | E.C Saída: 1.900 (Estável) | 🌱 Rising: SLH buscando luz |
+| **Status** | 🚿 Regada (03/04) - 3L H2O | 🚀 Setup 100% Concluído |
 
 ---
-## 🚀 Roadmap 2026
-- **Abril:** Colheita Radical Juice + Início extração Ice-o-Lator.
+
+## 🗓️ Milestones & Roadmap (Abril 2026)
+
+- [x] **01/04:** 1ª Revirada do solo (Check de umidade).
+- [x] **02/04:** Rega de manutenção Radical Juice (3L água pura).
+- [ ] **04/04:** 🧊 **ICE DAY:** Extração 200g Purple Haze Fresh Frozen.
+- [ ] **04/04:** 🥣 **Solo:** 2ª Revirada (Check de hifas brancas).
+- [ ] **04/04:** 🚿 **Flora:** Rega Radical Juice (Easycoco Nutrientes).
+- [ ] **07/04:** 🛒 **Logística:** Compra de exaustor e insumos de infra.
+- [ ] **12/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
+
+---
+
+## 🔥 Ciclo em Execução: Super Lemon Haze (SLH)
+1. **Fase Atual:** Seedling.
+2. **Setup:** LED 240W @ 40% (50cm de altura).
+3. **Manejo:** Borrifação a cada 6hs dos domos + Ciclo 18/6.
+
+---
+
+## 🚀 Planejamento Longo Prazo
 - **Junho:** Desenvolvimento pleno da SLH (Sativa Focus).
 - **Dezembro:** Implementação de Automação de Rega (Viagem 20-26/12).
 
 ---
 *Status: Operacional* | *Hardware: LED 240W + Easycoco + Ar-Condicionado*
+*Última atualização: 03/04/2026 - Pós-descanso do operador*
