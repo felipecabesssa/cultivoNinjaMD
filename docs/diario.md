@@ -8,12 +8,13 @@
 | 28/03 | Vega | ✅ Pronto | Berçário ativo (SLH em hidratação). Solo inicia maturação. |
 | 30/03 | Vega | 🌱 Ativo | SLH transferida para Carolina Soil. Semente com cotilédones aparentes. |
 | 30/03 | Flora | 🚿 Regada | 3L @ E.C 1.600 / Out 1.900. Pistilos em expansão. |
-
-| Data | Hora | Temp Int | UR Int | Status | Ação |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 30/03 | 11:30 | 27.5°C | 51% | ⚠️ Alerta Amarelo | Monitorar pico de calor (14h-16h). Cortina fechada. |
+| 30/03 | Flora | ⚠️ Alerta  | Monitorar pico de calor (14h-16h). Cortina fechada. |
 | 30/03 | Vega | 🌱 Rising | SLH se endireitou (fototropismo positivo). Formato de "anzol" superado. |
-| 30/03 | Infra | ⚡ Upgrade | Temporizador de tomada adquirido (Ciclo 18/6 planejado). |
+| 30/03 | Vega | ⚡ Upgrade | Temporizador de tomada adquirido (Ciclo 18/6 planejado). |
+| 02/04 |Dois|⚡ descanso raio| 💤 Downtime Programado | | Cultivador em repouso. Manutenção adiada em 24h. |
+| 02/04 | Vega | ⚠️ Alerta  | 🛡️ Medida de Emergência - Umidade dos domos (SLH) verificada. |
+
+
 ## ⚡ Configuração de Ciclos (Atualizado 30/03)
 
 | Ambiente | Ciclo | Horário ON | Horário OFF | Observação |
