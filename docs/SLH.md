@@ -18,10 +18,10 @@ Informações consolidadas para o ciclo de Junho/2026.
 - **Sabor/Aroma:** Cítrico intenso (limão e lima), fundo amadeirado e apimentado.
 - **Efeito:** Cerebral, ativo, energético e duradouro. Ideal para uso diurno e criatividade.
 
-## ⚠️ Observações para o Planejamento
-- A planta apresenta crescimento vigoroso e estável.
-- Ótima resposta a técnicas de poda para controle de dossel.
-- Colheita planejada para Outubro/2026 para garantir maturação completa.
+## ⚠️ Observações para o Planejamento (Ciclo 3 Plantas)
+- **População:** 3 sementes ativas (Soma das 2 últimas + 1 sobrevivente).
+- **Estratégia de Solo:** Transplante para vasos de 20L em 10/05 utilizando mix de solo reciclado da Radical Juice + 40L cozidos + Bokashi.
+- **Vegetativo:** Fase inicial em Carolina Soil puro para evitar "burn" nas plântulas.
 
 ---
 *Fonte: Seeds Genetics Co. Brazil*
