@@ -8,10 +8,12 @@
 | 28/03 | Vega | ✅ Pronto | Berçário ativo (SLH em hidratação). Solo inicia maturação. |
 | 30/03 | Vega | 🌱 Ativo | SLH transferida para Carolina Soil. Semente com cotilédones aparentes. |
 | 30/03 | Flora | 🚿 Regada | 3L @ E.C 1.600 / Out 1.900. Pistilos em expansão. |
-| 30/03 | Flora | ⚠️ Alerta Amarelo | Monitorar pico de calor (14h-16h). Cortina fechada. |
-| 05/04 | Vega | ✅ Pronto | Ajuste altura LED Vega. Solo revirado. SLH hidratadas (afundaram). |
-| 06/04 | Vega | 🌱 Ativo | SLH (3 unidades) para papel toalha (12h). Transplante para Carolina Soil amanhã. |
-| 06/04 | Geladeira | 🧊 Secagem | Hash (A Nata) em secagem lenta. Potência fraca/média. |
+| 06/04 | Flora | 🚨 Emergência | Detectado Runoff 6.680 µS/cm (Overfert). Aplicado Flush de 15L. |
+| 07/04 | Vega | 🌱 Ativo | UR 89% via névoa direta. Seed #1 (solo) desenvolvendo bem. |
+| 07/04 | Solo | 🌱 Manejo | Revirar solo (40L em cozimento). Oxigenação do substrato. |
+| 07/04 | Ice | 🧊 Cura | Cold Dry finalizado. Transferência para potes e início da cura. |
+
+---
 
 ## 🗓️ Log de Operação: 05/04/2026
 
