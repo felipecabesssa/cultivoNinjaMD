@@ -47,6 +47,14 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - **Manejo (08/04):** Revirada dos 40L de mix.
 - **Hidratação:** Adicionado 4L de água (manutenção de umidade para cozimento).
 
+## 🌱 ABRAPANGO
+- **Pedido dia 09/04/2026 (consulta e documentação ok na associação):**
+- Óleo de CBD 3000mg - 30ml - R$ 359,00
+- Grape Cookies (ÚLTIMAS UNIDADES) 🌱 Embalagem 10g - R$500,00 
+Buds regulares: 1 - 1,5cm
+Uma variedade híbrida composta por 60% sativa e 40% indica, resultando em uma experiência equilibrada e versátil. Seu aroma adocicado com notas frutadas de uva é marcante e envolvente. Os efeitos promovem relaxamento acompanhado de sensações de felicidade e criatividade, tornando-a uma escolha ideal para diferentes momentos do dia. 
+- Previsão de entrega (sexta feira 10/04/2026)
+
 ---
 *Status: Operacional* | *Hardware: LED 240W + Easycoco + Ar-Condicionado*
 *Última atualização: 09/04/2026 - ice concluido e aprovado seeds SLH crescendo e setup casa (vega e flora) concluido.*
