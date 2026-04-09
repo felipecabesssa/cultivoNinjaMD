@@ -11,8 +11,9 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 04/04 | 3.5 | 1.800* | 2.000* | 5.0 | ? | *Leitura em PPM mascarando overfert real. |
 | 06/04 | **15.0** | **0.0** | **6.680** | **5.5** | **Farto** | **🚨 INCIDENTE:** Detectado Overfert severo. |
 | 06/04 | - | - | **2.172** | - | - | Status pós-flush: Solo resetado. |
-| 06/04 | 3.0 | 0.0 | - | 6.2 | - | **Atual:** Apenas água pH 6.2 (Descanso). |
-| 09/04 | 3.0 | 1.200 | - | 6.0 | - | **Prevista:** Retorno gradual com nutrientes. |
+| 06/04 | 3.0 | 0.0 | - | 6.2 | - | Apenas água pH 6.2 (Descanso). |
+| 09/04 | 4.0 | 0.0 | 900 | 6.0 | - | **Atual:** Forçar planta a consumir o excesso do solo. |
+| 11/04 | 4.0 | 1.200 | ? | 6.0 | ? | **Prevista:** Retorno gradual com nutrientes. |
 
 ---
 
@@ -63,4 +64,4 @@ Use esta tabela para preparar **3 Litros** de solução nutritiva:
 Como você vai desligar às 21h, você vai ter aquela "janela" das 09:00 às 11:00 da manhã para fazer as regas com a luz recém-acesa (que é o horário que a planta mais absorve água). Além disso, às 21h você dá o "boa noite" pra elas antes de dormir.
 
 ---
-*Última sincronização: 30/03/2026 às 09:10*
+*Última sincronização: 09/04/2026*

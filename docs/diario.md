@@ -12,6 +12,7 @@
 | 07/04 | Vega | 🌱 Ativo | UR 89% via névoa direta. Seed #1 (solo) desenvolvendo bem. |
 | 07/04 | Solo | 🌱 Manejo | Revirar solo (40L em cozimento). Oxigenação do substrato. |
 | 07/04 | Ice | 🧊 Cura | Cold Dry finalizado. Transferência para potes e início da cura. |
+| 09/04 | Flora | 🚿 Regada | Produção de resina entrou na fase neve
 
 ---
 
@@ -21,10 +22,11 @@
 - [x] Seeds afundaram na água (Hidratação OK).
 - [x] Transferir para papel toalha ou substrato 06/04. 
 
-### 🪴 Solo & Infra
+### 🌱 Solo & Infra
 - [x] Ajuste de altura do LED Vega concluído.
 - [x] Revirar mistura de solo.
 - [x] Decisão: Complementar solo para 3 vasos de 20L.
 
 ### 🧊 Extração (Hash)
 - [x] Status: Secagem em geladeira (Potência Fraca/Média).
+- [x] Status: Finalizado ICE canoli em 08/04/2026

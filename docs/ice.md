@@ -6,6 +6,8 @@
 - **Rendimento:** ~120g úmidas (Aprox. 34g só na 2ª batida).
 - **04/04/26:** Microplaning (Ralação) da "Nata" e demais micragens.
 - **04/04/26:** Início da secagem a frio (Cold Dry) na geladeira.
+- **08/04/26:** Primeiro canolli feito com o batch B (segunta e terceiras batidas).
+- **11/04/26:** Canolli no classe A, nata da primeira batida.
 
 ## 🧪 Planejamento: Ice Melt Hash (Método Brazilianstrains)
 Inspirado na técnica de Frenchy Cannoli, o objetivo é transformar o hash ralado e seco numa massa homogênea (Temple Ball) através de calor e pressão controlada.
@@ -28,7 +30,7 @@ Inspirado na técnica de Frenchy Cannoli, o objetivo é transformar o hash ralad
 | **2. Coleta** | Separação por micragem (Ouro no 73u). | 04/04 |
 | **3. Congelamento** | Deixar os "patties" no freezer para ralar. | 24h |
 | **4. Secagem** | Método Geladeira (Ralado no Papel Manteiga). | 05/04 a 08/04 |
-| **5. Cura** | Estabilização em pote de vidro. | 3 a 5 dias |
+| **5. Cura** | Estabilização em pote de vidro. | 08/04 a 10/04 |
 | **6. Consumo** | **Data Prevista: 10/04/2026** | 🚀 |
 
 ---
@@ -40,9 +42,9 @@ Inspirado na técnica de Frenchy Cannoli, o objetivo é transformar o hash ralad
 4. **Ralar (Microplaning):** Ralar o hash congelado sobre papel manteiga.
 
 ## ⏱️ Timeline de Secagem e Cura
-- **Secagem (Geladeira):** 05/04 a 16/04 (Foco em cor clara e preservação).
-- **Cura (Pote de Vidro):** 17/04 a 20/04.
-- **🚀 Data de Lançamento (Consumo): 20/04/2026.**
+- **Secagem (Geladeira):** 05/04 a 08/04 (Foco em cor clara e preservação).
+- **Cura (Pote de Vidro):** 08/04 a 10/04.
+- **🚀 Data de Lançamento (Consumo): 10/04/2026.**
 
 ---
 
