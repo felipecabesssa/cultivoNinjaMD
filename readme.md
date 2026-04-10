@@ -55,6 +55,11 @@ Buds regulares: 1 - 1,5cm
 Uma variedade híbrida composta por 60% sativa e 40% indica, resultando em uma experiência equilibrada e versátil. Seu aroma adocicado com notas frutadas de uva é marcante e envolvente. Os efeitos promovem relaxamento acompanhado de sensações de felicidade e criatividade, tornando-a uma escolha ideal para diferentes momentos do dia. 
 - Previsão de entrega (sexta feira 10/04/2026)
 
+## 📦 Estoque & Cura
+- **Ice Hash:** Armazenado em papel manteiga (proteção de resina).
+- **Suporte:** Chegada de Grape Cookies (Abrapango) para transição pré-colheita Radical Juice.
+- **Óleo CBD:** Uso contínuo mantido.
+
 ---
 *Status: Operacional* | *Hardware: LED 240W + Easycoco + Ar-Condicionado*
 *Última atualização: 09/04/2026 - ice concluido e aprovado seeds SLH crescendo e setup casa (vega e flora) concluido.*
