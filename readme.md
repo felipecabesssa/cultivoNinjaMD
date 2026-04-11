@@ -5,13 +5,13 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 
-## 📈 Status Atual: **Floração Final (Radical Juice) & Seedling (SLH)**
+## 📈 Status Atual: Floração Final (Radical Juice) & Seedling (SLH)
 
 | Parâmetro | Ambiente Flora (Quarto) | Ambiente Vega (Sala) |
 | :--- | :--- | :--- |
-| **Clima** | ✅ UR 55% / 25°C (A/C On) | ✅ UR 85% umidificador ligado 24hs |
-| **Saúde** | E.C Saída: 1.900 (Estável) | 🌱 Rising: SLH buscando luz |
-| **Status** | 🚿 Regada (09/04) - 3L H2O | 🚀 Setup 100% Concluído |
+| **Clima** | ✅ UR 55% / 25°C (A/C On) | ✅ UR 85% Umidificador 24h |
+| **Saúde** | E.C Saída: 2.800 (Nutrição ativa) | 🌱 Rising: SLH buscando luz |
+| **Status** | 🚿 Regada (11/04) - 4L H2O | 🚀 Setup 100% Concluído |
 
 ---
 
@@ -24,63 +24,55 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **04/04:** 🚿 **Flora:** Rega Radical Juice (Easycoco Nutrientes).
 - [x] **08/04:** 🚿 **Vega:** Rega babys e germinação da segunda seed.
 - [x] **08/04:** 🥣 **Solo:** 3ª Revirada (nada de hifas brancas).
-- [x] **13/04:** 🥣 **Solo:** 2ª Revirada (Check de hifas brancas).
-- [ ] **07/06:** 🛒 **Logística:** Compra de exaustor e insumos de infra.
-- [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
+- [x] **11/04:** 💡 **Hardware:** Swap de LEDs (240W Dark Red na Flora).
+- [ ] **13/04:** 🥣 **Solo:** 4ª Revirada (Previsão técnica).
+- [ ] **10/05:** 🛒 **Logística:** Compra de exaustor, desumidificador e bovedas.
+- [ ] **10/05:** 🪓 **Colheita:** Corte Radical Juice / Transplante SLH.
 
 ---
 
-## 🔥 Ciclo em Execução: 
+## 🚀 Projetos em Execução
 
-## 🐣 Projeto Super Lemon Haze (Vega)
-- **Status:** Ciclo estabilizado. SLH #1 e #2 em desenvolvimento de folhas serrilhadas.
-- **Próximo Milestone:** Transplante para vasos de 20L em 10/05 (Pós-colheita Radical).
+### 🐣 Projeto Super Lemon Haze (Vega)
+- **Status:** Estabilizado. SLH #1 e #2 em desenvolvimento de folhas serrilhadas.
+- **Fase:** Seedling / Vegetativo Inicial.
+- **Setup:** LED 240W Pro-Mid @ 20% | 50cm de altura | Ciclo 18/6.
+- **Manejo:** Umidificador 24h (Target: 80% - 90% UR).
 
-1. **Fase Atual:** Seedling.
-2. **Setup:** LED 240W @ 40% (50cm de altura).
-3. **Manejo:** umidificador ligado 24hs (manter umidade entre 80% e 90%) + Ciclo 18/6.
+### 🍇 Projeto Radical Juice (Flora)
+- **Status:** Engorda final e maturação de tricomas.
+- **Data do Flip (12/12):** 16/02/2026 (Dia 54 de Flora).
+- **Previsão de Colheita:** 10/05/2026.
+- **Setup:** LED 240W Dark Red @ 70% | 50cm de altura.
 
-
-
-## 🚀 Projeto Radical Juice (Flora)
-- **Data do Flip (12/12):** 16/02/2026
-- **Tempo Atual:** 54 dias (7 semanas e 5 dias)
-- **Previsão de Colheita:** 10/05/2026 (Ajustado para maturação máxima e upgrade de infra).
-- **Status de Infra:** Aguardando Desumidificador e Exaustor Profissional para colheita.
+---
 
 ## 🧊 Extração & Estoque
-- **Produção:** Canoli Ice (Batida 1: 5.5g). Nata prevista para 12/04.
-- **Apoio:** Grape Cookies (Híbrida 60/40) integrada ao tratamento.
-- **Canoli Ice:** 5.5g (Batidas 2 e 3) processados e pesados.
-- **Próximo Passo:** Processar a "Nata" e iniciar cura definitiva.
+- **Canoli Ice:** 5.5g (Batidas 2 e 3) processados, pesados e aprovados.
+- **Cura:** Armazenado em papel manteiga dentro de pote hermético.
+- **Próximo Passo:** Processar a "Nata" (Previsão: 12/04).
+- **Apoio:** Grape Cookies (Híbrida 60/40) integrada para transição pré-colheita.
+
+---
+
+## 🌱 Solo & Substrato (Cozimento)
+- **Volume:** 40L de mix em processo de quebra orgânica.
+- **Manejo (11/04):** Hidratação com 4L de água (manutenção de umidade).
+- **Pronto para uso:** 10/05 (Transplante das SLH).
+
+---
+
+## 🏥 ABRAPANGO (Suporte Medicinal)
+- **Pedido (09/04):** Óleo CBD 3000mg + 10g Grape Cookies.
+- **Perfil Grape:** Aroma uva, 60% Sativa / 40% Indica. Foco em criatividade e relaxamento funcional.
+- **Status:** Recebido e em uso.
 
 ---
 
 ## 🚀 Planejamento Longo Prazo
-- **Junho:** Desenvolvimento pleno da SLH (Sativa Focus).
-- **Dezembro:** Implementação de Automação de Rega (Viagem 20-26/12).
-
-
-
-## 🌱 Solo & Substrato
-- **Manejo (08/04):** Revirada dos 40L de mix.
-- **Hidratação:** Adicionado 4L de água (manutenção de umidade para cozimento).
-
-## 🌱 ABRAPANGO
-- **Pedido dia 09/04/2026 (consulta e documentação ok na associação):**
-- Óleo de CBD 3000mg - 30ml - R$ 359,00
-- Grape Cookies (ÚLTIMAS UNIDADES) 🌱 Embalagem 10g - R$500,00 
-Buds regulares: 1 - 1,5cm
-Uma variedade híbrida composta por 60% sativa e 40% indica, resultando em uma experiência equilibrada e versátil. Seu aroma adocicado com notas frutadas de uva é marcante e envolvente. Os efeitos promovem relaxamento acompanhado de sensações de felicidade e criatividade, tornando-a uma escolha ideal para diferentes momentos do dia. 
-- Previsão de entrega (sexta feira 10/04/2026)
-
-## 📦 Estoque & Cura
-- **Ice Hash:** Armazenado em papel manteiga (proteção de resina).
-- **Suporte:** Chegada de Grape Cookies (Abrapango) para transição pré-colheita Radical Juice.
-- **Óleo CBD:** Uso contínuo mantido.
+- **Junho/2026:** Desenvolvimento pleno da SLH (Sativa Focus).
+- **Dezembro/2026:** Implementação de Automação de Rega (Férias 20-26/12).
 
 ---
-*Status: Operacional* | *Hardware: LED 240W + Easycoco + Ar-Condicionado*
-*Última atualização: 11/04/2026 - ice concluido e aprovado seeds SLH crescendo e setup casa (vega e flora) concluido, degustação da "Grape Cookies + ice caseiro.*
-
-
+*Status: Operacional* | *Hardware: LED 240W x2 + Easycoco + A/C*
+*Última atualização: 11/04/2026 - Setup finalizado e degustação iniciada.*
