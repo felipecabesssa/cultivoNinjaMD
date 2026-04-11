@@ -13,6 +13,9 @@
 | 07/04 | Solo | 🌱 Manejo | Revirar solo (40L em cozimento). Oxigenação do substrato. |
 | 07/04 | Ice | 🧊 Cura | Cold Dry finalizado. Transferência para potes e início da cura. |
 | 09/04 | Flora | 🚿 Regada | Produção de resina entrou na fase neve
+| 11/04 | Flora | 🚿 Regada | Troca do LED (dark red azul na flora agora)
+| 11/04 | Vega | 🌱 Evolução | Folhas deram as caras, 1º e 2º pares
+
 
 ---
 
@@ -30,3 +33,14 @@
 ### 🧊 Extração (Hash)
 - [x] Status: Secagem em geladeira (Potência Fraca/Média).
 - [x] Status: Finalizado ICE canoli em 08/04/2026
+
+# 📓 Diário de Cultivo
+
+## [11/04/2026] - Upgrade de Infraestrutura e Nutrição
+- **Manejo Flora (Radical Juice):** Rega realizada com 4L. O runoff final de 2.800 µS/cm indica que o solo ainda retém reservas minerais, mas está operando em zona segura para a engorda.
+- **Manejo Vega (SLH):** Rega de manutenção de 50ml por planta para manter o Carolina Soil úmido.
+- **Hardware & Infra:** - Realizado swap de LEDs: Painel 240W Dark Red assumiu a Flora (70% dimmer / 50cm).
+    - Painel 240W Pro-Mid assumiu a Vega (20% dimmer / 50cm).
+- **Extração:** Degustação do Ice caseiro (Canolli) com Grape Cookies da Abrapango. Resultado: Estabilidade e controle de ansiedade.
+- **Planejamento:** Data de colheita da Radical Juice postergada para 10/05 para coincidir com upgrade de exaustão/desumidificação.
+

@@ -9,11 +9,14 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 30/03 | 3.0 | 1.600 | 1.900 | 6.0 | 600ml | Pistilos inferiores +2cm; Top buds 90%. |
 | 02/04 | 3.0 | 1.600 | 1.600 | 6.0 | - | Rega de manutenção. |
 | 04/04 | 3.5 | 1.800* | 2.000* | 5.0 | ? | *Leitura em PPM mascarando overfert real. |
-| 06/04 | **15.0** | **0.0** | **6.680** | **5.5** | **Farto** | **🚨 INCIDENTE:** Detectado Overfert severo. |
+| 06/04 | **15.0** | **0.0** | **6.680** | **5.5** | **Farto** | **🚨 INCIDENTE:** Detectado Overfert severo, Flush de Emergência (Erro de escala PPM) |
 | 06/04 | - | - | **2.172** | - | - | Status pós-flush: Solo resetado. |
 | 06/04 | 3.0 | 0.0 | - | 6.2 | - | Apenas água pH 6.2 (Descanso). |
-| 09/04 | 4.0 | 0.0 | 900 | 6.0 | - | **Atual:** Forçar planta a consumir o excesso do solo. |
-| 11/04 | 4.0 | 1.200 | ? | 6.0 | ? | **Prevista:** Retorno gradual com nutrientes. |
+| 09/04 | 4.0 | 0.0 | 900 | 6.0 | 500ml | **Atual:** Forçar planta a consumir o excesso do solo, Solo limpo. Descanso pós-estresse. |
+| 11/04 | 4.0 | 1.300 | **2.800** | 6.1 | 800ml | Retorno de Nutrientes (2g A + 2g B). Setup LED Dark Red. |
+
+---
+**Próxima Rega (Prevista: 14/04):** Avaliar necessidade de água pura se o runoff permanecer acima de 2.500.
 
 ---
 
