@@ -23,15 +23,36 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **04/04:** 🥣 **Solo:** 2ª Revirada (Check de hifas brancas).
 - [x] **04/04:** 🚿 **Flora:** Rega Radical Juice (Easycoco Nutrientes).
 - [x] **08/04:** 🚿 **Vega:** Rega babys e germinação da segunda seed.
+- [x] **08/04:** 🥣 **Solo:** 3ª Revirada (nada de hifas brancas).
+- [x] **13/04:** 🥣 **Solo:** 2ª Revirada (Check de hifas brancas).
 - [ ] **07/06:** 🛒 **Logística:** Compra de exaustor e insumos de infra.
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
 
 ---
 
-## 🔥 Ciclo em Execução: Super Lemon Haze (SLH)
+## 🔥 Ciclo em Execução: 
+
+## 🐣 Projeto Super Lemon Haze (Vega)
+- **Status:** Ciclo estabilizado. SLH #1 e #2 em desenvolvimento de folhas serrilhadas.
+- **Próximo Milestone:** Transplante para vasos de 20L em 10/05 (Pós-colheita Radical).
+
 1. **Fase Atual:** Seedling.
 2. **Setup:** LED 240W @ 40% (50cm de altura).
 3. **Manejo:** umidificador ligado 24hs (manter umidade entre 80% e 90%) + Ciclo 18/6.
+
+
+
+## 🚀 Projeto Radical Juice (Flora)
+- **Data do Flip (12/12):** 16/02/2026
+- **Tempo Atual:** 54 dias (7 semanas e 5 dias)
+- **Previsão de Colheita:** 10/05/2026 (Ajustado para maturação máxima e upgrade de infra).
+- **Status de Infra:** Aguardando Desumidificador e Exaustor Profissional para colheita.
+
+## 🧊 Extração & Estoque
+- **Produção:** Canoli Ice (Batida 1: 5.5g). Nata prevista para 12/04.
+- **Apoio:** Grape Cookies (Híbrida 60/40) integrada ao tratamento.
+- **Canoli Ice:** 5.5g (Batidas 2 e 3) processados e pesados.
+- **Próximo Passo:** Processar a "Nata" e iniciar cura definitiva.
 
 ---
 
@@ -58,26 +79,8 @@ Uma variedade híbrida composta por 60% sativa e 40% indica, resultando em uma e
 - **Suporte:** Chegada de Grape Cookies (Abrapango) para transição pré-colheita Radical Juice.
 - **Óleo CBD:** Uso contínuo mantido.
 
-
-
-## 🚀 Projeto Radical Juice (Flora)
-- **Data do Flip (12/12):** 16/02/2026
-- **Tempo Atual:** 54 dias (7 semanas e 5 dias)
-- **Previsão de Colheita:** 10/05/2026 (Ajustado para maturação máxima e upgrade de infra).
-- **Status de Infra:** Aguardando Desumidificador e Exaustor Profissional para colheita.
-
-## 🐣 Projeto Super Lemon Haze (Vega)
-- **Status:** Ciclo estabilizado. SLH #1 e #2 em desenvolvimento de folhas serrilhadas.
-- **Próximo Milestone:** Transplante para vasos de 20L em 10/05 (Pós-colheita Radical).
-
-## 🧊 Extração & Estoque
-- **Produção:** Canoli Ice (Batida 1: 5.5g). Nata prevista para 12/04.
-- **Apoio:** Grape Cookies (Híbrida 60/40) integrada ao tratamento.
-- **Canoli Ice:** 5.5g (Batidas 2 e 3) processados e pesados.
-- **Próximo Passo:** Processar a "Nata" e iniciar cura definitiva.
-
 ---
 *Status: Operacional* | *Hardware: LED 240W + Easycoco + Ar-Condicionado*
-*Última atualização: 09/04/2026 - ice concluido e aprovado seeds SLH crescendo e setup casa (vega e flora) concluido.*
+*Última atualização: 11/04/2026 - ice concluido e aprovado seeds SLH crescendo e setup casa (vega e flora) concluido, degustação da "Grape Cookies + ice caseiro.*
 
 
