@@ -14,6 +14,8 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 06/04 | 3.0 | 0.0 | - | 6.2 | - | Apenas água pH 6.2 (Descanso). |
 | 09/04 | 4.0 | 0.0 | 900 | 6.0 | 500ml | **Atual:** Forçar planta a consumir o excesso do solo, Solo limpo. Descanso pós-estresse. |
 | 11/04 | 4.0 | 1.300 | **2.800** | 6.1 | 800ml | Retorno de Nutrientes (2g A + 2g B). Setup LED Dark Red. |
+| 13/04 | 4.0 | 1.250 | **2.600** | 6.5 | 500ml | **Rega de Hoje:** Redução gradual do E.C. de saída. |
+| 16/04 | 4.0 | *Alvo: 800* | - | *6.2* | - | **PREVISTA:** Focar em baixar o E.C. Out para < 2.000. |
 
 ---
 **Próxima Rega (Prevista: 14/04):** Avaliar necessidade de água pura se o runoff permanecer acima de 2.500.
@@ -60,6 +62,11 @@ Use esta tabela para preparar **3 Litros** de solução nutritiva:
 - **Dica de QA:** Se o E.C de saída subir acima de 2.200, realizar rega apenas com água e CalMag na próxima vez.
 - **[30/03]:** UR 55-60% / Temp 23-26ºC (Ambiente ideal). O E.C de saída subiu para 1.900 (acumulou um pouco desde o flush), mas está dentro da margem de segurança. 
 - **QA Alert:** As "patas de águia" persistem; a planta ainda está processando o excesso de Nitrogênio anterior. Manter a rega em 1.600 de entrada para não sobrecarregar.
+
+**Análise Técnica (13/04):**
+- O E.C. de saída baixou 200 pontos, confirmando que a planta está em alto consumo metabólico.
+- A proporção de runoff (12.5%) foi ideal para renovar a solução no substrato sem causar um flush agressivo.
+- As fotos mostram os pistilos começando a oxidar (ficar marrons), sinal claro de maturação avançada.
 
 ---
 

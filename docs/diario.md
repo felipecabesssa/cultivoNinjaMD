@@ -13,8 +13,10 @@
 | 07/04 | Solo | 🌱 Manejo | Revirar solo (40L em cozimento). Oxigenação do substrato. |
 | 07/04 | Ice | 🧊 Cura | Cold Dry finalizado. Transferência para potes e início da cura. |
 | 09/04 | Flora | 🚿 Regada | Produção de resina entrou na fase neve
-| 11/04 | Flora | 🚿 Regada | Troca do LED (dark red azul na flora agora)
+| 11/04 | Flora | 🚿 Regada | Retorno nutrientes - Troca do LED (dark red azul na flora agora)
 | 11/04 | Vega | 🌱 Evolução | Folhas deram as caras, 1º e 2º pares
+| 13/04 | Flora | 🚿 Regada | Redução gradual do E.C. de saída.
+| 16/04 | Flora | Rega prevista | Alvo 800E.C e p.h *6.2* E.C. Out para < 2.000.
 
 
 ---
