@@ -25,8 +25,12 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **08/04:** 🚿 **Vega:** Rega babys e germinação da segunda seed.
 - [x] **08/04:** 🥣 **Solo:** 3ª Revirada (nada de hifas brancas).
 - [x] **11/04:** 💡 **Hardware:** Swap de LEDs (240W Dark Red na Flora).
-- [ ] **13/04:** 🥣 **Solo:** 4ª Revirada (Previsão técnica).
-- [ ] **10/05:** 🛒 **Logística:** Compra de exaustor, desumidificador e bovedas.
+- [x] **11/04:** 🛒 **Logística:** Compra de exaustor, desumidificador e bovedas.
+- [x] **13/04:** 🚿 **Vega:** Rega babys 100ml cada e p.h baixo 5.5/6 (folhas amareladas).
+- [x] **15/04:** 🥣 **Solo:** 3ª Revirada (Manutenção de oxigenação).
+- [x] **15/04:** 🐣 **Vega:** Ajuste de setup (Remoção de pratos / +10cm distância LED).
+- [ ] **18/04:** 🥣 **Solo:** 4ª Revirada (Previsão técnica).
+- [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
 - [ ] **10/05:** 🪓 **Colheita:** Corte Radical Juice / Transplante SLH.
 
 ---
