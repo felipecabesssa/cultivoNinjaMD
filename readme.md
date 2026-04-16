@@ -32,6 +32,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **16/04:** 🚿 **Flora:** Rega Radical Juice (E.C 800 / Out 2700).
 - [x] **16/04:** 🥣 **Solo:** 3ª Revirada 
 - [ ] **18/04:** 🥣 **Solo:** 4ª Revirada (Previsão técnica).
+- [ ] **18/04:** 💧 **Solo:** Hidratação leve (H2O pura) para manter microbiota.
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
 
 
@@ -43,8 +44,6 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [ ] **10/05:** 🛒 **Logistica:** Compra exaustor (caso precise) e bovedas.
 - [ ] **11/05:** 🎑 **Documentação:** Certificado Embrater "habeas-corpus".
 - [ ] **15/05:** 💎 **Extração:** Ice da radical (previsão 50g a 100g de materia)
-(Maturação em progresso).
-- [ ] **18/04:** 💧 **Solo:** Hidratação leve (H2O pura) para manter microbiota.
 - [ ] **10/05:** 🪓 **COLHEITA:** Radical Juice & Transplante SLH.
 
 
