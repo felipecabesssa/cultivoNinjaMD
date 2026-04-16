@@ -41,6 +41,15 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [ ] **10/05:** 🛒 **Logistica:** Compra exaustor (caso precise) e bovedas.
 - [ ] **11/05:** 🎑 **Documentação:** Certificado Embrater "habeas-corpus".
 - [ ] **15/05:** 💎 **Extração:** Ice da radical (previsão 50g a 100g de materia)
+- [x] **16/04:** 🚿 **Flora:** Rega Radical Juice (E.C 800 / Out 2700).
+- [x] **16/04:** 🥣 **Solo:** 3ª Revirada (Maturação em progresso).
+- [ ] **18/04:** 💧 **Solo:** Hidratação leve (H2O pura) para manter microbiota.
+- [ ] **10/05:** 🪓 **COLHEITA:** Radical Juice & Transplante SLH.
+- [ ] **Junho/Julho:** 🛫 **HIATO:** Viagem e Curva de Aprendizado (Pesquisa de Novas Strains).
+- [ ] **Agosto:** 🚀 **REBOOT:** Início de novo ciclo automatizado.
+
+---
+**Estoque Previsto:** Radical Juice, Super Lemon Haze, Canoli Ice & Nata Ice.
 
 ## 🚀 Projetos em Execução
 

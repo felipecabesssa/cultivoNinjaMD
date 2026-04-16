@@ -45,4 +45,8 @@
     - Painel 240W Pro-Mid assumiu a Vega (20% dimmer / 50cm).
 - **Extração:** Degustação do Ice caseiro (Canolli) com Grape Cookies da Abrapango. Resultado: Estabilidade e controle de ansiedade.
 - **Planejamento:** Data de colheita da Radical Juice postergada para 10/05 para coincidir com upgrade de exaustão/desumidificação.
-
+## [16/04/2026] - Log de Manutenção
+- **Solo:** Revirado. Cheiro de terra ok. Meio seco (adicionar água sábado).
+- **Flora:** Rega de controle (E.C 800) realizada.
+- **Vega:** Recuperação total das SLH. A "atrasadinha" (SLH #2) está performando melhor.
+- **Estratégia:** Pausa operacional confirmada após colheita da SLH para viagem.

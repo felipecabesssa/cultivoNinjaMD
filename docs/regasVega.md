@@ -3,6 +3,13 @@
 | Data | Vol (ml) | Composição | P.H | Notas |
 | :--- | :--- | :--- | :--- | :--- |
 | 30/03 | Borrifada | Água Declorada | 6.0 | Hidratação do solo e do domo no plantio. |
+| 15/04 | SLH #1/2 | Ajuste Setup | 6.0 | Remoção de pratos e ajuste de LED. |
+| 16/04 | SLH #1 | Manutenção |  |  Amarelo regredindo. 2º par verde escuro. |
+| 16/04 | SLH #2 | Manutenção |  | Saúde 100%. Nós bem próximos. |
+
+**Setup Atual:**
+- UR: 85% constante (Névoa 24h).
+- Próxima Rega: Apenas quando o pote estiver leve (estimado: Sábado 18/04/26).
 
 ## 🧪 Planeamento de Nutrição (Seedling -> Vega)
 Utilizar estas medidas (Easycoco em gramas) assim que o primeiro par de folhas serrilhadas estiver estabilizado.

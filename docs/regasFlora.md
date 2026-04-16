@@ -15,10 +15,16 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 09/04 | 4.0 | 0.0 | 900 | 6.0 | 500ml | **Atual:** Forçar planta a consumir o excesso do solo, Solo limpo. Descanso pós-estresse. |
 | 11/04 | 4.0 | 1.300 | **2.800** | 6.1 | 800ml | Retorno de Nutrientes (2g A + 2g B). Setup LED Dark Red. |
 | 13/04 | 4.0 | 1.250 | **2.600** | 6.5 | 500ml | **Rega de Hoje:** Redução gradual do E.C. de saída. |
-| 16/04 | 4.0 | *Alvo: 800* | - | *6.2* | - | **PREVISTA:** Focar em baixar o E.C. Out para < 2.000. |
+| 16/04 | 4.0 | **800** | **2.700** | **6.0** | 500ml | **HOJE:** Solo soltando sais. Planta em consumo alto. |
+| 20/04 | 4.0 | *Alvo: 500* | - | *6.2* | - | **PREVISTA:** Manter E.C baixo para limpar o meio. |
 
 ---
-**Próxima Rega (Prevista: 14/04):** Avaliar necessidade de água pura se o runoff permanecer acima de 2.500.
+**Análise Técnica (16/04):**
+- Runoff de 2.700 mostra que a planta está "limpando" o solo.
+- Pistilos oxidando rápido, indicando que a janela de colheita (10/05) está batendo.
+
+---
+**Próxima Rega (Prevista: 20/04):** Manter E.C baixo para limpar o meio.
 
 ---
 
