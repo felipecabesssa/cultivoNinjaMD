@@ -13,16 +13,21 @@
 - [x] **Acessórios de Iluminação:** Upgrade para o berçário.
 
 ### 🗓️ Abril (07/04) - Logística de Secagem e Novo Ciclo
-- [ ] **Exaustor de Linha (100mm):** Foco em silêncio para o quarto.
-- [ ] **Tomata timer:**
-- [ ] **Ventilador de Clip:** Circulação interna para a área de secagem (arara).
-- [ ] **Bovedas 62% (67g):** Estabilização dos terpenos na cura da Radical Juice.
+
+- [x] **Tomata timer:**
 - [x] **Vasos de Feltro 20L:** Adquiridos para as Super Lemon Haze.
 
 
-### 🗓️ Junho (07/06) - Expansão Ciclo Perpétuo
+### 🗓️ Maio (10/05) - Expansão Ciclo Perpétuo
 
+- [ ] **Seeds Autos:** Compra das sementes (Jack Is Here e Amnesia Haze) pack com 3 de cada
+- [ ] **Solo:** 🌱 Compra do solo (Carolina Soil) para as Autos.
+- [ ] **Ventilador de Clip:** Circulação interna para a área de secagem (arara).
+- [ ] **Meio do Mês:** Germinação Automáticas.
+- [ ] **Bovedas 62% (67g):** Estabilização dos terpenos na cura da Radical Juice.
+- [ ] **Exaustor de Linha (100mm):** Foco em silêncio para o quarto (se precisar).
 
+### 🗓️ Junho/Julho - SLH em flora plena & Autos em vegetativo/pré-flora
 ---
 
 ## 🏗️ Estrutura do Ciclo Perpétuo
