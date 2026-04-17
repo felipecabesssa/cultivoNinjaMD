@@ -11,7 +11,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 | :--- | :--- | :--- | :--- |
 | **Clima** | ✅ UR 55% / 25°C (A/C On) |   🌪 Desumidificador EOS | ✅ UR 85% Umidificador 24h |
 | **Saúde** | E.C Saída: 2.800 (Nutrição ativa) | Aguardando | 🌱 Rising: SLH buscando luz |
-| **Status** | 🚿 Regada (11/04) - 4L H2O | Secagem Radical precista pra 10/05 | 🚀 Setup 100% Concluído |
+| **Status** | 🚿 Regada (11/04) - 4L H2O | Prevista para 10/05 | 🚀 Setup 100% Concluído |
 | **Luz** | 🌞 Pro-Master 240W Dark-Red + 60W |  🌑 Escuro absoluto 24hs | 🌞 Pro-Mid 240W
 
 ---
