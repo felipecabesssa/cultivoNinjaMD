@@ -7,11 +7,12 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ## 📈 Status Atual: Floração Final (Radical Juice) & Seedling (SLH)
 
-| Parâmetro | Ambiente Flora (Quarto) | Ambiente Vega (Sala) |
-| :--- | :--- | :--- |
-| **Clima** | ✅ UR 55% / 25°C (A/C On) | ✅ UR 85% Umidificador 24h |
-| **Saúde** | E.C Saída: 2.800 (Nutrição ativa) | 🌱 Rising: SLH buscando luz |
-| **Status** | 🚿 Regada (11/04) - 4L H2O | 🚀 Setup 100% Concluído |
+| Parâmetro | Ambiente Flora (Quarto) | Secagem (Grow no Quarto) | Ambiente Vega (Sala) |
+| :--- | :--- | :--- | :--- |
+| **Clima** | ✅ UR 55% / 25°C (A/C On) |   🌪 Desumidificador EOS | ✅ UR 85% Umidificador 24h |
+| **Saúde** | E.C Saída: 2.800 (Nutrição ativa) | Aguardando | 🌱 Rising: SLH buscando luz |
+| **Status** | 🚿 Regada (11/04) - 4L H2O | Secagem Radical precista pra 10/05 | 🚀 Setup 100% Concluído |
+| **Luz** | 🌞 Pro-Master 240W Dark-Red + 60W |  🌑 Escuro absoluto 24hs | 🌞 Pro-Mid 240W
 
 ---
 
