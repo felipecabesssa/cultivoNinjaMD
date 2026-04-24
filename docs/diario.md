@@ -17,6 +17,13 @@
 | 11/04 | Vega | 🌱 Evolução | Folhas deram as caras, 1º e 2º pares
 | 13/04 | Flora | 🚿 Regada | Redução gradual do E.C. de saída.
 | 16/04 | Flora | Rega prevista | Alvo 800E.C e p.h *6.2* E.C. Out para < 2.000.
+| 16/04 | Flora | ✅ Estável | Rega E.C 800 / Out 2.700. Solo soltando sais. |
+| 19/04 | Vega | 🌱 Ativo | SLH #2 (3º par); SLH #1 (PCD 🥰). |
+| 21/04 | Flora | 🚿 Regada | 4L @ E.C 700 / Out 2.000. Estabilização. |
+| 22/04 | Infra | 🚨 Crise | Monitor 27" riscado; RAM Single Channel. Golpe AC evitado. |
+| 22/04 | Infra | 🛒 Comprado | Ar Condicionado EOS 12k (Previsão 29/04). |
+| 23/04 | Flora | 🚿 Regada | **4.5L @ E.C 700 / Out 1.500 (Flush de Manutenção).** |
+| 24/04 | Infra | ✅ PC Novo | Deploy de hardware concluído. Repositório sincronizado. |
 
 
 ---
@@ -50,3 +57,22 @@
 - **Flora:** Rega de controle (E.C 800) realizada.
 - **Vega:** Recuperação total das SLH. A "atrasadinha" (SLH #2) está performando melhor.
 - **Estratégia:** Pausa operacional confirmada após colheita da SLH para viagem.
+## [22/04/2026] - Log de Crise e Hardware
+- **Incidente:** Monitor de 27" sofreu impacto lateral; apresenta risco leve na tela.
+- **Hardware:** Falha no barramento de memória; operando com 1 pente (Single Channel).
+- **Segurança:** Detectada tentativa de fraude em site de AC (Pix para CPF). Compra abortada.
+- **Logística:** AC EOS 12.000 BTUs comprado via canal oficial/familiar.
+
+## [23/04/2026] - Sucesso no Manejo Flora
+- **Manejo Radical Juice:** Executada rega fracionada de 4.5L. 
+- **Dinâmica de Sais:** Saída começou em 2.500, subiu para 3.200 (pico) e estabilizou em 1.500 (mistura final). 
+- **Objetivo:** Solo "lavado" e pronto para a engorda final sob clima controlado.
+
+## [24/04/2026] - Upgrade de QG
+- **Hardware:** PC novo montado e operacional. 
+- **Genética:** Localizada 01 semente de Grape Juice (Abrapango) para ciclo 2027.
+
+## [24/04/2026] - Log de Logística e Medicação
+- **Hardware:** PC e Ar-Condicionado comprados e em transporte (Previsão: FDS 02/05).
+- **Medicação (Abrapango):** Recebido 10g de **Spritz Indoor** (Perfil Cítrico/Funcional). Foco em bem-estar e controle de ansiedade pré-upgrade.
+- **Manejo Flora:** Radical Juice entra na fase de maturação final. Estratégia de "Janela de Água Pura" em análise para a próxima semana.

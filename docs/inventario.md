@@ -1,8 +1,9 @@
 # 🎒 Inventário de Cultivo - QG Ninja
 
 ## 🧬 Genética e Banco de Sementes
-- [x] **Super Lemon Haze (SLH):** 4 unidades (3 + 1 brinde). *Status: Em germinação (28/03).*
+- [ ] **Super Lemon Haze (SLH):** 4 unidades (3 + 1 brinde). *Status: germinadas (30/03 e 04/04).*
 - [x] **Radical Juice:** Ciclo atual (Sem estoque de sementes).
+- [x] **Grape Cookies:** Semente "brinde" achada no pack da abrapango (Previsão de rodar ela em 2027) 
 
 ## 🧪 Nutrientes e Aditivos
 - **Easycoco Parte A/B:** ~500ml restantes de cada.
@@ -30,3 +31,8 @@
 - [ ] 3x Sacos de Gelo de 5kg (Total 15kg).
 - [ ] 1x Rolo de Papel Manteiga (Qualidade premium).
 - [ ] 2x Galões de 5L de água mineral (Para lavagem final das bags).
+
+## 🏥 ABRAPANGO (Suporte Medicinal)
+- **Spritz Indoor (24/04):** 10g (Notas cítricas, efeito estimulante/funcional).
+- **Grape Cookies:** Estoque remanescente.
+- **Óleo CBD:** Em uso para suporte basal.

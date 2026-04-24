@@ -16,7 +16,9 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 11/04 | 4.0 | 1.300 | **2.800** | 6.1 | 800ml | Retorno de Nutrientes (2g A + 2g B). Setup LED Dark Red. |
 | 13/04 | 4.0 | 1.250 | **2.600** | 6.5 | 500ml | **Rega de Hoje:** Redução gradual do E.C. de saída. |
 | 16/04 | 4.0 | **800** | **2.700** | **6.0** | 500ml | **HOJE:** Solo soltando sais. Planta em consumo alto. |
-| 20/04 | 4.0 | *Alvo: 500* | - | *6.2* | - | **PREVISTA:** Manter E.C baixo para limpar o meio. |
+| 16/04 | 4.0 | 800 | 2.700 | 6.0 | 500ml | Planta em alto consumo. |
+| 21/04 | 4.0 | 700 | 2.000 | 6.0 | 700ml | Estabilização pré-flush. |
+| 23/04 | **4.5** | **700** | **1.500** | **6.0** | **1.5L** | **Flush Corretivo Sucesso.** |
 
 ---
 **Análise Técnica (16/04):**
@@ -28,7 +30,7 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 
 ---
 
-## 🧪 Próxima Rega com Nutrientes (Planejada para 09/04)
+## 🧪 Rega com Nutrientes (Em para 09/04)
 
 Considerando que 5g em 3L resultou em um E.C altíssimo (> 3.000), vamos adotar a estratégia de **Titulação Reversa** para atingir o alvo de **1.200 a 1.400 µS/cm** (entrada leve pós-flush).
 
@@ -64,15 +66,27 @@ Use esta tabela para preparar **3 Litros** de solução nutritiva:
 
 
 ## 📝 Notas de Manejo
-- **[23/03]:** E.C está em equilíbrio perfeito (In=Out). Manter a dose. A umidade de 65% (chuva em Brasília) está dificultando a transpiração.
+**[23/03]:** E.C está em equilíbrio perfeito (In=Out). Manter a dose. A umidade de 65% (chuva em Brasília) está dificultando a transpiração.
 - **Dica de QA:** Se o E.C de saída subir acima de 2.200, realizar rega apenas com água e CalMag na próxima vez.
-- **[30/03]:** UR 55-60% / Temp 23-26ºC (Ambiente ideal). O E.C de saída subiu para 1.900 (acumulou um pouco desde o flush), mas está dentro da margem de segurança. 
+
+**Detalhamento do Flush (23/04):**
+- Fração 1 (500ml): 2.500 µS/cm
+- Fração 2 (500ml): 3.200 µS/cm (Pico de sais acumulados)
+- Fração 3 (250ml): 1.600 µS/cm
+- **Média Final:** 1.500 µS/cm (Solo resetado para a fase final).
+  
+
+**[30/03]:** UR 55-60% / Temp 23-26ºC (Ambiente ideal). O E.C de saída subiu para 1.900 (acumulou um pouco desde o flush), mas está dentro da margem de segurança. 
 - **QA Alert:** As "patas de águia" persistem; a planta ainda está processando o excesso de Nitrogênio anterior. Manter a rega em 1.600 de entrada para não sobrecarregar.
 
-**Análise Técnica (13/04):**
+**[13/04]:**
 - O E.C. de saída baixou 200 pontos, confirmando que a planta está em alto consumo metabólico.
 - A proporção de runoff (12.5%) foi ideal para renovar a solução no substrato sem causar um flush agressivo.
 - As fotos mostram os pistilos começando a oxidar (ficar marrons), sinal claro de maturação avançada.
+
+**[24/04]:**
+Com o solo limpo (E.C 1500) e o Ar Condicionado chegando dia 29, a planta terá o clima perfeito para os últimos 10 dias. 
+- **Estratégia:** Provável transição para água pura (pH 6.0-6.2) a partir da próxima rega para consumir os nutrientes restantes e melhorar o sabor (terpenos).
 
 ---
 
@@ -80,4 +94,4 @@ Use esta tabela para preparar **3 Litros** de solução nutritiva:
 Como você vai desligar às 21h, você vai ter aquela "janela" das 09:00 às 11:00 da manhã para fazer as regas com a luz recém-acesa (que é o horário que a planta mais absorve água). Além disso, às 21h você dá o "boa noite" pra elas antes de dormir.
 
 ---
-*Última sincronização: 09/04/2026*
+*Última sincronização: 24/04/2026*

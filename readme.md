@@ -32,15 +32,21 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **15/04:** 🐣 **Vega:** Ajuste de setup (Remoção de pratos / +10cm distância LED).
 - [x] **16/04:** 🚿 **Flora:** Rega Radical Juice (E.C 800 / Out 2700).
 - [x] **16/04:** 🥣 **Solo:** 3ª Revirada 
-- [ ] **18/04:** 🥣 **Solo:** 4ª Revirada (Previsão técnica).
-- [ ] **18/04:** 💧 **Solo:** Hidratação leve (H2O pura) para manter microbiota.
+- [x] **22/04:** 🛒 **Logística:** Compra do Ar Condicionado Portátil EOS 12k.
+- [x] **23/04:** 🚿 **Flora:** Rega de lavagem (4.5L / E.C Out 1500).
+- [x] **24/04:** 💻 **Hardware:** Compra do novo PC de trabalho/cultivo.
+- [x] **24/04:** 🏥 **Abrapango:** Aporte Spritz Indoor (10g) concluído.
+- [ ] **25/04:** 🚿 **Vega:** Rega das SLH (Previsão de substrato seco).
+- [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado (Target 18°C para secagem).
+- [ ] **25/04 a 28/04:** ⏳ Aguardando chegada do Hardware (PC + AC).
+- [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado no quarto de secagem.
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
-
 
 ---
 
 ## 🗓️ Milestones & Roadmap (Maio 2026)
 
+- [ ] **01/05:** 💻 **Setup:** Montagem e configuração do novo PC de trabalho.
 - [ ] **10/05:** 🪓 **Colheita:** Corte Radical Juice / Transplante SLH.
 - [ ] **10/05:** 🛒 **Logistica:** Compra exaustor (caso precise) e bovedas.
 - [ ] **11/05:** 🎑 **Documentação:** Certificado Embrater "habeas-corpus".
@@ -105,6 +111,9 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 
+## 🧬 Banco de Sementes
+- **Grape Juice (Abrapango):** 1 semente (Reserva 2027).
+- **Jack Herer / Amnesia:** Planejamento Inverno 2026.
 - **Janeiro/2027:** Inicio novo ciclo (estoque radical e SLH cheios).
 
 

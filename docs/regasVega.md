@@ -6,6 +6,8 @@
 | 15/04 | SLH #1/2 | Ajuste Setup | 6.0 | Remoção de pratos e ajuste de LED. |
 | 16/04 | SLH #1 | Manutenção |  |  Amarelo regredindo. 2º par verde escuro. |
 | 16/04 | SLH #2 | Manutenção |  | Saúde 100%. Nós bem próximos. |
+| 16/04 | SLH #1/2 | - | - | Manutenção na umidade. |
+| 25/04 | SLH #1/2 | *Prevista* | H2O + CalMag | 6.0 | Alvo: Re-hidratação do Carolina Soil. |
 
 **Setup Atual:**
 - UR: 85% constante (Névoa 24h).
@@ -30,3 +32,7 @@ Utilizar estas medidas (Easycoco em gramas) assim que o primeiro par de folhas s
 - **Altura:** 50cm do topo do copinho.
 - **Umidade Alvo (Domo):** >80%.
 - **Freq. Borrifação:** 2x ao dia ou conforme secagem do domo.
+
+### Status Visual (24/04):
+- **SLH #2:** 3º par de folhas iniciando. Vigor de Sativa.
+- **SLH #1:** Amarelamento estabilizado, novo topo vindo verde. PCD em recuperação 🥰.
