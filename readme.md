@@ -38,9 +38,8 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **24/04:** 🏥 **Abrapango:** Aporte Spritz Indoor (10g) concluído.
 - [x] **25/04:** 🚿 **Vega:** Rega das SLH (Previsão de substrato seco) - ok 150 ml de agua + calmag.
 - [x] **27/04:** 🚿 **Flora:** Início do Flush (Água Pura). Target: Baixar E.C Out para <1000.
-- [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado (Target 18°C para secagem).
 - [ ] **25/04 a 28/04:** ⏳ Aguardando chegada do Hardware (PC + AC).
-- [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado no quarto de secagem.
+- [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado (Target 18°C para secagem).
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
 
 ---
@@ -52,7 +51,6 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [ ] **10/05:** 🛒 **Logistica:** Compra exaustor (caso precise) e bovedas.
 - [ ] **11/05:** 🎑 **Documentação:** Certificado Embrater "habeas-corpus".
 - [ ] **15/05:** 💎 **Extração:** Ice da radical (previsão 50g a 100g de materia)
-- [ ] **10/05:** 🪓 **COLHEITA:** Radical Juice & Transplante SLH.
 
 
 ---
@@ -92,6 +90,12 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 ## 🏥 ABRAPANGO (Suporte Medicinal)
 - **Pedido (09/04):** Óleo CBD 3000mg + 10g Grape Cookies.
 - **Perfil Grape:** Aroma uva, 60% Sativa / 40% Indica. Foco em criatividade e relaxamento funcional.
+- **Status:** acabou em 22/04.
+
+---
+
+- **Pedido (24/04):** Spritzz Indoor.
+- **Perfil Limão:** Aroma Citrico bem forte e frutada. Efeitos estimulantes e funcionais, favorecendo bem estar e leveza ao longo do dia..
 - **Status:** Recebido e em uso.
 
 ---
