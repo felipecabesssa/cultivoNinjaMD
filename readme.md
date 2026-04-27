@@ -38,7 +38,9 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **24/04:** 🏥 **Abrapango:** Aporte Spritz Indoor (10g) concluído.
 - [x] **25/04:** 🚿 **Vega:** Rega das SLH (Previsão de substrato seco) - ok 150 ml de agua + calmag.
 - [x] **27/04:** 🚿 **Flora:** Início do Flush (Água Pura). Target: Baixar E.C Out para <1000.
-- [ ] **25/04 a 28/04:** ⏳ Aguardando chegada do Hardware (PC + AC).
+- [x] **27/04:** ❄️ **Hardware:** Entrega e instalação do AC Portátil EOS 12.000 BTUs.
+- [ ] **25/04 a 28/04:** ⏳ Aguardando chegada do Hardware (PC + AC (AC - ok)).
+- [ ] **30/04:** 🛠️ **Setup:** Vedação definitiva e otimização do fluxo de ar (Dual AC System).
 - [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado (Target 18°C para secagem).
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
 

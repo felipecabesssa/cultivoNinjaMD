@@ -45,6 +45,12 @@
 
 # 📓 Diário de Cultivo
 
+## [27/04/2026] - Log de Infraestrutura e Climatização
+- **Hardware:** Ar Condicionado EOS 12k ENTREGUE e INSTALADO.
+- **Performance:** Redução de 27°C para 25.8°C em regime inicial (Display: 18°C).
+- **Home-Office:** Monitoramento ativo da curva de temperatura.
+- **Planejamento (Quinta):** Vedação total das saídas e remanejamento do AC Midea para a sala.
+
 ## [27/04/2026] - Log de Maturação e Infra
 - **Flora:** Início oficial do flush (Água pura). Buds com alta densidade de tricomas.
 - **Clima:** Circulação de ar ativa. Janela aberta para troca gasosa durante o dia. 
