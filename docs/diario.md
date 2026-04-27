@@ -24,7 +24,7 @@
 | 22/04 | Infra | 🛒 Comprado | Ar Condicionado EOS 12k (Previsão 29/04). |
 | 23/04 | Flora | 🚿 Regada | **4.5L @ E.C 700 / Out 1.500 (Flush de Manutenção).** |
 | 24/04 | Infra | ✅ PC Novo | Deploy de hardware concluído. Repositório sincronizado. |
-
+| 27/04 | Infra | 🧊 AC Novo | Ar Condicionado EOS 12k BTUs |
 
 ---
 
