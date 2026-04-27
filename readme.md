@@ -36,7 +36,8 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **23/04:** 🚿 **Flora:** Rega de lavagem (4.5L / E.C Out 1500).
 - [x] **24/04:** 💻 **Hardware:** Compra do novo PC de trabalho/cultivo.
 - [x] **24/04:** 🏥 **Abrapango:** Aporte Spritz Indoor (10g) concluído.
-- [ ] **25/04:** 🚿 **Vega:** Rega das SLH (Previsão de substrato seco).
+- [x] **25/04:** 🚿 **Vega:** Rega das SLH (Previsão de substrato seco) - ok 150 ml de agua + calmag.
+- [x] **27/04:** 🚿 **Flora:** Início do Flush (Água Pura). Target: Baixar E.C Out para <1000.
 - [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado (Target 18°C para secagem).
 - [ ] **25/04 a 28/04:** ⏳ Aguardando chegada do Hardware (PC + AC).
 - [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado no quarto de secagem.
@@ -119,4 +120,4 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 *Status: Operacional* | *Hardware: LED 240W x2 + Easycoco + A/C*
-*Última atualização: 166/04/2026 - registros fds (solo, babys slh, compras, ice e planejamento maio).*
+*Última atualização: 27/04/2026 - registros fds (inicio rega só agua na radical).*

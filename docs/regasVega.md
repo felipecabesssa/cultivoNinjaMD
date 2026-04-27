@@ -8,10 +8,15 @@
 | 16/04 | SLH #2 | Manutenção |  | Saúde 100%. Nós bem próximos. |
 | 16/04 | SLH #1/2 | - | - | Manutenção na umidade. |
 | 25/04 | SLH #1/2 | *Prevista* | H2O + CalMag | 6.0 | Alvo: Re-hidratação do Carolina Soil. |
+| 25/04 | SLH #1/2 | 200ml | H2O + CalMag (0.5ml/L) | 6.0 | 500 | PCD 100% recuperada 🥰. Vigor total. |
+| 25/04 | SLH #1/2 | 150ml | H2O + CalMag (0,5ml/L) | 6.0 | **Ação:** Apenas CalMag. Sem base (Easycoco) para evitar overfert. |
 
-**Setup Atual:**
-- UR: 85% constante (Névoa 24h).
-- Próxima Rega: Apenas quando o pote estiver leve (estimado: Sábado 18/04/26).
+**Técnica de Preparo:** - Diluído 0,25ml de CalMag em 500ml de H2O para garantir precisão na dosagem de 150ml/planta.
+
+**Setup Berçário:**
+- UR: ~85% (Ideal para absorção foliar)
+- Temperatura: ~23.5°C (Estável)
+
 
 ## 🧪 Planeamento de Nutrição (Seedling -> Vega)
 Utilizar estas medidas (Easycoco em gramas) assim que o primeiro par de folhas serrilhadas estiver estabilizado.

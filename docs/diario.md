@@ -45,6 +45,11 @@
 
 # 📓 Diário de Cultivo
 
+## [27/04/2026] - Log de Maturação e Infra
+- **Flora:** Início oficial do flush (Água pura). Buds com alta densidade de tricomas.
+- **Clima:** Circulação de ar ativa. Janela aberta para troca gasosa durante o dia. 
+- **Hardware:** Ar-condicionado e PC novo previstos para chegar esta semana. Expectativa de baixar temp para <20°C na secagem.
+
 ## [11/04/2026] - Upgrade de Infraestrutura e Nutrição
 - **Manejo Flora (Radical Juice):** Rega realizada com 4L. O runoff final de 2.800 µS/cm indica que o solo ainda retém reservas minerais, mas está operando em zona segura para a engorda.
 - **Manejo Vega (SLH):** Rega de manutenção de 50ml por planta para manter o Carolina Soil úmido.
@@ -76,3 +81,4 @@
 - **Hardware:** PC e Ar-Condicionado comprados e em transporte (Previsão: FDS 02/05).
 - **Medicação (Abrapango):** Recebido 10g de **Spritz Indoor** (Perfil Cítrico/Funcional). Foco em bem-estar e controle de ansiedade pré-upgrade.
 - **Manejo Flora:** Radical Juice entra na fase de maturação final. Estratégia de "Janela de Água Pura" em análise para a próxima semana.
+
