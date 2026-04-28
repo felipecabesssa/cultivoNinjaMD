@@ -45,6 +45,17 @@
 
 # 📓 Diário de Cultivo
 
+## [28/04/2026] - Log de Hardware e Expectativa
+- **Hardware:** PC (Pichau) com previsão para 08/05. Expectativa de entrega antecipada.
+- **Curiosidade:** Monitorar se a Radical Juice apresenta tons roxos nas "sugar leaves" primeiro.
+
+## [28/04/2026] - Stress Test Térmico (EOS 12k)
+- **Status:** Sucesso total no primeiro ciclo de 24h.
+- **Métricas:** - Noite (LED Off): 19°C (Cravado).
+    - Dia (LED 100% + Sol): 23°C (Peak).
+- **Umidade:** Estabilizada em 50% UR.
+- **Obs Infra:** Ausência de dreno externo; suspeita de auto-evaporação eficiente ou baixa umidade residual.
+
 ## [27/04/2026] - Log de Infraestrutura e Climatização
 - **Hardware:** Ar Condicionado EOS 12k ENTREGUE e INSTALADO.
 - **Performance:** Redução de 27°C para 25.8°C em regime inicial (Display: 18°C).

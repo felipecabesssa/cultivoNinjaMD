@@ -47,5 +47,14 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 2. **10/05:** 🪓 **Colheita** (Corte total e início de secagem a 16-18°C).
 3. **15/05:** 🧊 **Extração Ice-o-Lator** (Alvo: Canoli Ice & Nata Ice).
 
+## 🌈 Monitoramento de Fenótipo (Choque Térmico)
+- **Início:** 27/04 (Instalação do AC).
+- **Efeito:** Temperaturas abaixo de 20°C durante o escuro devem iniciar a degradação da clorofila e realce de tons roxos/escuros nos próximos 5-7 dias.
+
+## 🧬 Potencial de Coloração (Update 28/04)
+- **Status:** Choque térmico ativo (Delta T de 8°C entre dia/noite).
+- **Expectativa:** Pigmentação por Antocianina. Os tons roxos devem começar a contrastar com os pistilos brancos/laranjas na próxima semana.
+- **Ação:** Monitorar tricomas via macro para garantir que o frio não atrase demais a maturação (o frio preserva, mas desacelera levemente o metabolismo).
+
 ---
 *Status: Maturação Final | Documentação by Gemini Ninja*

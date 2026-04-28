@@ -41,7 +41,6 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **27/04:** ❄️ **Hardware:** Entrega e instalação do AC Portátil EOS 12.000 BTUs.
 - [ ] **25/04 a 28/04:** ⏳ Aguardando chegada do Hardware (PC + AC (AC - ok)).
 - [ ] **30/04:** 🛠️ **Setup:** Vedação definitiva e otimização do fluxo de ar (Dual AC System).
-- [ ] **29/04:** ❄️ **Instalação:** Setup do Ar Condicionado (Target 18°C para secagem).
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
 
 ---
@@ -61,14 +60,15 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 ## 🚀 Projetos em Execução
 
 ### 🐣 Projeto Super Lemon Haze (Vega)
-- **Status:** Estabilizado. SLH #1 e #2 em desenvolvimento do segundo par de folhas serrilhadas.
+- **Status:** Estabilizado. SLH #1 e #2 em desenvolvimento do terceiro par de folhas serrilhadas.
 - **Fase:** Seedling / Vegetativo Inicial.
 - **Setup:** LED 240W Pro-Mid @ 20% | 60cm de altura | Ciclo 18/6.
 - **Manejo:** Umidificador 24h (Target: 80% - 90% UR).
 
 ### 🍇 Projeto Radical Juice (Flora)
 - **Status:** Engorda final e maturação de tricomas.
-- **Data do Flip (12/12):** 16/02/2026 (Dia 54 de Flora).
+- **Data do Flip (12/12):** 16/02/2026 (Dia 70 dias de Flora (Em 28/04/2026)).
+- **Primeiros pistilos:** 03/03/2026 (conta 9 semanas a partir daqui pra colheita - janela (02/05 a 15/05))
 - **Previsão de Colheita:** 10/05/2026.
 - **Setup:** LED 240W Pro-Master Dark Red @ 70% | 50cm de altura.
 
@@ -85,6 +85,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 ## 🌱 Solo & Substrato (Cozimento)
 - **Volume:** 40L de mix em processo de quebra orgânica.
 - **Manejo nº 3 (15/04):** Hidratação com 3L de água (manutenção de umidade).
+- **Mudança de abordagem:** Em 20/04 decisão por no-till (sem necessidade de ficar revirando).
 - **Pronto para uso:** 10/05 (Transplante das SLH).
 
 ---
@@ -126,4 +127,4 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 *Status: Operacional* | *Hardware: LED 240W x2 + Easycoco + A/C*
-*Última atualização: 27/04/2026 - registros fds (inicio rega só agua na radical).*
+*Última atualização: 28/04/2026 - registros fds (inicio rega só agua na radical).*
