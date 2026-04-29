@@ -49,6 +49,9 @@
 - **Clima:** 22°C (Dia) / 18°C (Noite). Estabilidade térmica 100%.
 - **Manejo:** Rega com 4.5L de água pura. Sucesso na redução do E.C. de saída.
 - **Visual:** Monitoramento de cores ativo. Expectativa de mudança cromática para o FDS.
+- **Infraestrutura:** Vedação do AC avaliada em 95%. Ajuste fino postergado para sábado.
+- **Vega (SLH):** Realizada primeira rega com nutrição base leve (E.C 450). Plantas demonstrando forte vigor vegetativo.
+- **Flora:** Reta final mantida sob controle térmico rigoroso.
 
 ## [28/04/2026] - Log de Hardware e Expectativa
 - **Hardware:** PC (Pichau) com previsão para 08/05. Expectativa de entrega antecipada.
