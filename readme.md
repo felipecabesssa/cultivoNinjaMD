@@ -39,15 +39,16 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **25/04:** 🚿 **Vega:** Rega das SLH (Previsão de substrato seco) - ok 150 ml de agua + calmag.
 - [x] **27/04:** 🚿 **Flora:** Início do Flush (Água Pura). Target: Baixar E.C Out para <1000.
 - [x] **27/04:** ❄️ **Hardware:** Entrega e instalação do AC Portátil EOS 12.000 BTUs.
-- [ ] **25/04 a 28/04:** ⏳ Aguardando chegada do Hardware (PC + AC (AC - ok)).
-- [ ] **30/04:** 🛠️ **Setup:** Vedação definitiva e otimização do fluxo de ar (Dual AC System).
+- [x] **29/04:** 🚿 **Flora:** 2ª Rega de Flush. E.C Out abaixo de 2000.
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
 
 ---
 
 ## 🗓️ Milestones & Roadmap (Maio 2026)
 
-- [ ] **01/05:** 💻 **Setup:** Montagem e configuração do novo PC de trabalho.
+- [ ] **02/05:** 💻 **Setup:** Montagem e configuração do novo PC de trabalho.
+- [ ] **02/05:** 🛠️ **Setup:** Vedação definitiva e otimização do fluxo de ar (Dual AC System).
+- [ ] **03/05:** 🌈 **Visual:** Checkpoint de coloração (Antocianina).
 - [ ] **10/05:** 🪓 **Colheita:** Corte Radical Juice / Transplante SLH.
 - [ ] **10/05:** 🛒 **Logistica:** Compra exaustor (caso precise) e bovedas.
 - [ ] **11/05:** 🎑 **Documentação:** Certificado Embrater "habeas-corpus".

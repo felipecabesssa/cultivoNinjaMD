@@ -45,6 +45,11 @@
 
 # 📓 Diário de Cultivo
 
+## [29/04/2026] - Log de Climatização e Flush
+- **Clima:** 22°C (Dia) / 18°C (Noite). Estabilidade térmica 100%.
+- **Manejo:** Rega com 4.5L de água pura. Sucesso na redução do E.C. de saída.
+- **Visual:** Monitoramento de cores ativo. Expectativa de mudança cromática para o FDS.
+
 ## [28/04/2026] - Log de Hardware e Expectativa
 - **Hardware:** PC (Pichau) com previsão para 08/05. Expectativa de entrega antecipada.
 - **Curiosidade:** Monitorar se a Radical Juice apresenta tons roxos nas "sugar leaves" primeiro.

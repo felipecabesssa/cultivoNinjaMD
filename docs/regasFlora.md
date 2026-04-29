@@ -21,6 +21,9 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 23/04 | **4.5** | **700** | **1.500** | **6.0** | **1.5L** | **Flush Corretivo Sucesso.** |
 | 25/04 | 4.0 | 500 | 2.200 | 6.0 | 1.0L | **Ajuste:** LED 100% / 30cm. Monitorar estresse. |
 | 27/04 | 4.0 | **0 (H2O)** | **2.500** | 6.2 | 700ml | Início do flush final. Solo ainda carregado. |
+| 29/04 | 4.5 | 0 (H2O) | **1.890** | 6.0 | 700ml | **Flush Ativo:** Redução drástica de sais (2500 -> 1890). |
+
+**Status (29/04):** Planta iniciando consumo de reservas internas. Manter apenas água.
 
 **Análise Técnica (27/04):** Mesmo com entrada de E.C 0, a saída subiu. Solo em processo de lixiviação. Manter apenas água.
 ---
