@@ -25,6 +25,7 @@
 | 23/04 | Flora | 🚿 Regada | **4.5L @ E.C 700 / Out 1.500 (Flush de Manutenção).** |
 | 24/04 | Infra | ✅ PC Novo | Deploy de hardware concluído. Repositório sincronizado. |
 | 27/04 | Infra | 🧊 AC Novo | Ar Condicionado EOS 12k BTUs |
+| 30/04 | Infra | 💻 PC Novo | Entregue, instalação e configuração a noite |
 
 ---
 
@@ -44,6 +45,11 @@
 - [x] Status: Finalizado ICE canoli em 08/04/2026
 
 # 📓 Diário de Cultivo
+
+## [30/04/2026] - O Grande Dia (Hardware e Feriadão)
+- **Logística:** PC Novo (Ryzen, 32GB RAM, RTX) ENTREGUE COM SUCESSO! 
+- **Rotina:** Aguardando o fim do expediente presencial para o "unboxing" e setup da central de comando.
+- **Botânica:** Expectativa altíssima para o feriado. Ar-condicionado mantendo o microclima de montanha e contagem regressiva para a ativação da antocianina (tons roxos) na Radical Juice.
 
 ## [29/04/2026] - Log de Climatização e Flush
 - **Clima:** 22°C (Dia) / 18°C (Noite). Estabilidade térmica 100%.

@@ -41,6 +41,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **27/04:** ❄️ **Hardware:** Entrega e instalação do AC Portátil EOS 12.000 BTUs.
 - [x] **29/04:** 🚿 **Flora:** 2ª Rega de Flush. E.C Out abaixo de 2000.
 - [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
+- [x] **30/04:** 💻 **Setup:** PC Novo Entregue! Fim da espera, início da nova era do QG Ninja.
 
 ---
 

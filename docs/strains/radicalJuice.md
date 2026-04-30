@@ -57,4 +57,12 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 - **Ação:** Monitorar tricomas via macro para garantir que o frio não atrase demais a maturação (o frio preserva, mas desacelera levemente o metabolismo).
 
 ---
+
+## 🌈 Checkpoint Feriado do Trabalhador (01/05)
+- **Status:** Quarto ciclo de escuro sob 18°C-19°C.
+- **Ação:** Iniciar documentação fotográfica diária das "sugar leaves". A mudança de cor deve começar como um leve contorno escuro/púrpura nas bordas serrilhadas.
+
+---
+
+
 *Status: Maturação Final | Documentação by Gemini Ninja*
