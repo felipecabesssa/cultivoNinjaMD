@@ -46,6 +46,11 @@
 
 # 📓 Diário de Cultivo
 
+## [02/05/2026] - Primeiro Commit do PC Novo e Maturação Final
+- **Infraestrutura:** Primeiro acesso e commit realizados a partir do novo setup (Ryzen/RTX). 
+- **Flora (Radical Juice):** Rega de flush executada com sucesso. E.C de saída em 1.100.
+- **Botânica:** Flores apresentando aumento significativo de densidade e cobertura de tricomas. Pigmentação roxa (antocianina) ainda em modo de espera, porém o estresse térmico positivo é evidente na resina.
+
 ## [30/04/2026] - O Grande Dia (Hardware e Feriadão)
 - **Logística:** PC Novo (Ryzen, 32GB RAM, RTX) ENTREGUE COM SUCESSO! 
 - **Rotina:** Aguardando o fim do expediente presencial para o "unboxing" e setup da central de comando.

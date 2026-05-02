@@ -62,7 +62,10 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 - **Status:** Quarto ciclo de escuro sob 18°C-19°C.
 - **Ação:** Iniciar documentação fotográfica diária das "sugar leaves". A mudança de cor deve começar como um leve contorno escuro/púrpura nas bordas serrilhadas.
 
+## 🌈 Monitoramento de Fenótipo e Maturação (02/05)
+- **Desenvolvimento:** Aumento notório na densidade dos cálices e na produção de tricomas glandulares (resina). 
+- **Pigmentação:** Clorofila ainda predominante nas folhas. O "fade" cromático deve se intensificar na última semana antes da colheita (prevista para 10/05), acompanhando a queda do E.C no solo.
+
 ---
 
-
-*Status: Maturação Final | Documentação by Gemini Ninja*
+*Status: Maturação Final | Documentação by Gem Ninja*
