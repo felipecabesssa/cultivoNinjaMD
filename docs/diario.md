@@ -23,9 +23,10 @@
 | 22/04 | Infra | 🚨 Crise | Monitor 27" riscado; RAM Single Channel. Golpe AC evitado. |
 | 22/04 | Infra | 🛒 Comprado | Ar Condicionado EOS 12k (Previsão 29/04). |
 | 23/04 | Flora | 🚿 Regada | **4.5L @ E.C 700 / Out 1.500 (Flush de Manutenção).** |
-| 24/04 | Infra | ✅ PC Novo | Deploy de hardware concluído. Repositório sincronizado. |
+| 24/04 | Infra | 💻 PC Novo | Deploy de hardware concluído. Repositório sincronizado. |
 | 27/04 | Infra | 🧊 AC Novo | Ar Condicionado EOS 12k BTUs |
 | 30/04 | Infra | 💻 PC Novo | Entregue, instalação e configuração a noite |
+| 02/05 | Infra | 💻 PC Novo | Configurado e primeiro commit feito |
 
 ---
 
@@ -45,6 +46,12 @@
 - [x] Status: Finalizado ICE canoli em 08/04/2026
 
 # 📓 Diário de Cultivo
+
+## [02/05/2026] - Relatório de Incidente de Infraestrutura
+- **Evento:** Falha na régua de energia do AC Portátil às 14:00h (aprox.).
+- **Impacto Térmico:** Temperatura subiu de 23°C para 27°C por curto período.
+- **Ação:** Troca da régua e tomada. Clima restabelecido para 23°C em menos de 1h.
+- **Avaliação Botânica:** Sem danos aparentes. Resina e densidade mantidas.
 
 ## [02/05/2026] - Primeiro Commit do PC Novo e Maturação Final
 - **Infraestrutura:** Primeiro acesso e commit realizados a partir do novo setup (Ryzen/RTX). 
