@@ -47,9 +47,9 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ## 🗓️ Milestones & Roadmap (Maio 2026)
 
-- [ ] **02/05:** 💻 **Setup:** Montagem e configuração do novo PC de trabalho.
-- [ ] **02/05:** 🛠️ **Setup:** Vedação definitiva e otimização do fluxo de ar (Dual AC System).
-- [ ] **03/05:** 🌈 **Visual:** Checkpoint de coloração (Antocianina).
+- [x] **02/05:** 💻 **Setup:** Montagem e configuração do novo PC de trabalho.
+- [x] **02/05:** 🛠️ **Setup:** Vedação definitiva e otimização do fluxo de ar (Dual AC System).
+- [x] **03/05:** 🌈 **Visual:** Checkpoint de coloração (Antocianina) - ainda sem roxitude.
 - [ ] **10/05:** 🪓 **Colheita:** Corte Radical Juice / Transplante SLH.
 - [ ] **10/05:** 🛒 **Logistica:** Compra exaustor (caso precise) e bovedas.
 - [ ] **11/05:** 🎑 **Documentação:** Certificado Embrater "habeas-corpus".
@@ -129,4 +129,4 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 *Status: Operacional* | *Hardware: LED 240W x2 + Easycoco + A/C*
-*Última atualização: 28/04/2026 - registros fds (inicio rega só agua na radical).*
+*Última atualização: 04/05/2026 - quinto flush da radical só com agua pura declorada - EC saida 1.300 ainda.*
