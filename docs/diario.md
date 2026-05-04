@@ -47,6 +47,11 @@
 
 # 📓 Diário de Cultivo
 
+## [04/05/2026] - Log de Reta Final
+- **Flora (Radical Juice):** Quinta rega de flush. E.C de saída em 1.300. 
+- **Maturação:** Flores seguem ganhando densidade. Monitoramento de tricomas intensificado para a janela de colheita (10/05).
+- **Infra:** Ambiente estabilizado com AC.
+
 ## [02/05/2026] - Relatório de Incidente de Infraestrutura
 - **Evento:** Falha na régua de energia do AC Portátil às 14:00h (aprox.).
 - **Impacto Térmico:** Temperatura subiu de 23°C para 27°C por curto período.

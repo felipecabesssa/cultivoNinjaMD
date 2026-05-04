@@ -22,7 +22,8 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 25/04 | 4.0 | 500 | 2.200 | 6.0 | 1.0L | **Ajuste:** LED 100% / 30cm. Monitorar estresse. |
 | 27/04 | 4.0 | 0.0 | 2.500 | 6.2 | 700ml | Início do flush final. Solo ainda carregado. |
 | 29/04 | 4.5 | 0.0 | 1.890 | 6.0 | 700ml | **Flush Ativo:** Redução drástica de sais (2500 -> 1890). |
-| 02/05 | 4.5 | 0.0 | **1.100** | 6.0 | 500ml | **Flush Consolidado:** Solo quase totalmente limpo (Meta <1000). |
+| 02/05 | 4.5 | 0.0 | 1.100 | 6.0 | 500ml | Flush consolidado. |
+| 04/05 | 4.0 | 0.0 | **1.300** | 6.2 | 500ml | **Flutuação de Saída:** Sais remanescentes sendo lavados. Manter H2O pura. |
 
 **Análise Técnica (02/05):** A lavagem do substrato está sendo extremamente eficaz. A planta respondeu ao estresse térmico aumentando a densidade das flores e a produção de resina foliar.
 
