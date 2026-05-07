@@ -47,6 +47,11 @@
 
 # 📓 Diário de Cultivo
 
+## [06/05/2026] - Log de Performance Climática
+- **Clima Externo:** Queda de temperatura em Brasília favorecendo o ar-condicionado.
+- **Performance:** Recorde de 17°C registrado durante a madrugada (LED Off). 
+- **Observação:** AC demonstrando capacidade de resfriamento abaixo do setpoint do visor (18°C). Ambiente operando em nível de frigorífico ideal para preservação de terpenos.
+
 ## [06/05/2026] - Log de Raízes e Sprint Final
 - **Vega (SLH #1):** Raízes visíveis na lateral do pote. Recuperação pós-overfert confirmada pelo vigor radicular. 
 - **Flora (Radical Juice):** LED rebaixado para maximizar densidade final. Início sutil de coloração púrpura (antocianina) detectado.
