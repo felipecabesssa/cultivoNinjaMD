@@ -47,6 +47,11 @@
 
 # 📓 Diário de Cultivo
 
+## [06/05/2026] - Log de Maturidade e Preparação
+- **Botânica:** Análise via macro confirma maturidade leiteosa ideal. 
+- **Infra:** Preparar acessórios de secagem (tesouras, redes, potes) para o final de semana.
+- **Vega:** SLH em recuperação estável (Rega detox realizada).
+
 ## [04/05/2026] - Log de Reta Final
 - **Flora (Radical Juice):** Quinta rega de flush. E.C de saída em 1.300. 
 - **Maturação:** Flores seguem ganhando densidade. Monitoramento de tricomas intensificado para a janela de colheita (10/05).

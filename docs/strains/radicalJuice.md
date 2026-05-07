@@ -66,6 +66,11 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 - **Desenvolvimento:** Aumento notório na densidade dos cálices e na produção de tricomas glandulares (resina). 
 - **Pigmentação:** Clorofila ainda predominante nas folhas. O "fade" cromático deve se intensificar na última semana antes da colheita (prevista para 10/05), acompanhando a queda do E.C no solo.
 
+## 🔬 Monitoramento de Tricomas (06/05)
+- **Status:** Janela de colheita aberta. 
+- **Morfologia:** 98% leitosos / ~2% âmbar incipiente. 
+- **Decisão:** Manter a planta no escuro ou regime de luz baixa nos últimos 2 dias para potencializar a resina. Corte confirmado para 10/05.
+
 ---
 
 *Status: Maturação Final | Documentação by Gem Ninja*
