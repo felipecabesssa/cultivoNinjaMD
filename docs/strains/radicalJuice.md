@@ -71,6 +71,10 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 - **Morfologia:** 98% leitosos / ~2% âmbar incipiente. 
 - **Decisão:** Manter a planta no escuro ou regime de luz baixa nos últimos 2 dias para potencializar a resina. Corte confirmado para 10/05.
 
+## 🌈 Monitoramento de Fenótipo (06/05)
+- **Cores:** Transição de clorofila para tons escuros iniciada nas sugar leaves. 
+- **Iluminação:** Intensidade máxima aplicada para estimular a maturação final dos tricomas.
+
 ---
 
 *Status: Maturação Final | Documentação by Gem Ninja*

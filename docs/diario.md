@@ -47,6 +47,11 @@
 
 # 📓 Diário de Cultivo
 
+## [06/05/2026] - Log de Raízes e Sprint Final
+- **Vega (SLH #1):** Raízes visíveis na lateral do pote. Recuperação pós-overfert confirmada pelo vigor radicular. 
+- **Flora (Radical Juice):** LED rebaixado para maximizar densidade final. Início sutil de coloração púrpura (antocianina) detectado.
+- **Manejo:** Preparação para o "Dia D" (10/05) - Colheita e Transplante.
+
 ## [06/05/2026] - Log de Maturidade e Preparação
 - **Botânica:** Análise via macro confirma maturidade leiteosa ideal. 
 - **Infra:** Preparar acessórios de secagem (tesouras, redes, potes) para o final de semana.
