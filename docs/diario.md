@@ -47,6 +47,18 @@
 
 # 📓 Diário de Cultivo
 
+## [09/05/2026] - Log de Contingência e Pivot
+- **Flora (Radical Juice):** Maturação em 40% âmbar / 60% leitoso. Decisão de estender por mais 48-72h para tentar o reparo do AC EOS.
+- **Hardware:** Manutenção do AC agendada para segunda-feira.
+- **Vega (SLH):** Transplante para 20L confirmado para amanhã (10/05). Foco total no novo ciclo.
+- **Obs:** Teste de amostragem (secagem rápida) iniciado.
+
+## [09/05/2026] - Operação Contingência Ativada
+- **Status AC:** EOS inoperante; Midea instalado e operando.
+- **Setpoints:** LED reduzido para 40%; Meta térmica de 24°C para o ciclo noturno.
+- **Moral:** Recuperando após "medicamento emergencial". 
+- **Ação:** Análise de tricomas via microscópio em andamento para decisão final de colheita.
+
 ## [09/05/2026] - Falha de Hardware e Plano B
 - **Incidente:** Tomada derretida por arco elétrico. AC EOS inoperante (possível proteção térmica/fusível).
 - **Controle de Danos:** Instalação do AC Midea (Reserva) para manter ~23°C.
