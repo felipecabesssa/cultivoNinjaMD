@@ -47,6 +47,22 @@
 
 # 📓 Diário de Cultivo
 
+## [11/05/2026] - Colheita da Radical Juice (Commit Final)
+- **QA:** Análise de micro confirmo os cálices em 15% âmbar. Perfil de efeito energético/cerebral preservado.
+- **Logística:** Preparar tesouras, álcool e local de secagem para a madrugada.
+
+## 🔬 Monitoramento Final de Tricomas (11/05)
+- **Status:** Ponto de colheita ideal atingido.
+- **Cálices:** 85% Leitosos / 15% Âmbar. Zero Transparentes.
+- **Fenótipo:** Bud denso com cobertura máxima de tricomas glandulares. 
+- **Ação:** Corte confirmado para esta madrugada (dia 11 para 12/05).
+
+## [10/05/2026] - Log de Estabilidade e Transplante
+- **Clima:** Midea segurando 21°C/53% UR. Ambiente nominal para maturação.
+- **Hardware:** EOS aguardando manutenção (Suspeita: trava de segurança por dreno/umidade).
+- **Vega:** Dia de transplante das SLH para vasos de 20L. 
+- **Flora:** Radical Juice em sprint final de maturação (40% âmbar).
+
 ## [09/05/2026] - Log de Contingência e Pivot
 - **Flora (Radical Juice):** Maturação em 40% âmbar / 60% leitoso. Decisão de estender por mais 48-72h para tentar o reparo do AC EOS.
 - **Hardware:** Manutenção do AC agendada para segunda-feira.

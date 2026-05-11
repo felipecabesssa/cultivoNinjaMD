@@ -15,6 +15,31 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 | **Luz** | 🌞 Pro-Master 240W + 60W |  🌑 Escuro absoluto 24hs | 🌞 Pro-Mid 240W |
 | **Clima** | ❄️ 17°C ~ 23°C (Estável) | ✅ UR 85% Umidificador 24h |
 | **Saúde** | 🧊 Maturação Máxima | 🌱 SLH #1: Raízes Visíveis / SLH #2: Vigorosa |
+| **PCD** | Super Lemon Haze #1 | Seedling | Recuperação | - | Sala (Veg) |
+| **SLH** | Super Lemon Haze #2 | Seedling | Vigorosa | - | Sala (Veg) |
+| **RJ** | Radical Juice | **Colheita** | **TRICOMAS 15% ÂMBAR** | **500** | Quarto (Gelo) |
+
+---
+
+## 🚀 Log de Progresso (Últimas 24h)
+
+### [11/05/2026] - O "Release Day"
+- **Moral:** 110% (Orgulho e Conquista Máxima). 
+- **Setup:** PC novo operacional. Ar-condicionado segurando 21°C.
+- **Análise Final:** Prints de micro confirmam 15% âmbar nos cálices. Ponto de colheita exato.
+- **Ação do Dia:** Flush final com E.C 500. Colheita programada para a madrugada (dia 11 para 12/05).
+- **Medicamento:** Teste da amostra de secagem rápida (modem) aprovado. 
+
+### [Próximos Passos - Deploy]
+- **12/05 (Madruga):** Corte da Radical Juice e início da secagem. 
+- **12/05 (Manhã):** Transplante das SLH para vasos de 20L (Argila + Carolina Soil).
+
+---
+
+## 📋 Protocolos de Manejo
+
+- **Colheita (Radical Juice):** Corte no escuro; Secagem a 18°C-21°C e 55% UR.
+- **Vega (SLH):** Manter UR > 80% até o transplante. Água pura com CalMag (0.2ml/L).
 
 ---
 
