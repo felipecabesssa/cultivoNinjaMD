@@ -47,6 +47,11 @@
 
 # 📓 Diário de Cultivo
 
+## [07/05/2026] - Log de Decisão Técnica
+- **Flora (Radical Juice):** Janela de colheita mantida para abertura em 10/05, mas com possibilidade de extensão de maturação (estratégia de "aguardar e observar").
+- **Vega (SLH #1 e #2):** Transplante confirmado para o fim de semana. Objetivo: eliminar o gargalo radicular do copinho de 200ml.
+- **Clima:** Estabilidade total no QG (17°C - 23°C).
+
 ## [06/05/2026] - Log de Performance Climática
 - **Clima Externo:** Queda de temperatura em Brasília favorecendo o ar-condicionado.
 - **Performance:** Recorde de 17°C registrado durante a madrugada (LED Off). 

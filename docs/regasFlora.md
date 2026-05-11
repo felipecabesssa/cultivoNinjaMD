@@ -25,6 +25,8 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 02/05 | 4.5 | 0.0 | 1.100 | 6.0 | 500ml | Flush consolidado. |
 | 04/05 | 4.0 | 0.0 | **1.300** | 6.2 | 500ml | **Flutuação de Saída:** Sais remanescentes sendo lavados. Manter H2O pura. |
 
+**Ação Pró-Transplante:** Próxima rega das babys será apenas com água pura e CalMag para garantir que entrem no solo novo "limpas" e sem estresse de nutrientes.
+
 **Análise Técnica (02/05):** A lavagem do substrato está sendo extremamente eficaz. A planta respondeu ao estresse térmico aumentando a densidade das flores e a produção de resina foliar.
 
 **Status (29/04):** Planta iniciando consumo de reservas internas. Manter apenas água.
