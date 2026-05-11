@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [09/05/2026] - Falha de Hardware e Plano B
+- **Incidente:** Tomada derretida por arco elétrico. AC EOS inoperante (possível proteção térmica/fusível).
+- **Controle de Danos:** Instalação do AC Midea (Reserva) para manter ~23°C.
+- **Botânica:** Radical Juice em estágio avançado. Coloração roxa preservada.
+- **Ação:** Monitorar estabilidade com AC reserva. Decisão de colheita mantida para 10/05 ou 11/05.
+
 ## [09/05/2026] - Incidente Crítico de Infraestrutura
 - **Evento:** Segunda falha de desligamento do AC Portátil EOS.
 - **Status:** Tensão térmica (28°C). Troca de tomadas não resolveu imediatamente.
