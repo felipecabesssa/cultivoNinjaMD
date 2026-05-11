@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [09/05/2026] - Incidente Crítico de Infraestrutura
+- **Evento:** Segunda falha de desligamento do AC Portátil EOS.
+- **Status:** Tensão térmica (28°C). Troca de tomadas não resolveu imediatamente.
+- **Ação:** Troubleshooting de hardware em andamento (reset de placa e check de dreno).
+- **Impacto:** Stress térmico moderado na Radical Juice e nas babys SLH.
+
 ## [08/05/2026] - Log de Logística de Regas
 - **Flora (Radical Juice):** Realizado pré-flush. Maturação cromática (roxo) se intensificando sob 17°C/22°C.
 - **Vega (SLH):** Rega detox leve. Transplante para vasos de 20L programado para amanhã (09/05).
