@@ -47,6 +47,11 @@
 
 # 📓 Diário de Cultivo
 
+## [08/05/2026] - Log de Pigmentação e Clima
+- **Evento:** Sucesso na indução de antocianina via choque térmico (17°C madruga).
+- **Visual:** Flores apresentando tons roxos vibrantes. 
+- **Planejamento:** Manter o frio rigoroso no ciclo de escuro para consolidar a cor até a colheita.
+
 ## [07/05/2026] - Log de Decisão Técnica
 - **Flora (Radical Juice):** Janela de colheita mantida para abertura em 10/05, mas com possibilidade de extensão de maturação (estratégia de "aguardar e observar").
 - **Vega (SLH #1 e #2):** Transplante confirmado para o fim de semana. Objetivo: eliminar o gargalo radicular do copinho de 200ml.

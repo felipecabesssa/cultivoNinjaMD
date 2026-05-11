@@ -75,6 +75,11 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 - **Cores:** Transição de clorofila para tons escuros iniciada nas sugar leaves. 
 - **Iluminação:** Intensidade máxima aplicada para estimular a maturação final dos tricomas.
 
+## 🌈 Monitoramento de Fenótipo (08/05)
+- **Cores:** Início da "Roxitude" confirmado. Pigmentação púrpura intensa nas sugar leaves e cálices superiores.
+- **Resina:** Densidade de tricomas em nível máximo. 
+- **Status:** Estética de colheita atingindo o pico.
+
 ---
 
 *Status: Maturação Final | Documentação by Gem Ninja*
