@@ -47,6 +47,10 @@
 
 # 📓 Diário de Cultivo
 
+## [08/05/2026] - Log de Logística de Regas
+- **Flora (Radical Juice):** Realizado pré-flush. Maturação cromática (roxo) se intensificando sob 17°C/22°C.
+- **Vega (SLH):** Rega detox leve. Transplante para vasos de 20L programado para amanhã (09/05).
+
 ## [08/05/2026] - Log de Pigmentação e Clima
 - **Evento:** Sucesso na indução de antocianina via choque térmico (17°C madruga).
 - **Visual:** Flores apresentando tons roxos vibrantes. 

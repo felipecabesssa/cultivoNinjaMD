@@ -24,6 +24,7 @@ Este arquivo serve como o banco de dados de performance do solo e absorção de 
 | 29/04 | 4.5 | 0.0 | 1.890 | 6.0 | 700ml | **Flush Ativo:** Redução drástica de sais (2500 -> 1890). |
 | 02/05 | 4.5 | 0.0 | 1.100 | 6.0 | 500ml | Flush consolidado. |
 | 04/05 | 4.0 | 0.0 | **1.300** | 6.2 | 500ml | **Flutuação de Saída:** Sais remanescentes sendo lavados. Manter H2O pura. |
+| 08/05 | 2.5 | 0 (H2O) | - | 6.2 | - | **Flush Parcial:** Falta de água pura. Completar rega amanhã para medir Runoff. |
 
 **Ação Pró-Transplante:** Próxima rega das babys será apenas com água pura e CalMag para garantir que entrem no solo novo "limpas" e sem estresse de nutrientes.
 
