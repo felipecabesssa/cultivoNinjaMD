@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [13/05/2026] - Log de Extração (Preparação)
+- **Matéria-prima:** 75g de Radical Juice (Pipocas + Sugar Leaves).
+- **Status:** Congelado (Fresh Frozen).
+- **Projeção:** 3g a 5g de Bubble Hash (Ice).
+- **Data da Bateção:** Final de semana (16/05 ou 17/05).
+
 ## [13/05/2026] - Log de Pós-Operação
 - **Status:** Faxina geral concluída. QG operacional e limpo.
 - **Plano:** Coleta de pipocas/trimma para Fresh Frozen postergada para 14/05 (Recuperação física).

@@ -80,12 +80,17 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 - **Resina:** Densidade de tricomas em nível máximo. 
 - **Status:** Estética de colheita atingindo o pico.
 
-## ✂ COLHEITAAAAAAAAAAA (10/05)
+## ✂ COLHEITAAAAAAAAAAA (12/05)
 
 - **Tricomas:** 85% leitoso, 15% ambar, zero transparentes (imaturos)
 - **Flush final:** Feito com perfeição, ultimo runoof EC 500
 - **Consumo final das folhas e solo:** Perfeito tbem, folhas murchas e solo limpo (EC 500)
 - **Antocianina:** Roxitude de 5% qndo tava começando a itensificar a roxidão, tivemos problemas no ac subindo a temperatura =/ 
+
+## 🧊 Subprodutos e Extrações
+- **Peso Fresco p/ Ice:** 75g.
+- **Método:** Ice-o-Lator (Fresh Frozen).
+- **Objetivo:** Produção de "Radical Ice" para estoque de inverno.
 
 ---
 
