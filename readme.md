@@ -5,155 +5,83 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 
-## 📈 Status Atual: Floração Final (Radical Juice) & Seedling (SLH)
+## 📈 Status Atual: Secagem (Radical Juice) & Vegetativo (SLH)
 
-| Parâmetro | Flora (Quarto) | Secagem (Grow no Quarto) | Vega (Sala) |
-| :--- | :--- | :--- | :--- |
-| **Clima** | ✅ UR 55% / 25°C (A.C On) |   🌪 Desumidificador EOS | ✅ UR 85% Umidificador 24h |
-| **Saúde** | E.C Saída: 2.800 (Nutrição ativa) | Aguardando | 🌱 Rising: SLH buscando luz |
-| **Status** | 🚿 Regada (11/04) - 4L H2O | Prevista para 10/05 | 🚀 Setup 100% Concluído |
-| **Luz** | 🌞 Pro-Master 240W + 60W |  🌑 Escuro absoluto 24hs | 🌞 Pro-Mid 240W |
-| **Clima** | ❄️ 17°C ~ 23°C (Estável) | ✅ UR 85% Umidificador 24h |
-| **Saúde** | 🧊 Maturação Máxima | 🌱 SLH #1: Raízes Visíveis / SLH #2: Vigorosa |
-| **PCD** | Super Lemon Haze #1 | Seedling | Recuperação | - | Sala (Veg) |
-| **SLH** | Super Lemon Haze #2 | Seedling | Vigorosa | - | Sala (Veg) |
-| **RJ** | Radical Juice | **Colheita** | **TRICOMAS 15% ÂMBAR** | **500** | Quarto (Gelo) |
+| Parâmetro | Secagem (Grow no Quarto) | Vega (Sala - "Mansões de Luxo") |
+| :--- | :--- | :--- |
+| **Clima** | ❄️ 21°C ~ 24°C / UR 53% (Midea On) | ✅ UR 85% Umidificador 24h |
+| **Saúde** | 🧊 Maturação Máxima (15% Âmbar) | 🌱 SLH #1 & #2: Pós-Transplante |
+| **Status** | 🪓 Colhida (12/05) - Planta Inteira | 🚀 Transplante p/ 20L Concluído (12/05) |
+| **Luz** | 🌑 Escuro absoluto 24hs | 🌞 Pro-Mid 240W @ 30% |
+| **Nutrição** | Flush Finalizado (E.C Out 500) | Bokashi + CalMag (Rega de Assentamento) |
 
 ---
 
 ## 🚀 Log de Progresso (Últimas 24h)
 
-### [11/05/2026] - O "Release Day"
-- **Moral:** 110% (Orgulho e Conquista Máxima). 
-- **Setup:** PC novo operacional. Ar-condicionado segurando 21°C.
-- **Análise Final:** Prints de micro confirmam 15% âmbar nos cálices. Ponto de colheita exato.
-- **Ação do Dia:** Flush final com E.C 500. Colheita programada para a madrugada (dia 11 para 12/05).
-- **Medicamento:** Teste da amostra de secagem rápida (modem) aprovado. 
-
-### [Próximos Passos - Deploy]
-- **12/05 (Madruga):** Corte da Radical Juice e início da secagem. 
-- **12/05 (Manhã):** Transplante das SLH para vasos de 20L (Argila + Carolina Soil).
+### [12/05/2026] - O "Deployment" de Infraestrutura
+- **Flora/Secagem:** 🪓 Colheita da Radical Juice concluída às 00:30. Pendurada inteira para secagem lenta (Dry Trim).
+- **Vega:** 🏗️ Transplante das Super Lemon Haze #1 (PCD) e #2 para vasos definitivos de 20L.
+- **Técnica:** Implementação de argila expandida, Bokashi na junção e cobertura com fibra de coco.
+- **Hardware:** AC Midea segurando 21°C na madrugada. AC EOS enviado para manutenção (Suspeita de fusível/proteção térmica).
 
 ---
 
-## 📋 Protocolos de Manejo
+## 📋 Protocolos de Manejo Atualizados
 
-- **Colheita (Radical Juice):** Corte no escuro; Secagem a 18°C-21°C e 55% UR.
-- **Vega (SLH):** Manter UR > 80% até o transplante. Água pura com CalMag (0.2ml/L).
-
----
-
-## 🗓️ Milestones & Roadmap (Abril 2026)
-
-- [x] **01/04:** ⏳ 1ª Revirada do solo (Check de umidade).
-- [x] **02/04:** 🚿 Rega de manutenção Radical Juice (3L água pura).
-- [x] **04/04:** 🧊 **ICE DAY:** Extração 200g Purple Haze Fresh Frozen.
-- [x] **04/04:** 🥣 **Solo:** 2ª Revirada (Check de hifas brancas).
-- [x] **04/04:** 🚿 **Flora:** Rega Radical Juice (Easycoco Nutrientes).
-- [x] **08/04:** 🚿 **Vega:** Rega babys e germinação da segunda seed.
-- [x] **08/04:** 🥣 **Solo:** 3ª Revirada (nada de hifas brancas).
-- [x] **11/04:** 💡 **Hardware:** Swap de LEDs (240W Dark Red na Flora).
-- [x] **11/04:** 🛒 **Logística:** Compra de desumidificador.
-- [x] **13/04:** 🚿 **Vega:** Rega babys 100ml cada e p.h baixo 5.5/6 (folhas amareladas).
-- [x] **15/04:** 🥣 **Solo:** 3ª Revirada (Manutenção de oxigenação).
-- [x] **15/04:** 🐣 **Vega:** Ajuste de setup (Remoção de pratos / +10cm distância LED).
-- [x] **16/04:** 🚿 **Flora:** Rega Radical Juice (E.C 800 / Out 2700).
-- [x] **16/04:** 🥣 **Solo:** 3ª Revirada 
-- [x] **22/04:** 🛒 **Logística:** Compra do Ar Condicionado Portátil EOS 12k.
-- [x] **23/04:** 🚿 **Flora:** Rega de lavagem (4.5L / E.C Out 1500).
-- [x] **24/04:** 💻 **Hardware:** Compra do novo PC de trabalho/cultivo.
-- [x] **24/04:** 🏥 **Abrapango:** Aporte Spritz Indoor (10g) concluído.
-- [x] **25/04:** 🚿 **Vega:** Rega das SLH (Previsão de substrato seco) - ok 150 ml de agua + calmag.
-- [x] **27/04:** 🚿 **Flora:** Início do Flush (Água Pura). Target: Baixar E.C Out para <1000.
-- [x] **27/04:** ❄️ **Hardware:** Entrega e instalação do AC Portátil EOS 12.000 BTUs.
-- [x] **29/04:** 🚿 **Flora:** 2ª Rega de Flush. E.C Out abaixo de 2000.
-- [ ] **30/04:** 🏁 **Solo:** Fim do cozimento / Pronto para transplante.
-- [x] **30/04:** 💻 **Setup:** PC Novo Entregue! Fim da espera, início da nova era do QG Ninja.
+- **Secagem (Radical Juice):** Manter 20°C-24°C / 50-55% UR. Tempo estimado: 7 a 10 dias até o "snap" do galho.
+- **Extração (Ice):** 🧊 Retirada das "pipocas" e trimma resinada para congelamento (12/05). Bateção do ICE prevista para o FDS.
+- **Vega (SLH):** Observar vigor pós-transplante. Manter umidade alta para absorção foliar enquanto as raízes colonizam os 20L.
 
 ---
 
 ## 🗓️ Milestones & Roadmap (Maio 2026)
 
-- [x] **02/05:** 💻 **Setup:** Montagem e configuração do novo PC de trabalho.
-- [x] **02/05:** 🛠️ **Setup:** Vedação definitiva e otimização do fluxo de ar (Dual AC System).
-- [x] **03/05:** 🌈 **Visual:** Checkpoint de coloração (Antocianina) - ainda sem roxitude.
-- [ ] **10/05:** 🪓 **Colheita:** Corte Radical Juice / Transplante SLH.
-- [ ] **10/05:** 🛒 **Logistica:** Compra exaustor (caso precise) e bovedas.
-- [ ] **11/05:** 🎑 **Documentação:** Certificado Embrater "habeas-corpus".
-- [ ] **15/05:** 💎 **Extração:** Ice da radical (previsão 50g a 100g de materia)
-
+- [x] **02/05:** 💻 **Setup:** Montagem e configuração do novo PC de trabalho (Felipe-PC).
+- [x] **06/05:** 🔬 **QA:** Análise de tricomas (Início da janela de colheita - 98% Leitosos).
+- [x] **08/05:** 🌈 **Visual:** Sucesso no choque térmico (17°C) - Surgimento da Roxitude (Antocianina).
+- [x] **09/05:** 🆘 **Incidente:** Falha elétrica na tomada do AC EOS. Instalação do AC Midea reserva.
+- [x] **11/05:** 🚿 **Flush:** E.C de saída atingiu 500. Solo limpo, planta pronta.
+- [x] **12/05:** 🪓 **Colheita:** Corte da Radical Juice e montagem do setup de secagem.
+- [x] **12/05:** 🌱 **Vega:** Transplante oficial das SLH #1 e #2 para os vasos de 20L.
+- [ ] **13/05:** 🛠️ **Hardware:** Retorno do AC EOS da manutenção (Expectativa).
+- [ ] **17/05:** 🧊 **ICE DAY:** Extração Fresh Frozen das pipocas e trimma da Radical Juice.
+- [ ] **22/05:** 📦 **Cura:** Início da secagem das "bolas" de Ice e trim das flores da Radical.
 
 ---
-**Estoque Previsto:** Radical Juice, Super Lemon Haze, Canoli Ice & Nata Ice.
 
 ## 🚀 Projetos em Execução
 
-### 🐣 Projeto Super Lemon Haze (Vega)
-- **Status:** Estabilizado. SLH #1 e #2 em desenvolvimento do terceiro par de folhas serrilhadas.
-- **Fase:** Seedling / Vegetativo Inicial.
-- **Setup:** LED 240W Pro-Mid @ 20% | 60cm de altura | Ciclo 18/6.
-- **Manejo:** Umidificador 24h (Target: 80% - 90% UR).
+### 🍋 Projeto Super Lemon Haze (Vega)
+- **Status:** Pós-transplante. Buscando estabilização radicular nos 20L.
+- **Fase:** Vegetativo Inicial.
+- **Setup:** LED 240W Pro-Mid @ 30% | 60cm de altura | Ciclo 18/6.
+- **Manejo:** Cobertura com fibra de coco para manutenção de umidade em BSB.
 
-### 🍇 Projeto Radical Juice (Flora)
-- **Status:** Engorda final e maturação de tricomas.
-- **Data do Flip (12/12):** 16/02/2026 (Dia 70 dias de Flora (Em 28/04/2026)).
-- **Primeiros pistilos:** 03/03/2026 (conta 9 semanas a partir daqui pra colheita - janela (02/05 a 15/05))
-- **Previsão de Colheita:** 10/05/2026.
-- **Setup:** LED 240W Pro-Master Dark Red @ 70% | 50cm de altura.
+### 🍇 Projeto Radical Juice (Secagem)
+- **Status:** Pendurada inteira (Whole Plant Hang Dry).
+- **Maturidade de Colheita:** 15% Âmbar / 85% Leitoso.
+- **Perfil:** Roxitude intensa e resina globular densa.
+- **Previsão de Poda (Trim):** 20/05 a 22/05.
 
 ---
 
 ## 🧊 Extração & Estoque
-- **Canoli Ice:** 5.5g (Batidas 2 e 3) processados, pesados e aprovados.
-- **Canoli Ice (elite):** 6.6g (Priemira Batida) "Nata" processada .
-- **Cura:** Armazenado em papel manteiga dentro de pote hermético.
-- **Apoio:** Grape Cookies (Híbrida 60/40) integrada para transição pré-colheita.
+- **Canoli Ice:** 12.1g (Total das batidas 1, 2 e 3).
+- **Radical Ice (Previsão):** 🚀 Bateção programada para o FDS (17/05). 
+- **Matéria-prima:** Pipocas e Sugar Leaves congeladas (Fresh Frozen).
+- **Apoio Atual:** Spritzz Indoor (Abrapango) - Aroma cítrico/frutado.
 
 ---
 
-## 🌱 Solo & Substrato (Cozimento)
-- **Volume:** 40L de mix em processo de quebra orgânica.
-- **Manejo nº 3 (15/04):** Hidratação com 3L de água (manutenção de umidade).
-- **Mudança de abordagem:** Em 20/04 decisão por no-till (sem necessidade de ficar revirando).
-- **Pronto para uso:** 10/05 (Transplante das SLH).
+## 🗓️ Planejamento Longo Prazo
 
----
-
-## 🏥 ABRAPANGO (Suporte Medicinal)
-- **Pedido (09/04):** Óleo CBD 3000mg + 10g Grape Cookies.
-- **Perfil Grape:** Aroma uva, 60% Sativa / 40% Indica. Foco em criatividade e relaxamento funcional.
-- **Status:** acabou em 22/04.
-
----
-
-- **Pedido (24/04):** Spritzz Indoor.
-- **Perfil Limão:** Aroma Citrico bem forte e frutada. Efeitos estimulantes e funcionais, favorecendo bem estar e leveza ao longo do dia..
-- **Status:** Recebido e em uso.
-
----
-
-## 🚀 Planejamento Longo Prazo
-
-- **Maio/2026:** Certificado Embrater "habeas-corpus".
 - **Junho/2026:** Desenvolvimento pleno da SLH (Sativa Focus).
-- **Junho/Julho:** Inicio ciclo Inverno (Automáticas 3 plantas).
-- **Junho/Julho:** SLH em flora plena (Quarto) & Autos em vegetativo/pré-flora (Sala).
-- **Agosto:** 🪓 Colheita das SLH , mudança das autos pro quarto (ar condicionado).
-- **Agosto/Setembro:** 🧊 Inicio preparo Ice Lemon.
-- **Setembro/Outubro:** Automáticas entram na fase de engorda final.
-- **10/12:** 🪓 Colheita das Automáticas (Secagem rápida na infra de 150mm).
-- **10/12:** 🧊 Separa materia (Jack principalmente) pro IceAutos.
-- **20/12:** Manutenção de Hardware e Limpeza Geral.
+- **Junho/Julho:** Início Ciclo Inverno (Automáticas - Jack Herer / Amnesia).
+- **Agosto:** 🪓 Colheita das SLH e mudança das Autos para o quarto (Ar Condicionado).
+- **10/12:** 🪓 Colheita das Automáticas (Check de estoque para viagem).
 - **25/12:** 🛫 **VIAGEM** (Potes cheios: Radical, SLH e Autos).
 
 ---
-
-## 🧬 Banco de Sementes
-- **Grape Juice (Abrapango):** 1 semente (Reserva 2027).
-- **Jack Herer / Amnesia:** Planejamento Inverno 2026.
-- **Janeiro/2027:** Inicio novo ciclo (estoque radical e SLH cheios).
-
-
----
-*Status: Operacional* | *Hardware: LED 240W x2 + Easycoco + A/C*
-*Última atualização: 04/05/2026 - quinto flush da radical só com agua pura declorada - EC saida 1.300 ainda.*
+*Status: Operacional (Modo Colheita/Vega)* | *Hardware: PC Novo (RTX) + Dual AC System*
+*Última atualização: 12/05/2026 - Transplante de 20L concluído e Radical Juice pendurada.*
