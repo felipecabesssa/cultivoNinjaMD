@@ -47,6 +47,11 @@
 
 # 📓 Diário de Cultivo
 
+## [13/05/2026] - Log de Pós-Operação
+- **Status:** Faxina geral concluída. QG operacional e limpo.
+- **Plano:** Coleta de pipocas/trimma para Fresh Frozen postergada para 14/05 (Recuperação física).
+- **Clima:** Monitorando 24°C no Midea.
+
 ## [12/05/2026] - Milestone: Transplante Concluído
 - **Status Vega:** SLH #1 (PCD) e SLH #2 devidamente instaladas nos vasos de 20L.
 - **Técnica:** Camada de argila, Bokashi na junção e cobertura de fibra de coco.
