@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [11/05/2026] - Log de Encerramento de Ciclo (Flora)
+- **Teste de Amostra:** Gosto de clorofila acentuado (confirmando necessidade de secagem lenta).
+- **Decisão Técnica:** Pendurar planta inteira no escuro absoluto.
+- **Clima de Secagem:** Meta 20°C / 50-55% UR (Operação via AC Midea).
+- **Hardware:** AC EOS enviado para manutenção (Suspeita de fusível/proteção).
+
 ## [11/05/2026] - Protocolo de Corte (The Harvest Night)
 - **18:00:** Shutdown manual do LED (Início do escuro pré-colheita).
 - **23:30/00:00:** Início da colheita. Método: Corte de planta inteira.
