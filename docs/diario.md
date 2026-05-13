@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [11/05/2026] - Protocolo de Corte (The Harvest Night)
+- **18:00:** Shutdown manual do LED (Início do escuro pré-colheita).
+- **23:30/00:00:** Início da colheita. Método: Corte de planta inteira.
+- **Secagem:** Pendurar planta inteira (Whole Plant Hang Dry) para otimizar perfil de terpenos.
+- **Hardware Secagem:** Setup final do grow de secagem amanhã de manhã.
+
 ## [11/05/2026] - Colheita da Radical Juice (Commit Final)
 - **QA:** Análise de micro confirmo os cálices em 15% âmbar. Perfil de efeito energético/cerebral preservado.
 - **Logística:** Preparar tesouras, álcool e local de secagem para a madrugada.
