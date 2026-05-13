@@ -47,6 +47,18 @@
 
 # 📓 Diário de Cultivo
 
+## [12/05/2026] - Log de Colheita e Transplante
+- **Flora (Radical Juice):** 🪓 Corte realizado às 00:30. Planta pendurada inteira.
+- **Secagem:** Temp 24°C / UR 53%. Ambiente estabilizado.
+- **Vega (SLH):** Transplante para vasos de 20L iniciado hoje. 
+- **Hardware:** AC EOS na manutenção; expectativa de retorno até sexta-feira.
+
+## [11/05/2026] - Protocolo de Manuseio Pós-Corte
+- **Trimming:** Adotado o "Dry Trim" (Poda Seca). 
+- **Ação Imediata:** Remoção apenas das fan leaves e folhas murchas sem resina.
+- **Arquitetura:** Planta pendurada inteira com sugar leaves para proteção térmica/aromática.
+- **Extração:** Seleção de matéria-prima para congelamento programada para 12/05.
+
 ## [11/05/2026] - Log de Encerramento de Ciclo (Flora)
 - **Teste de Amostra:** Gosto de clorofila acentuado (confirmando necessidade de secagem lenta).
 - **Decisão Técnica:** Pendurar planta inteira no escuro absoluto.

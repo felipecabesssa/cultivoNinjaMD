@@ -10,8 +10,9 @@
 | 25/04 | SLH #1/2 | *Prevista* | H2O + CalMag | 6.0 | Alvo: Re-hidratação do Carolina Soil. |
 | 25/04 | SLH #1/2 | 200ml | H2O + CalMag (0.5ml/L) | 6.0 | 500 | PCD 100% recuperada 🥰. Vigor total. |
 | 25/04 | SLH #1/2 | 150ml | H2O + CalMag (0,5ml/L) | 6.0 | **Ação:** Apenas CalMag. Sem base (Easycoco) para evitar overfert. |
-| 29/04 | SLH #1/2 | 200ml | H2O + CalMag + Easycoco | 6.0 | 450 | **Início da Nutrição:** Dose "Baby" para suportar o 3º par de folhas. |
+| 29/04 | SLH #1/2 | 200ml | H2O + CalMag + Easycoco | 6.0 | 450 | Início da Nutrição: Dose "Baby" para suportar o 3º par de folhas. |
 | 08/05 | SLH #1/2 | ~90ml | H2O Pura Dechlorinated | 6.0 | - | Rega detox final antes do transplante. Torrão preparado. |
+| 12/05 | SLH #1/2 | **Transplante** | Carolina Soil + Argila | 6.2 | Mudança para 20L. Foco em estabilizar o caule da SLH #1. |
 
 **Técnica de Preparo:** - Diluído 0,25ml de CalMag em 500ml de H2O para garantir precisão na dosagem de 150ml/planta.
 
