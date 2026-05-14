@@ -47,6 +47,13 @@
 
 # 📓 Diário de Cultivo
 
+## [14/05/2026] - Log de Degustação e Estabilidade
+- **Amostra:** Teste do modem (galho estalando). 
+- **Efeito:** Narcótico/Relaxante potente (Target medicinal atingido).
+- **Sabor:** Clorofila em declínio; notas de Radical Juice emergindo.
+- **Ambiente:** QG em modo "Bunker" (Porta fechada/Blackout). Estabilidade em 23°C / 60% UR.
+- **Fator Humano:** Moral elevada pós-teste de potência.
+
 ## [14/05/2026] - Log de Pós-Transplante (Dia 2)
 - **Status Vega:** SLH #1 e #2 em fase de adaptação radicular.
 - **Observação:** Crescimento aéreo estagnado (esperado para transplante de 200ml -> 20L).
