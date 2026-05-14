@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [14/05/2026] - Log de Pós-Transplante (Dia 2)
+- **Status Vega:** SLH #1 e #2 em fase de adaptação radicular.
+- **Observação:** Crescimento aéreo estagnado (esperado para transplante de 200ml -> 20L).
+- **Saúde:** Turgidez foliar 100%, sem sinais de deficiência ou excesso.
+- **Ação:** Manter regime de "mãos no bolso" e monitorar umidade do solo.
+
 ## [13/05/2026] - Log de Extração (Preparação)
 - **Matéria-prima:** 75g de Radical Juice (Pipocas + Sugar Leaves).
 - **Status:** Congelado (Fresh Frozen).
