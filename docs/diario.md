@@ -47,6 +47,26 @@
 
 # 📓 Diário de Cultivo
 
+## [14/05/2026] - Log de Pós-Transplante (Dia 2 - Noite)
+- **Status Vega:** Fim do "travamento" aparente. SLH #1 e #2 retomaram crescimento aéreo.
+- **Observação:** Aumento da distância internodal e expansão das folhas do topo.
+- **Saúde:** Vigor renovado. O sistema radicular deu o "OK" para o desenvolvimento vegetativo.
+- **Moral:** 1000% - Tudo convergindo para o sucesso (Secagem e Vega).
+
+## [14/05/2026] - Log de Degustação e Estabilidade
+- **Amostra:** Teste do modem (galho estalando). 
+- **Efeito:** Narcótico/Relaxante potente (Target medicinal atingido).
+- **Sabor:** Clorofila em declínio; notas de Radical Juice emergindo.
+- **Ambiente:** QG em modo "Bunker" (Porta fechada/Blackout). Estabilidade em 23°C / 60% UR.
+- **Fator Humano:** Moral elevada pós-teste de potência.
+
+## [14/05/2026] - Log de Secagem e Hardware
+- **Hardware:** AC EOS com suspeita de falha na placa lógica; aguardando especialista. 
+- **Clima (Midea):** Estabilidade em 20ºC (noite) e 24ºC (dia). 
+- **UR:** 50% - 60%. Range de segurança mantido.
+- **Botânica:** Radical Juice exalando clorofila intensa (processo natural de quebra de açúcares).
+- **Risco:** Monitoramento rigoroso de luz residual durante o dia.
+
 ## [14/05/2026] - Log de Degustação e Estabilidade
 - **Amostra:** Teste do modem (galho estalando). 
 - **Efeito:** Narcótico/Relaxante potente (Target medicinal atingido).
