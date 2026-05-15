@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [15/05/2026] - Log de Secagem e Vigor
+- **Aroma:** Transição de clorofila para aroma floral/frutado (Sucesso na quebra de açúcares).
+- **Clima:** Estabilidade 21°C~24°C / UR 51%~60% (Midea operando com louvor).
+- **Vega:** SLH #1 e #2 apresentando turgidez foliar máxima pós-transplante.
+- **Moral:** Elevada. QG 100% operacional para o fim de semana.
+
 ## [14/05/2026] - Log de Pós-Transplante (Dia 2 - Noite)
 - **Status Vega:** Fim do "travamento" aparente. SLH #1 e #2 retomaram crescimento aéreo.
 - **Observação:** Aumento da distância internodal e expansão das folhas do topo.
