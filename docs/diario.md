@@ -47,6 +47,13 @@
 
 # 📓 Diário de Cultivo
 
+## [16/05/2026] - Log de Teste e Inventário de Cura
+- **Status Secagem:** Radical Juice em ponto de poda (Dry Trim previsto para 17/05).
+- **Amostra:** Galho teste colhido e podado. Visual: Roxitude 100% preservada e densidade extrema.
+- **Armazenamento:** Pote teste vedado com fita isolante para blackout total.
+- **Ação:** Manicure das flores penduradas e vedação dos potes de 1L amanhã.
+- **Moral:** Elevada. A qualidade das flores superou as expectativas visuais.
+
 ## [16/05/2026] - Log de Pré-Cura e Vigor
 - **Status Secagem:** Radical Juice em fase terminal. Aroma de clorofila 100% ausente; cheiro floral intenso.
 - **Microclima:** Estabilidade absoluta 22°C / 53% UR (Midea On).
