@@ -47,6 +47,13 @@
 
 # 📓 Diário de Cultivo
 
+## [16/05/2026] - Log de Pré-Cura e Vigor
+- **Status Secagem:** Radical Juice em fase terminal. Aroma de clorofila 100% ausente; cheiro floral intenso.
+- **Microclima:** Estabilidade absoluta 22°C / 53% UR (Midea On).
+- **QA:** Buds "crocantes" por fora, mas galho central ainda flexível (sem "crack").
+- **Ação:** Manter secagem lenta. Poda e manicure (Dry Trim) postergadas para 17/05.
+- **Moral:** Elevadíssima. Sucesso do protocolo de contingência confirmado pelo aroma.
+
 ## [15/05/2026] - Log de Secagem e Vigor
 - **Aroma:** Transição de clorofila para aroma floral/frutado (Sucesso na quebra de açúcares).
 - **Clima:** Estabilidade 21°C~24°C / UR 51%~60% (Midea operando com louvor).
