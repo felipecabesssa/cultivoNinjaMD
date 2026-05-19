@@ -43,6 +43,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 - [x] **12/05:** 🪓 **Colheita:** Corte da Radical Juice e transplante oficial das SLH para 20L.
 - [x] **16/05:** 🔬 **QA:** Teste do "Crack" do galho e degustação da flor (Potência máxima aprovada).
 - [x] **18/05:** ✂️ **Manicure:** Poda seca concluída. ~80g de rendimento guardados para cura.
+- [ ] **20/05:** 📦 **Cura:** Primeira abertura do pote (5min) após 48hs
 - [ ] **23/05:** 🧊 **ICE DAY:** Extração do Bubble Hash (Radical Ice) com as 100g de matéria congelada.
 - [ ] **30/05:** 📦 **Cura:** Fechamento da primeira fase de burping da Radical Juice.
 
