@@ -15,6 +15,8 @@
 | 12/05 | SLH #1/2 | Transplante | Carolina Soil + Argila | 6.2 | Mudança para 20L. Foco em estabilizar o caule da SLH #1. |
 | 12/05 | SLH #2 | **Transplante (20L)** | Carolina Soil + Argila + Bokashi | 700ml (H2O) | Finalizado às 16:20. Cobertura com fibra de coco. |
 | 12/05 | SLH #1 | **Transplante (20L)** | Carolina Soil + Argila + Bokashi | 700ml (H2O) | Finalizado às 16:20. Cobertura com fibra de coco. |
+| 12/05 | SLH #1/2 | Transplante | 700ml | Bokashi | Assentamento de solo. |
+| 18/05 | SLH #1/2 | **Rega de Manutenção** | **300ml** | **2 gotas CalMag** | Crescimento aéreo vigoroso. Folhas "rezando". |
 
 **Técnica de Preparo:** - Diluído 0,25ml de CalMag em 500ml de H2O para garantir precisão na dosagem de 150ml/planta.
 

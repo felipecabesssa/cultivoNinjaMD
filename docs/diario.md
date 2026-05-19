@@ -57,6 +57,11 @@
 - **Protocolo de Cura (Burping):** Abrir potes a cada 2 dias na primeira semana; reduzir frequência gradativamente.
 - **Moral:** 200% - Meta de estoque de inverno atingida com qualidade de coffeeshop.
 
+## [18/05/2026] - Log de Vegetativo (SLH)
+- **Status:** SLH #1 e #2 estabilizadas nos vasos de 20L. Saúde foliar nível "Ouro".
+- **Manejo:** Rega cirúrgica (300ml) focada em expansão radicular, com suplementação leve de CalMag.
+- **Ambiente:** Integração de "plantas companheiras" na sala para otimização do microclima e biodiversidade do QG.
+
 ## [16/05/2026] - Log de Teste e Inventário de Cura
 - **Status Secagem:** Radical Juice em ponto de poda (Dry Trim previsto para 17/05).
 - **Amostra:** Galho teste colhido e podado. Visual: Roxitude 100% preservada e densidade extrema.
