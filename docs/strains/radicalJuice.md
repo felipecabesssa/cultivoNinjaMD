@@ -92,6 +92,19 @@ Graças ao novo **AC EOS 12k**, a Radical Juice entrará no regime de "choque t�
 - **Método:** Ice-o-Lator (Fresh Frozen).
 - **Objetivo:** Produção de "Radical Ice" para estoque de inverno.
 
+# 🍇 Relatório de Ciclo - Radical Juice
+
+## 📊 Métricas de Produtividade (Final)
+- **Tempo de Flora:** 75 dias.
+- **Rendimento de Flores:** ~100g secas prontas para cura.
+- **Subprodutos para Extração:** ~100g de material total (75g Fresh Frozen + 25g Dry Trim/Pipocas).
+- **Target de Cura:** 62% UR estável (Uso de Boveda pack x3).
+
+## 📆 Cronograma de Cura (Maio/Junho 2026)
+- **Fase 1 (18/05 a 25/05):** Abertura do pote a cada 48h por 5 minutos (renovação de oxigênio).
+- **Fase 2 (26/05 a 10/06):** Abertura semanal.
+- **Fase 3 (A partir de 11/06):** Cura definitiva/Estoque trancado.
+
 ---
 
 *Status: cut day 10/05 | Documentação by Gem Ninja*

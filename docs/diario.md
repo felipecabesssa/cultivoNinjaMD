@@ -47,6 +47,16 @@
 
 # 📓 Diário de Cultivo
 
+## [18/05/2026] - Milestone: Manicure e Inventário Final da Radical Juice
+- **Status Flora:** Finalizado. Planta totalmente processada (Dry Trim).
+- **Inventário Final:**
+  - 📦 **Flores Secas (Cura):** ~100g de buds de elite em pote hermético.
+  - 🧊 **Matéria p/ Ice (Fresco):** 75g (Pipocas/Trim congeladas no corte).
+  - ✂️ **Trimma Seca (Manicure):** 25g (Folhas resinadas + pipocas da poda).
+- **Armazenamento:** Potes grandes de vidro 100% vedados com fita isolante (blackout). Adicionadas 3 Bovedas para estabilização de umidade.
+- **Protocolo de Cura (Burping):** Abrir potes a cada 2 dias na primeira semana; reduzir frequência gradativamente.
+- **Moral:** 200% - Meta de estoque de inverno atingida com qualidade de coffeeshop.
+
 ## [16/05/2026] - Log de Teste e Inventário de Cura
 - **Status Secagem:** Radical Juice em ponto de poda (Dry Trim previsto para 17/05).
 - **Amostra:** Galho teste colhido e podado. Visual: Roxitude 100% preservada e densidade extrema.
