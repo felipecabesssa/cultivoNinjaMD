@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [20/05/2026] - Incidente: Umidade Crítica no Pote (UR 46.6%)
+- **Diagnóstico:** Falha catastrófica das Bovedas (possivelmente vencidas/cristalizadas). Aroma em dormência (amadeirado).
+- **Ação:** Rollback das Bovedas antigas. Implementação de reidratação passiva.
+- **Temperatura:** Pote mantendo 26°C (Isolamento do vidro).
+- **Status:** Aguardando estabilização da umidade (Target >55%) para reativar o perfil de terpenos.
+
 ## [20/05/2026] - Estabilização do Bunker de Cura
 - **Decisão Técnica:** Cancelamento do cooler passivo. Ar-condicionado mantido operacional 24h para garantir teto térmico rigoroso (<25°C).
 - **Clima do QG:** Quarto selado (Blackout) estabilizado em 23°C. 
