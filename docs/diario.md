@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [20/05/2026] - Estabilização do Bunker de Cura
+- **Decisão Técnica:** Cancelamento do cooler passivo. Ar-condicionado mantido operacional 24h para garantir teto térmico rigoroso (<25°C).
+- **Clima do QG:** Quarto selado (Blackout) estabilizado em 23°C. 
+- **Status do Pote:** Posicionado na zona de fluxo frio. 6x Bovedas operando na recuperação da umidade.
+- **QA:** Risco de degradação de terpenos mitigado com sucesso.
+
 ## [19/05/2026] - Incidente: Pico Térmico na Cura (Hotfix Aplicado)
 - **Status Original:** Pote de cura registrando 29°C e 47% UR (Alerta de evaporação de terpenos).
 - **Ação Imediata (Umidade):** Inserção de +3 Bovedas 62% (Total: 6) para recuperação do microclima e suspensão temporária do "burping".
