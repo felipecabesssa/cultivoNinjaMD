@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [20/05/2026] - Execução de Hotfix (Controle de Umidade)
+- **Status Bovedas:** Diagnosticada quebra estrutural (líquidas). Removidas do ecossistema.
+- **Risco de Contaminação:** Uso de plantas companheiras vetado para evitar introdução de patógenos (esporos/ácaros).
+- **Patch Aplicado:** Deploy de papel toalha umedecido na tampa do pote (reidratação estéril e controlada).
+- **Objetivo:** Elevar a UR interna de 46% para >55% nas próximas horas.
+
 ## [20/05/2026] - Incidente: Umidade Crítica no Pote (UR 46.6%)
 - **Diagnóstico:** Falha catastrófica das Bovedas (possivelmente vencidas/cristalizadas). Aroma em dormência (amadeirado).
 - **Ação:** Rollback das Bovedas antigas. Implementação de reidratação passiva.
