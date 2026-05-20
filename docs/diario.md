@@ -47,6 +47,12 @@
 
 # 📓 Diário de Cultivo
 
+## [19/05/2026] - Incidente: Pico Térmico na Cura (Hotfix Aplicado)
+- **Status Original:** Pote de cura registrando 29°C e 47% UR (Alerta de evaporação de terpenos).
+- **Ação Imediata (Umidade):** Inserção de +3 Bovedas 62% (Total: 6) para recuperação do microclima e suspensão temporária do "burping".
+- **Ação Imediata (Temperatura):** Implementada estratégia "Smart Cooling". Resfriamento noturno do QG via Midea (Target: 23°C) e acondicionamento do pote em cooler térmico pré-resfriado.
+- **Projeção:** Manutenção passiva da temperatura abaixo de 25°C durante o dia sem uso contínuo de A.C.
+
 ## [18/05/2026] - Milestone: Manicure e Inventário Final da Radical Juice
 - **Status Flora:** Finalizado. Planta totalmente processada (Dry Trim).
 - **Inventário Final:**
