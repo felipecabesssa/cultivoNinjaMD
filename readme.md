@@ -34,23 +34,54 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 
-## 🗂️ Cards de Histórico das Strains
+## 🗂️ Banco de Dados das Strains (Cards)
 
-| 🍋 **[Super Lemon Haze (#1 e #2)](./superLemonHaze)** |
-| :--- |
-| **Status:** 🟢 EM OPERAÇÃO (Vegetativo Pleno)<br><br><ul><li>**Período de Cultivo:** Março/2026 - Presente</li><li>**Data Germinação:** 28/03/2026 (Hidratação) / 30/03/2026 (Solo)</li><li>**Data Flip Flora:** [A Definir - Previsão: Agosto/2026]</li><li>**Data Colheita:** [A Definir]</li><li>**Data Cura:** [A Definir]</li><li>**Data Prevista para Consumo:** [A Definir]</li></ul> |
+```python
+# ==========================================
+# 🟢 EM OPERAÇÃO
+# ==========================================
+super_lemon_haze = {
+    "strain": "🍋 Super Lemon Haze (#1 e #2)",
+    "status": "Vegetativo Pleno",
+    "periodo_cultivo": "Março/2026 - Presente",
+    "data_germinacao": ["28/03/2026 (Hidratação)", "30/03/2026 (Solo)"],
+    "data_flip_flora": "A Definir (Previsão: Agosto/2026)",
+    "data_colheita": "A Definir",
+    "data_cura": "A Definir",
+    "data_consumo": "A Definir",
+    "docs_path": "./superLemonHaze"
+}
 
-<br>
+# ==========================================
+# 🟡 EM PROCESSAMENTO 
+# ==========================================
+radical_juice = {
+    "strain": "🍇 Radical Juice",
+    "status": "Cura Passiva / Extração Pendente",
+    "periodo_cultivo": "Jan/2026 - Maio/2026",
+    "data_germinacao": "Aprox. Jan/2026 (Inserir data exata)",
+    "data_flip_flora": "25/02/2026",
+    "data_colheita": "12/05/2026 (Madrugada)",
+    "data_cura": "18/05/2026 (Início nos potes herméticos)",
+    "data_consumo": "11/06/2026 (Fim da fase 2 de cura)",
+    "docs_path": "./radicalJuice"
+}
 
-| 🍇 **[Radical Juice](./radicalJuice)** |
-| :--- |
-| **Status:** 🟡 EM PROCESSAMENTO (Cura Passiva / Extração Pendente)<br><br><ul><li>**Período de Cultivo:** Jan/2026 - Maio/2026</li><li>**Data Germinação:** [INSERIR DATA AQUI - Aprox. Jan/2026]</li><li>**Data Flip Flora:** 25/02/2026</li><li>**Data Colheita:** 12/05/2026 (Madrugada)</li><li>**Data Cura:** 18/05/2026 (Início nos potes herméticos)</li><li>**Data Prevista para Consumo:** 11/06/2026 (Fim da fase 2 de cura)</li></ul> |
-
-<br>
-
-| ❄️ **[Amnesia Haze Auto (Sprint de Natal)](./automaticas)** |
-| :--- |
-| **Status:** 🔵 PLANEJAMENTO FUTURO (Backlog / Payday 07/06)<br><br><ul><li>**Período de Cultivo:** Julho/2026 - Dezembro/2026</li><li>**Data Germinação:** [Previsão: 01/07/2026]</li><li>**Data Flip Flora:** *Automática (Previsão: Agosto/2026)*</li><li>**Data Colheita:** [Previsão: 25/11/2026]</li><li>**Data Cura:** [Previsão: Dezembro/2026]</li><li>**Data Prevista para Consumo:** 20/12/2026 (Estoque de Fim de Ano)</li></ul> |
+# ==========================================
+# 🔵 PLANEJAMENTO FUTURO (Backlog)
+# ==========================================
+amnesia_haze_auto = {
+    "strain": "❄️ Amnesia Haze Auto (Sprint de Natal)",
+    "status": "Aguardando Aquisição (Payday 07/06)",
+    "periodo_cultivo": "Julho/2026 - Dezembro/2026",
+    "data_germinacao": "Previsão: 01/07/2026",
+    "data_flip_flora": "Automática (Previsão: Agosto/2026)",
+    "data_colheita": "Previsão: 25/11/2026",
+    "data_cura": "Previsão: Dezembro/2026",
+    "data_consumo": "20/12/2026 (Estoque de Fim de Ano)",
+    "docs_path": "./automaticas"
+}
+ 
 
 ---
 *Status: Operacional (Modo Cura/Vega Plena)* | *Hardware: PC Novo (RTX) + LAN Botânica Ativa*
