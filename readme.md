@@ -37,7 +37,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 ## 🗂️ Cards de Histórico das Strains
 
 > [!TIP]
-> ### 🍋 [Super Lemon Haze (#1 e #2)](./superLemonHaze)
+> ### 🍋 [Super Lemon Haze (#1 e #2)](./docs/superLemonHaze)
 > **Status:** 🟢 EM OPERAÇÃO (Vegetativo Pleno)
 > 
 > * **Período de Cultivo:** Março/2026 - Presente
@@ -50,7 +50,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 <br>
 
 > [!IMPORTANT]
-> ### 🍇 [Radical Juice](./radicalJuice)
+> ### 🍇 [Radical Juice](./docs/radicalJuice)
 > **Status:** 🟡 EM PROCESSAMENTO (Cura Passiva / Extração Pendente)
 > 
 > * **Período de Cultivo:** Jan/2026 - Maio/2026
@@ -63,7 +63,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 <br>
 
 > [!NOTE]
-> ### ❄️ [Amnesia Haze Auto (Sprint de Natal)](./automaticas)
+> ### ❄️ [Amnesia Haze Auto (Sprint de Natal)](./docs/automaticas)
 > **Status:** 🔵 PLANEJAMENTO FUTURO (Backlog / Payday 07/06)
 > 
 > * **Período de Cultivo:** Julho/2026 - Dezembro/2026
