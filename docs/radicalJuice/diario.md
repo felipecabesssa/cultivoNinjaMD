@@ -1,5 +1,10 @@
 # 📓 Diário de Ciclo - Radical Juice
 
+## Log de Cura - 23/05/2026
+* **Parâmetros:** 23°C / 67% UR.
+* **Manejo:** Realizado *burp* diário. Papel úmido removido após estabilização. 
+* **Perfil Sensorial:** Aromas em evolução constante. Estágio de transição da cura seguindo o protocolo de controle hídrico.
+
 ## [22/05/2026] - Resgate de Cura Concluído
 - Pote estabilizado na "Zona Dourada" (23°C / 64% UR). Aroma reativado. Hotfix de papel úmido removido.
 

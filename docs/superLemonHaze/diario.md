@@ -1,5 +1,10 @@
 # 📓 Diário de Ciclo - Super Lemon Haze
 
+## Log de Desenvolvimento - 23/05/2026
+* **Estágio:** Vegetativo (Adolescente).
+* **Observações:** Planta atingindo quase um palmo de altura. Folhas grandes e saudáveis. Vigor vegetativo alto com nutrição Easycoco estável.
+* **Atenção:** Monitorar umidade devido ao aumento da área foliar e evapotranspiração.
+
 ## [21/05/2026] - Deploy Nutricional e Treinamento
 - Introdução da linha mineral Easycoco via balança de precisão. Raízes responderam com vigor.
 - Ativado treinamento de caule por estresse mecânico leve (vento). 
