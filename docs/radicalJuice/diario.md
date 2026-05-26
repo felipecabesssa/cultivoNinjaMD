@@ -1,5 +1,9 @@
 # 📓 Diário de Ciclo - Radical Juice
 
+## Log de Cura - 25/05/2026
+* **Parâmetros:** 23°C / 65% UR.
+* **Perfil Sensorial:** Aroma amadeirado muito bom. Clorofila praticamente eliminada. Cura atingindo excelência.
+
 ## Log de Cura - 23/05/2026
 * **Parâmetros:** 23°C / 67% UR.
 * **Manejo:** Realizado *burp* diário. Papel úmido removido após estabilização. 

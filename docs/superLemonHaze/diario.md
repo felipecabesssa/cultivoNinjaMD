@@ -1,5 +1,10 @@
 # 📓 Diário de Ciclo - Super Lemon Haze
 
+## Log de Nutrição - 25/05/2026
+* **Volume:** 700ml por vaso.
+* **Mix:** 1ml A + 1ml B + 0.25ml C (Easycoco Mineral).
+* **Estado:** Plantas respondendo com vigor e saúde.
+
 ## Log de Desenvolvimento - 23/05/2026
 * **Estágio:** Vegetativo (Adolescente).
 * **Observações:** Planta atingindo quase um palmo de altura. Folhas grandes e saudáveis. Vigor vegetativo alto com nutrição Easycoco estável.

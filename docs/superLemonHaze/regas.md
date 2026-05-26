@@ -8,3 +8,4 @@
 | 12/05 | Transplante| 700ml | Bokashi | Assentamento de solo nos vasos de 20L. |
 | 18/05 | Vega | 300ml | 2 gotas CalMag | Rega nas bordas para expansão radicular. |
 | 21/05 | Vega | 500ml | Easycoco (A:0.5g, B:0.5g, C:0.1g) + CalMag (1g) | **Início do Mineral Soft Start.** Saúde foliar 100%. |
+| 24/05 | Vega | 700ml | Easycoco (A:1, B:1, C:0,25 |)
