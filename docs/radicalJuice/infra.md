@@ -11,3 +11,7 @@
 - Potes de vidro herméticos de 1L.
 - Blackout total via fita isolante no vidro (proteção UV).
 - Sachês Boveda 62% (Linha Premium Abrapango).
+
+## Log de Infraestrutura - 26/05/2026
+* **Setup de Cura Definitivo:** Implementação da "Torre de Resfriamento Passivo". Pote hermético de 1L (com blackout) posicionado estrategicamente na saída do fluxo de ar frio do equipamento, estabilizando o microclima interno.
+* **Ecossistema:** QG centralizado. Estufa de secagem operando ao lado da estação de cura térmica.

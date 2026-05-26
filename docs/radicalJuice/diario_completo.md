@@ -1,5 +1,10 @@
 # 📓 Diário de Ciclo Completo - Radical Juice
 
+## Log de Cura - 26/05/2026
+* **Parâmetros:** 22.6°C / 62% UR.
+* **Manejo:** Realizado burp estratégico. Sistema de resfriamento passivo (cooler) mantendo temperatura constante.
+* **Perfil Sensorial:** Aroma floral/amadeirado intenso e puro. Estágio de cura beirando a perfeição técnica. Sem sinais residuais de clorofila. A flor atingiu o equilíbrio higroscópico ideal.
+
 ## 📦 FASE 4: CURA E ESTABILIZAÇÃO (Maio/2026)
 * **22/05:** Resgate de umidade concluído. Pote estabilizado na "Zona Dourada" (23°C / 64% UR). Aroma reativado. Hotfix de papel úmido removido.
 * **20/05:** Incidente crítico de umidade (Pote em 26°C / 46.6% UR). Bovedas antigas desandaram (líquidas). Deploy de micro-nuvem de papel úmido na tampa para reidratação passiva.

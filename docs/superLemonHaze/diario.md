@@ -1,5 +1,10 @@
 # 📓 Diário de Ciclo - Super Lemon Haze
 
+## Log de Inspeção Visual - 26/05/2026 (Noite)
+* **Estágio:** Vegetativo Pleno.
+* **Saúde:** Plantas exibindo desenvolvimento impecável. Folhas turgidas em posição de fototropismo positivo ("rezando") e espaçamento nodal curto. Zero sinais de estresse nutricional.
+* **Manejo Hídrico:** Após teste de umidade e avaliação visual, o *deploy* da rega foi postergado para a manhã do dia 27/05 (intervalo de 72h) para forçar a expansão do sistema radicular.
+
 ## Log de Nutrição - 25/05/2026
 * **Volume:** 700ml por vaso.
 * **Mix:** 1ml A + 1ml B + 0.25ml C (Easycoco Mineral).
