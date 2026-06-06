@@ -32,6 +32,13 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 * **Super Lemon Haze:** Regas de 500ml/planta com linha mineral completa. Ventilador oscilante vel. 1 ativado para Tigmomorfogênese (engrossamento de caule).
 * **Infraestrutura:** AC EOS 12k na assistência técnica autorizada (Previsão: 29/05). Ar Midea segurando o bunker de cura a 23°C contínuos.
 
+## 🚀 Projetos Ativos
+*   **Super Lemon Haze (Vega):** Treinamento HST/LST em andamento.
+*   **Radical Juice (Cura):** Protocolo premium em 12°C / 62% UR (Cold Cure).
+*   **Autos de Inverno (Germinação):** Sour Diesel e Amnesia Haze em setup.
+*   **Extrações:** Projeto Ice Hash (Bubble Hash) iniciado com 100g de matéria congelada.
+*   **Sustentabilidade:** Composteira orgânica ativada.
+
 ---
 
 ## 🗂️ Cards de Histórico das Strains

@@ -36,3 +36,17 @@
 - **Spritz Indoor (24/04):** 10g (Notas cítricas, efeito estimulante/funcional).
 - **Grape Cookies:** Estoque remanescente.
 - **Óleo CBD:** Em uso para suporte basal.
+
+## 📦 Inventário Atualizado - 06/06/2026
+
+**Genéticas (Novas Inclusões):**
+*   [1x] Semente Sour Diesel Auto (Feminizada)
+*   [3x] Sementes Amnesia Haze Auto (Feminizadas)
+
+**Infraestrutura e Recipientes:**
+*   [3x] Vasos de Feltro 15L (Novos)
+*   [1x] Vaso de Feltro 15L (Reaproveitado da Radical Juice)
+*   [1x] Composteira Doméstica Orgânica (Ativa)
+
+**Insumos:**
+*   Easycoco Mineral (A/B/C) + CalMag

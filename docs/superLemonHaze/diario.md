@@ -30,3 +30,9 @@
 
 ## [30/03/2026] - Nascimento
 - Transferência para o Carolina Soil após hidratação. Cotilédones aparentes. Início da jornada.
+
+## 06/06/2026 -  Log de Desenvolvimento 
+*   **Estágio:** Vegetativo.
+*   **Manejo:** Executada Poda Top (HST) nas duas plantas, combinada com amarras de LST para otimização de copa. Saúde geral impecável.
+*   **Atenção (Controle de Pragas):** Detecção de Fungus Gnats e moscas brancas devido à alta umidade ambiental.
+*   **Plano de Ação:** Introduzir Óleo de Neem / Terra de Diatomáceas como controle biológico além das armadilhas adesivas.

@@ -1,5 +1,11 @@
 # 📓 Diário de Ciclo - Radical Juice
 
+## Log de Cura - 06/06/2026
+*   **Status:** Parâmetros Perfeitos alcançados.
+*   **Clima:** 12°C / 62% UR (estabilizado via Boveda no gavetão da geladeira).
+*   **Protocolo de Burping:** Alterado para **Semanal**. 
+*   **SOP de Abertura:** Mandatório aguardar 30 minutos em temperatura ambiente antes da abertura do pote para prevenção absoluta de condensação interna.
+
 ## Log de Cura - 27/05/2026
 * **Parâmetros:** 17°C / 70% UR.
 * **Perfil Sensorial:** Aroma Frutado da radical cada dia mais intenso e forte.
