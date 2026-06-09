@@ -1,5 +1,10 @@
 # 📓 Diário de Ciclo - Radical Juice
 
+## Log de Cura - 08/06/2026
+*   **Status:** Aproximando-se da marca de 1 Mês (Estágio de estabilização olfativa).
+*   **Perfil Sensorial:** Aroma extremamente potente e limpo quando exposto a ambientes não-viciados (ar livre). O sabor (paladar) ainda está em fase de maturação.
+*   **Análise Técnica:** A temperatura de cura a frio (12°C) preserva os voláteis com maestria, porém exige uma janela de tempo maior (estimativa de 45-60 dias) para a degradação total de açúcares que liberarão o sabor pleno durante o consumo.
+
 ## Log de Cura - 06/06/2026
 *   **Status:** Parâmetros Perfeitos alcançados.
 *   **Clima:** 12°C / 62% UR (estabilizado via Boveda no gavetão da geladeira).
