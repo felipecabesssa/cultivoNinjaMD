@@ -1,5 +1,9 @@
 # 📓 Diário de Ciclo - Super Lemon Haze
 
+## Log de Desenvolvimento e Fitossanidade - 08/06/2026
+*   **Pragas:** Alta incidência de Fungus Gnats e moscas brancas (condição climática agravante). Controle manual e armadilhas adesivas operando no limite.
+*   **Plano de Ação:** Óleo de Neem programado para aplicação foliar e no substrato amanhã (09/06).
+
 ## Log de Inspeção Visual - 26/05/2026 (Noite)
 * **Estágio:** Vegetativo Pleno.
 * **Saúde:** Plantas exibindo desenvolvimento impecável. Folhas turgidas em posição de fototropismo positivo ("rezando") e espaçamento nodal curto. Zero sinais de estresse nutricional.
