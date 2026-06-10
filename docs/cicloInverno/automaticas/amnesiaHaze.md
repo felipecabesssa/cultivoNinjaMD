@@ -2,6 +2,12 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **10/06/2026:**
+  * **Planta #1 (No Vaso):** Estabilização no ambiente de *Staging*. Domo de umidade ativo. Macroclima do grow isolado garantindo 84% UR. Painel Pro-Master a 20% de potência (70cm de distância).
+  * **Sementes #2 e #3 (Incubadora):** Dormência estendida devido ao frio climático extremo (BSB). Aplicado *Hotfix* térmico (calor passivo via fogão) para elevar a temperatura do armário e forçar a eclosão da radícula nas próximas 24-48h.
+* **09/06/2026:** 🚀 **Deploy Parcial:** Transplante cirúrgico noturno da Semente #1 (radícula exposta) para vaso definitivo de 15L. 
+* **08/06/2026:** Hidratação concluída com sucesso (100% de germinação na fase aquosa). Transferidas para papel toalha.
+* **06/06/2026:** Unboxing realizado. Inseridas em solução de água + H2O2 (50/50).
 * **08/06/2026:** Hidratação concluída com sucesso (100% de germinação). Radícula aparente nas 3 sementes. Mantidas na incubadora. Aquisição de argila expandida e transplante definitivo programado para 10/06.
 * **06/06/2026:** Unboxing realizado. Inseridas em solução de água + H2O2 (50/50) para quebra de dormência e hidratação profunda. Vasos de feltro de 15L a postos.
 

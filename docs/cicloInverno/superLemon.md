@@ -2,6 +2,9 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **10/06/2026:** Inspeção de QA pós-intervenção: Plantas exibindo saúde excepcional, sem sinais de fitotoxicidade pós-Neem. Verde vibrante e turgidez foliar ("rezando" para a luz).
+* **09/06/2026:** 🚨 **Bug Bounty (Tríade do Mal):** Identificada infestação tripla - Pulgões (Aphids), Fungus Gnats e Mosca Branca.
+* **09/06/2026:** 🔫 **Intervenção Química/Orgânica:** Executado o *deploy* de Óleo de Neem (Solução: 500ml H2O + 2,5ml Neem via conta-gotas de precisão + gota de detergente para quebra de tensão superficial). Aplicação foliar completa (*under-canopy*) e superfície do solo. Taxa de mortalidade inicial de 90%. Próximo *patch* programado para 17/06 (quebra do ciclo reprodutivo de 7 dias).
 * **08/06/2026:** Alta incidência de Fungus Gnats e moscas brancas (condição climática agravante). Controle manual e armadilhas adesivas operando no limite. Plano: Óleo de Neem foliar e no substrato (09/06).
 * **06/06/2026:** Executada Poda Top (HST) nas duas plantas, combinada com amarras de LST para otimização de copa. Saúde geral impecável.
 * **26/05/2026:** Estágio Vegetativo Pleno. Plantas exibindo desenvolvimento impecável. Folhas turgidas ("rezando") e espaçamento nodal curto. Zero sinais de estresse. Rega postergada para 27/05 para forçar expansão radicular.

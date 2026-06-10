@@ -2,6 +2,10 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **10/06/2026:** Estabilização na UTI Neonatal. Domo de umidade ativo com umidificador externo mantendo o macroclima em 85% UR e 23,2°C. Painel Pro-Master rodando a 20% de potência (70cm de distância).
+* **09/06/2026:** 🚀 **Deploy Concluído:** Transplante cirúrgico executado à noite. Semente transferida para o berço definitivo (Vaso de feltro 15L reaproveitado da Radical Juice, com Living Soil, Bokashi e Perlita). 
+* **08/06/2026:** Hidratação concluída com sucesso. Radícula ("rabinho") aparente. 
+* **06/06/2026:** Início da hidratação profunda em solução de água + H2O2 (50/50).
 * **08/06/2026:** Hidratação concluída com sucesso. Radícula ("rabinho") aparente. Semente na incubadora (papel toalha úmido com H2O2). Transplante definitivo programado para 10/06 após estruturação do vaso com argila expandida.
 * **06/06/2026:** Início da hidratação profunda. 36 horas de molho em solução de água + H2O2 (50/50).
 
