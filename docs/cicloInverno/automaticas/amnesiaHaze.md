@@ -2,6 +2,10 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+* **10/06/2026:**
+  * **Planta #1 (No Vaso):** Rodando perfeitamente no ambiente principal de Vega (Sala) junto com o ecossistema da SLH e Sour Diesel. Protegida durante a detetização do prédio com controle rigoroso de ventilação/umidade.
+  * **Sementes #2 e #3 (Incubadora):** Mantidas isoladas e fechadas no armário da cozinha para evitar contaminação pelo ar químico da detetização. Aguardando o efeito do *hotfix* térmico (calor do fogão) para eclosão.
 * **10/06/2026:**
   * **Planta #1 (No Vaso):** Estabilização no ambiente de *Staging*. Domo de umidade ativo. Macroclima do grow isolado garantindo 84% UR. Painel Pro-Master a 20% de potência (70cm de distância).
   * **Sementes #2 e #3 (Incubadora):** Dormência estendida devido ao frio climático extremo (BSB). Aplicado *Hotfix* térmico (calor passivo via fogão) para elevar a temperatura do armário e forçar a eclosão da radícula nas próximas 24-48h.

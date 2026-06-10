@@ -2,6 +2,10 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+
+* **10/06/2026:** 🛡️ **Defesa de Perímetro e Aclimatação:** Planta operando junto com as SLH no ambiente principal de Vega (Sala). Sobreviveu com sucesso ao evento de detetização externa da residência. 
+* **Manejo Climático:** Ventilador acionado por 30 minutos para purgar o ar químico do ambiente, com umidificador segurando os parâmetros perto dos 85% UR e 23°C.
 * **10/06/2026:** Estabilização na UTI Neonatal. Domo de umidade ativo com umidificador externo mantendo o macroclima em 85% UR e 23,2°C. Painel Pro-Master rodando a 20% de potência (70cm de distância).
 * **09/06/2026:** 🚀 **Deploy Concluído:** Transplante cirúrgico executado à noite. Semente transferida para o berço definitivo (Vaso de feltro 15L reaproveitado da Radical Juice, com Living Soil, Bokashi e Perlita). 
 * **08/06/2026:** Hidratação concluída com sucesso. Radícula ("rabinho") aparente. 

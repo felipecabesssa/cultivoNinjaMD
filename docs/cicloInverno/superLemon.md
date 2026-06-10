@@ -2,6 +2,10 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+
+* **10/06/2026:** 🛡️ **Defesa de Perímetro (Patch 2.0):** Executada detetização química profissional em toda a infraestrutura do prédio e da residência (foco na área do cultivo). 
+* **Manejo Pós-Detetização:** Acionado ventilador oscilante em velocidade baixa por 30 minutos para renovação tática do ar na sala, evitando estresse tóxico foliar sem comprometer a umidade base. Ecossistema agora conta com defesa orgânica interna (Neem) e química externa.
 * **10/06/2026:** Inspeção de QA pós-intervenção: Plantas exibindo saúde excepcional, sem sinais de fitotoxicidade pós-Neem. Verde vibrante e turgidez foliar ("rezando" para a luz).
 * **09/06/2026:** 🚨 **Bug Bounty (Tríade do Mal):** Identificada infestação tripla - Pulgões (Aphids), Fungus Gnats e Mosca Branca.
 * **09/06/2026:** 🔫 **Intervenção Química/Orgânica:** Executado o *deploy* de Óleo de Neem (Solução: 500ml H2O + 2,5ml Neem via conta-gotas de precisão + gota de detergente para quebra de tensão superficial). Aplicação foliar completa (*under-canopy*) e superfície do solo. Taxa de mortalidade inicial de 90%. Próximo *patch* programado para 17/06 (quebra do ciclo reprodutivo de 7 dias).
