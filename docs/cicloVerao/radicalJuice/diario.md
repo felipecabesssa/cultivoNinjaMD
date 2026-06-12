@@ -1,5 +1,13 @@
 # 📓 Diário de Ciclo - Radical Juice
 
+## 🧊 Log de Extração e Teste de Fumaça (Ice Hash) - 11/06/2026
+* **Status:** Primeiro lote de extração solventless totalmente estabilizado e finalizado.
+* **Qualidade (A Nata):** Rendimento de 1 grama de resina puríssima extraída da primeira batida (First Wash). Matéria-prima de altíssima clareza e carga de terpenos viva.
+* **Processo de Secagem:** 5 dias de secagem passiva contínua em ambiente controlado na geladeira. Resultado 100% seco, maleável, sem umidade residual e sem oxidação escura indesejada.
+* **Acabamento (Técnica Cannoli):** Executada a prensa morna controlada (garrafa/cano com água morna) para fundir as cabeças de tricoma. Produto final resultou em um templo ball/canoli extremamente brilhante, oleoso e maleável (padrão premium internacional).
+* **Validação de QA (Smoke Test):** Feedback do testador externo/brother consagrado como "a melhor coisa que ele já fumou na vida". Sabor absurdamente limpo, explosão floral/frutada da Radical Juice e potência cerebral imediata sem impurezas de queima.
+* **Lote Secundário (Backlog):** O restante da matéria úmida foi microplanado (ralado fino) e realocado na geladeira para secagem passiva estendida a frio, visando preservar os monoterpenos voláteis.
+
 ## Log de Cura - 08/06/2026
 *   **Status:** Aproximando-se da marca de 1 Mês (Estágio de estabilização olfativa).
 *   **Perfil Sensorial:** Aroma extremamente potente e limpo quando exposto a ambientes não-viciados (ar livre). O sabor (paladar) ainda está em fase de maturação.
