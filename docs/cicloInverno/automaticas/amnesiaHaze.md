@@ -1,5 +1,13 @@
 # 🧠 Amnesia Haze Auto
 
+## 📓 Diário de Ciclo (Encerramento)
+
+* **12/06/2026:** 🔴 **Ciclo Abortado Oficialmente.** Visando a eficiência operacional e a mitigação de riscos em um primeiro ciclo com automáticas, a branch da Amnesia Haze foi encerrada. O frio severo travou o boot das sementes #2 e #3, e o excesso de umidade confinada no domo gerou um ataque de micélio (damping off) na plântula #1.
+* **Lições Aprendidas (Post-Mortem):**
+  1. Germinação no inverno exige controle ativo de temperatura de solo (ex: tapete térmico).
+  2. Domos de umidade precisam de janelas frequentes de troca de ar quando instalados sobre solo orgânico vivo enriquecido com Bokashi.
+  3. Redução de escopo estratégica estabilizou o ecossistema em 3 instâncias perfeitas.
+
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
 

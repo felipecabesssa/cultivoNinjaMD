@@ -10,26 +10,17 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 | :--- | :--- | :--- |
 | 🍇 **Radical Juice** | 🟡 Cura a Frio (Cold Cure) | 📦 12°C / 62% UR (Boveda). Burp Semanal. |
 | 🍋 **Super Lemon Haze** | 🟢 Vegetativo Pleno | ✂️ Poda Top / LST. Nutrição Mineral 2A/2B/0.4C. |
-| ❄️ **Autos de Inverno** | 🔵 Germinação (Incubadora)| 🌱 Radículas aparentes. Transplante iminente. |
-| 🧊 **Ice Hash (Bubble)** | 🟡 Secagem / Microplaning | ⚖️ Rendimento Úmido: 20g. Secagem passiva (Pizza Box). |
+| ⛽ **Sour Diesel Auto** | 🟢 Berçário (Vaso 15L) | 🌱 Primeiro par de folhas em expansão vigorosa sob LED. |
+| 🧊 **Ice Hash (Bubble)** | 🟢 Consumo / Secagem Fase 2 | ⚖️ 1g Nata Pura (Cannoli) pronto. Restante microplanado na geladeira. |
 
 ---
 
-## 🚀 Projetos e Frentes Ativas (Atualização: 08/06/2026)
+## 🚀 Projetos e Frentes Ativas (Atualização: 12/06/2026)
 
-* **Super Lemon Haze (Vega):** Treinamento HST (Poda Top) e LST em andamento. Combate preventivo a Fungus Gnats via Óleo de Neem e barreira de Fibra de Coco.
-* **Radical Juice (Cura):** Protocolo premium em 12°C / 62% UR atingiu estabilidade absoluta. Aroma em maturação intensa no marco de 1 mês de cura.
-* **Autos de Inverno (Sprint Natal):** Sour Diesel e Amnesia Haze hidratadas com sucesso (100% de germinação). Preparação do Living Soil com Bokashi e Perlita.
-* **Extrações (Solventless):** Projeto Ice Hash executado. Matéria retornou 20g (Wet), atualmente em processo de secagem e estabilização de resina.
-* **Sustentabilidade:** Composteira orgânica doméstica ativada.
-
----
-
-## 📋 Protocolos de Manejo (SOPs)
-
-* **Cura Cold Storage:** Mandatório aclimatar os potes herméticos por 30 minutos em temperatura ambiente externa antes da abertura para prevenção absoluta de condensação interna.
-* **Nutrição Vega:** Regas de 1L a 2L com mix mineral (Easycoco) baseadas na verificação de *runoff* (capacidade de campo) e peso do vaso de feltro.
-* **Manejo Integrado de Pragas:** Aplicação combinada de métodos físicos (Barreira de Coco), químicos-orgânicos (Óleo de Neem) e armadilhas adesivas.
+* **Super Lemon Haze (Vega):** Duas instâncias respondendo com vigor extremo. Eficácia de 95% no extermínio de pragas pós-patch de Neem e detetização do perímetro.
+* **Sour Diesel Auto (Sprint Natal):** Única instância automática ativa. Sistema inicial estabilizado no solo com Bokashi e Perlita.
+* **Radical Juice (Extrações):** Sucesso absoluto no primeiro deploy de Ice Hash (First Wash). Produto final batizado no método Cannoli com nota máxima de satisfação no smoke test. Restante do lote em secagem na geladeira.
+* **Amnesia Haze Auto:** Ciclo descontinuado na fase de germinação para balanceamento de carga de trabalho e foco em qualidade técnica (Foco em 3 instâncias).
 
 ---
 
@@ -48,35 +39,27 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 > [!IMPORTANT]
 > ### 🍇 [Radical Juice](./docs/radicalJuice/cura.md)
-> **Status:** 🟡 EM CURA (Cold Storage - Gavetão 12°C)
+> **Status:** 🟡 EM CURA (Cold Storage / Extração Ativa)
 > 
 > * **Período de Cultivo:** Jan/2026 - Maio/2026
-> * **Data Colheita:** 12/05/2026
-> * **Início da Cura (Potes):** 18/05/2026
-> * **Atingimento do "Sweet Spot" (12°C/62%):** Junho/2026
-
-<br>
-
-> [!NOTE]
-> ### ❄️ [Amnesia Haze Auto (Sprint de Natal)](./cicloInverno/automaticas/amnesiaHaze.md)
-> **Status:** 🔵 EM INICIAÇÃO (Incubadora / Berçário)
-> 
-> * **Período de Cultivo:** Junho/2026 - Dez/2026
-> * **Data Germinação:** 06/06/2026 (Hidratação profunda)
-> * **Data Transplante (Definitivo 15L):** 10/06/2026
-> * **Data Prevista Colheita:** Final de Novembro/2026
+> * **Lote Ice Hash:** 1g Full Melt (First Wash) Finalizado / Restante em microplaning.
 
 <br>
 
 > [!NOTE]
 > ### ⛽ [Sour Diesel Auto](./cicloInverno/automaticas/sourDiesel.md)
-> **Status:** 🔵 EM INICIAÇÃO (Incubadora / Berçário)
+> **Status:** 🟢 EM OPERAÇÃO (Berçário / Vaso Definitivo)
 > 
 > * **Período de Cultivo:** Junho/2026 - Nov/2026
-> * **Data Germinação:** 06/06/2026 (Hidratação profunda)
-> * **Data Transplante (Definitivo 15L):** 10/06/2026
-> * **Data Prevista Colheita:** Final de Novembro/2026
+> * **Data Germinação:** 06/06/2026
+> * **Data Transplante (Definitivo 15L):** 09/06/2026
 
----
-*Status: Operacional (Full Stack Botânico)* | *Hardware: PC Novo (RTX) + Infraestrutura Térmica Ativa*
-*Última atualização: 08/06/2026 - Refatoração de Arquitetura de Arquivos e Lançamento do Ciclo de Inverno.*
+<br>
+
+> [!WARNING]
+> ### ❌ [Amnesia Haze Auto](./cicloInverno/automaticas/amnesiaHaze.md)
+> **Status:** 🔴 ABORTADO (Otimização de Escopo)
+> 
+> * **Data Germinação:** 06/06/2026
+> * **Encerramento do Ciclo:** 12/06/2026
+> * **Motivo:** Travamento térmico por frio severo e damping off na plântula #1.
