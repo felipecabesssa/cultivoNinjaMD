@@ -8,6 +8,10 @@
 * **Validação de QA (Smoke Test):** Feedback do testador externo/brother consagrado como "a melhor coisa que ele já fumou na vida". Sabor absurdamente limpo, explosão floral/frutada da Radical Juice e potência cerebral imediata sem impurezas de queima.
 * **Lote Secundário (Backlog):** O restante da matéria úmida foi microplanado (ralado fino) e realocado na geladeira para secagem passiva estendida a frio, visando preservar os monoterpenos voláteis.
 
+## Ice day 13/06/2026
+
+* 🧊 **Finalização do Lote Ice Hash:** Batida do restante da matéria vegetal microplanada (Second Wash). Rendimento adicional de 3g, somando um total de 5g de resina *premium* (junto com as 2g da nata inicial). Aplicada técnica *Cannoli* para ativação e fusão dos tricomas. Degustação de altíssima qualidade e potência cerebral realizada no mesmo dia. Sucesso absoluto de extração *solventless*.
+
 ## Log de Cura - 08/06/2026
 *   **Status:** Aproximando-se da marca de 1 Mês (Estágio de estabilização olfativa).
 *   **Perfil Sensorial:** Aroma extremamente potente e limpo quando exposto a ambientes não-viciados (ar livre). O sabor (paladar) ainda está em fase de maturação.
