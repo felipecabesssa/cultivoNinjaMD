@@ -1,4 +1,4 @@
-# 🧠 Amnesia Haze Auto
+# 🧠 Amnesia Haze Auto (Encerrado em 12/06/2026)
 
 ## 📓 Diário de Ciclo (Encerramento)
 
