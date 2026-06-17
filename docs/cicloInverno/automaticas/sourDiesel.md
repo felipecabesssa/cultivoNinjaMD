@@ -2,8 +2,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
-
-
+* **16/06/2026:** 🌤️ **Desmame do Domo:** Retirada definitiva do domo de umidade. Rega de 200ml (H2O + CalMag, pH 6.2). Umidade da sala garantindo o microclima em 80% UR com auxílio de borrifador manual pós-ventilação.
+* **13/06/2026:** 🌱 **Expansão Vegetativa:** Primeiro par de folhas verdadeiras completamente formado. Executada rega de precisão (200ml de H2O declorada) restrita ao perímetro interno do domo.
 * **10/06/2026:** 🛡️ **Defesa de Perímetro e Aclimatação:** Planta operando junto com as SLH no ambiente principal de Vega (Sala). Sobreviveu com sucesso ao evento de detetização externa da residência. 
 * **Manejo Climático:** Ventilador acionado por 30 minutos para purgar o ar químico do ambiente, com umidificador segurando os parâmetros perto dos 85% UR e 23°C.
 * **10/06/2026:** Estabilização na UTI Neonatal. Domo de umidade ativo com umidificador externo mantendo o macroclima em 85% UR e 23,2°C. Painel Pro-Master rodando a 20% de potência (70cm de distância).
