@@ -2,6 +2,10 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+* **17/06/2026:** 🛡️ **Patch Secundário (Prevenção):** Aplicação de precisão foliar de Óleo de Neem (2.3g/2.5ml + gota de detergente) antes do desligamento do LED. Foco na erradicação de ovos remanescentes e pequenas cigarrinhas de luz. 
+* **16/06/2026:** 🚿 **Operação de Flush Passivo:** Executada lavagem controlada com 4L de H2O + 1ml CalMag (pH 6.2 / EC 200). Runoff alcançou 700ml (~17.5% de dreno), derrubando o EC retido (que estava em 2.500) para a faixa ideal de 1.080. Sistema radicular desobstruído.
+* **13/06/2026:** 🛠️ **Manejo Estrutural e Nutricional:** Executada rega pesada (2 Litros/vaso) com solução mineral (2A/2B/0.4C). Leitura de EC de saída alertou acúmulo de sais em 2.500. Aplicada desfolha leve para desobstrução de fluxo de ar e reajuste intenso das amarras de LST.
 * **10/06/2026:** 🛡️ **Defesa de Perímetro (Patch 2.0):** Executada detetização química profissional em toda a infraestrutura do prédio e da residência (foco na área do cultivo). 
 * **Manejo Pós-Detetização:** Acionado ventilador oscilante em velocidade baixa por 30 minutos para renovação tática do ar na sala, evitando estresse tóxico foliar sem comprometer a umidade base. Ecossistema agora conta com defesa orgânica interna (Neem) e química externa.
 * **10/06/2026:** Inspeção de QA pós-intervenção: Plantas exibindo saúde excepcional, sem sinais de fitotoxicidade pós-Neem. Verde vibrante e turgidez foliar ("rezando" para a luz).
@@ -23,6 +27,8 @@
 
 | Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **16/06** | Vega | 2L | 1ml CalMag (Flush) | Entrada EC 200 / pH 6.2. Runoff 700ml (EC 1080). Lavagem de sais bem-sucedida. |
+| **13/06** | Vega | 2L | 2A + 2B + 0.40C | Runoff EC 2.500 (Alerta de acúmulo de sais no substrato). |
 | **08/06** | Vega | 1L | 2A + 2B + 0.40C + 2ml CalMag | Runoff Zero. Próxima rega subir para 2L. |
 | **25/05** | Vega | 700ml | 1A + 1B + 0.25C | Plantas respondendo com vigor. |
 | **24/05** | Vega | 700ml | 1A + 1B + 0.25C | - |
