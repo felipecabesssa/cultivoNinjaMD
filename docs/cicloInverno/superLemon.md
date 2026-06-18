@@ -2,8 +2,6 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
-
-
 * **10/06/2026:** 🛡️ **Defesa de Perímetro (Patch 2.0):** Executada detetização química profissional em toda a infraestrutura do prédio e da residência (foco na área do cultivo). 
 * **Manejo Pós-Detetização:** Acionado ventilador oscilante em velocidade baixa por 30 minutos para renovação tática do ar na sala, evitando estresse tóxico foliar sem comprometer a umidade base. Ecossistema agora conta com defesa orgânica interna (Neem) e química externa.
 * **10/06/2026:** Inspeção de QA pós-intervenção: Plantas exibindo saúde excepcional, sem sinais de fitotoxicidade pós-Neem. Verde vibrante e turgidez foliar ("rezando" para a luz).
@@ -37,20 +35,24 @@
 
 ---
 
-## 🗺️ Roadmap e Milestones
-* **Objetivo:** Extração máxima de rendimento foliar e estrutural durante vegetativo longo.
-* [x] **Mar/Abr:** Germinação e superação de gargalo inicial.
-* [x] **Maio:** Transplante para 20L e introdução de dieta mineral.
-* [x] **Junho:** Vegetativo Pleno. Foco em treinamento (LST/Podas) para multiplicar os topos.
-* [ ] **Julho:** Transição para o quarto climatizado.
-* [ ] **Agosto:** Flip para Floração (12/12) e acompanhamento do *stretch*.
+## 🗺️ Roadmap e Milestones (Estratégia: Ciclo Rápido)
+* **Objetivo Atualizado:** Controle de altura (mitigação do *stretch* da Sativa) e giro rápido de estoque para reabastecimento contínuo.
+
+* [x] **30/03/2026:** Germinação e superação de gargalo inicial.
+* [x] **Maio/2026:** Transplante para 20L e introdução de dieta mineral.
+* [x] **Junho/2026:** Vegetativo Pleno. Foco em treinamento intensivo (LST/Podas) para multiplicar os topos e alargar a copa.
+* [ ] **Final de Junho/2026 (Pós-viagem):** **Flip para Floração (12/12).** Ajuste de infraestrutura (elevação do painel LED Pro-Mid) para acomodar o estirão inicial (*stretch*).
+* [ ] **Julho/2026:** Acompanhamento do *stretch*, controle de umidade e desfolha tática (Lollipopping) para focar energia nos topos superiores.
+* [ ] **Final de Agosto / Início de Setembro/2026:** **Data Prevista de Colheita (Harvest).** Estimativa de 9 a 10 semanas de floração pós-flip.
+* [ ] **Meados de Setembro/2026:** **Secagem:** Processo de 10 a 14 dias em ambiente controlado (foco em retenção de terpenos e cura lenta).
+* [ ] **Início de Outubro/2026:** **Cura e Consumo.** Ponto de maturação ideal nos potes herméticos. Liberada para testes de fumaça (Smoke Test) e reposição oficial do estoque.
 
 ---
 
 ## 🛠️ Infraestrutura e Ambiente
-* **Iluminação:** Painel LED Pro-Mid 240W (Dimmer 30% | Altura: ~60cm).
-* **Ventilação:** Ventilador oscilante vel. 1 para Tigmomorfogênese.
-* **Umidade:** Target >70% (Umidificador ativo + borrifadas).
+* **Iluminação:** Painel LED Pro-Mid 240W (Dimmer 30% | Altura: ~60cm - *Preparado para elevação pós-flip*).
+* **Ventilação:** Ventilador oscilante vel. 1 para Tigmomorfogênese e controle de pragas.
+* **Umidade:** Target >70% na Vega (Redução progressiva programada para o Flip).
 * **Estrutura Radicular:** Vasos Feltro 20L | Carolina Soil + Dreno de Argila + Bokashi + Fibra de Coco.
 
 ---
