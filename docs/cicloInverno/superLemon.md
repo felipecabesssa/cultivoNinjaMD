@@ -2,6 +2,7 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **20/06/2026:** 📊 **Monitoramento Remoto:** Verificação de estabilidade térmica e umidade do ecossistema. Ambiente mantendo parâmetros ideais para transição vegetativa.
 * **19/06/2026:** 🛡️ **Check-up Preventivo:** Inspeção estrutural de LST e verificação de umidificadores antes de período de ausência. Saúde das plantas impecável, sem sinais de pragas.
 * **17/06/2026:** 🛡️ **Patch Secundário (Prevenção):** Aplicação de precisão foliar de Óleo de Neem (2.3g/2.5ml + gota de detergente) antes do desligamento do LED. Foco na erradicação de ovos remanescentes e pequenas cigarrinhas de luz. 
 * **16/06/2026:** 🚿 **Operação de Flush Passivo:** Executada lavagem controlada com 4L de H2O + 1ml CalMag (pH 6.2 / EC 200). Runoff alcançou 700ml (~17.5% de dreno), derrubando o EC retido (que estava em 2.500) para a faixa ideal de 1.080. Sistema radicular desobstruído.
