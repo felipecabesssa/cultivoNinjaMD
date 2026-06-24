@@ -18,6 +18,9 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ## 🚀 Projetos e Frentes Ativas (Atualização: 18/06/2026)
 
+
+* **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração das SLH para tenda de flora no quarto. Executada poda *Lollipopping* severa. Início do uso de ar condicionado (EOS - 17ºC (noite) a 24ºC (dia)) para controle térmico de flora. 
+* **24/06/2026:** 🧬 **Backup Genético:** Executada clonagem (Backup de segurança) de 2 estacas de SLH via método de imersão em extrato húmico e ambiente de alta umidade (UTI Neonatal).
 * **Legislação e Biossegurança:** Laudo Agronômico emitido com sucesso! Arquitetura legal desenhada para garantir autossuficiência contínua (64 plantas anuais em 3 ciclos)[cite: 1]. 
 * **Super Lemon Haze (Vega):** Executado flush passivo corretivo com sucesso absoluto (EC ajustado). Planejamento estratégico alterado para "Ciclos Rápidos": flip para floração (12/12) antecipado para o final de junho visando controle rigoroso de altura (*stretch*) e giro de estoque. Patch preventivo de Neem aplicado (17/06).
 * **Sour Diesel Auto (Sprint Natal):** Domo retirado. Planta ativando transpiração independente e expandindo o primeiro par de folhas verdadeiras.

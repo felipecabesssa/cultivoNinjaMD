@@ -2,6 +2,9 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+* **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração definitiva para o quarto (Flora). Painel Pro-Master a 25cm (80%). Executada poda *Lollipopping* para otimização de topos, Início do uso de ar condicionado (EOS - 17ºC (noite) a 24ºC (dia)).
+* **24/06/2026:** 🧪 **Protocolo de Clonagem:** Iniciado backup da genética via 2 estacas (copos 200ml) em ambiente de alta umidade com extrato húmico.
 * **20/06/2026:** 📊 **Monitoramento Remoto:** Verificação de estabilidade térmica e umidade do ecossistema. Ambiente mantendo parâmetros ideais para transição vegetativa.
 * **19/06/2026:** 🛡️ **Check-up Preventivo:** Inspeção estrutural de LST e verificação de umidificadores antes de período de ausência. Saúde das plantas impecável, sem sinais de pragas.
 * **17/06/2026:** 🛡️ **Patch Secundário (Prevenção):** Aplicação de precisão foliar de Óleo de Neem (2.3g/2.5ml + gota de detergente) antes do desligamento do LED. Foco na erradicação de ovos remanescentes e pequenas cigarrinhas de luz. 
