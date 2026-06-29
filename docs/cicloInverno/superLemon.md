@@ -2,7 +2,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
-
+* **29/06/2026:** 🛡️ **Validação de Diagnóstico (QA):** Resposta orgânica perfeita à rega de domingo. Recuperação de 100% da pressão de turgor hidráulico. Plantas "rezando" (folhas firmes apontadas para o painel LED), dissipando totalmente a suspeita de *lockout* de nutrientes. Estresse comprovadamente hídrico.
+* **28/06/2026:** 🚿 **Rega de Flora (Ajuste por Titulação):** Executada rega estrutural focada em evitar o overfert anterior. Solução preparada por titulação manual até cravar a meta segura. Entrada: 2.5L/planta (EC 900 / pH 6.2). Sistema respondeu com precisão: Runoff de 1L com EC estável em 1.100.
 * **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração definitiva para o quarto (Flora). Painel Pro-Master a 25cm (80%). Executada poda *Lollipopping* para otimização de topos, Início do uso de ar condicionado (EOS - 17ºC (noite) a 24ºC (dia)).
 * **24/06/2026:** 🧪 **Protocolo de Clonagem:** Iniciado backup da genética via 2 estacas (copos 200ml) em ambiente de alta umidade com extrato húmico.
 * **20/06/2026:** 📊 **Monitoramento Remoto:** Verificação de estabilidade térmica e umidade do ecossistema. Ambiente mantendo parâmetros ideais para transição vegetativa.
@@ -31,6 +32,7 @@
 
 | Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **28/06** | Flora (W1) | 2.5L | Mix Flora Titulado | Entrada EC 900 / pH 6.2. Runoff 1L (EC 1.100). Substrato lavado e com salinidade perfeita. |
 | **16/06** | Vega | 2L | 1ml CalMag (Flush) | Entrada EC 200 / pH 6.2. Runoff 700ml (EC 1080). Lavagem de sais bem-sucedida. |
 | **13/06** | Vega | 2L | 2A + 2B + 0.40C | Runoff EC 2.500 (Alerta de acúmulo de sais no substrato). |
 | **08/06** | Vega | 1L | 2A + 2B + 0.40C + 2ml CalMag | Runoff Zero. Próxima rega subir para 2L. |

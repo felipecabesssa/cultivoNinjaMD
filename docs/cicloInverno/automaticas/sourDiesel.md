@@ -2,6 +2,7 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **28/06/2026:** 🚿 **Rega de Manutenção (Berçário):** Executada hidratação basal focada em desenvolvimento radicular. Volume: 500ml de água declorada + 1ml de CalMag (pH 6.2). Sem runoff, para manter a umidade contida no centro do vaso.
 * **16/06/2026:** 🌤️ **Desmame do Domo:** Retirada definitiva do domo de umidade. Rega de 200ml (H2O + CalMag, pH 6.2). Umidade da sala garantindo o microclima em 80% UR com auxílio de borrifador manual pós-ventilação.
 * **13/06/2026:** 🌱 **Expansão Vegetativa:** Primeiro par de folhas verdadeiras completamente formado. Executada rega de precisão (200ml de H2O declorada) restrita ao perímetro interno do domo.
 * **10/06/2026:** 🛡️ **Defesa de Perímetro e Aclimatação:** Planta operando junto com as SLH no ambiente principal de Vega (Sala). Sobreviveu com sucesso ao evento de detetização externa da residência. 
@@ -19,6 +20,7 @@
 
 | Data | Fase | Volume | Nutrição | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **28/06** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem runoff. Planta aumentando demanda hídrica. |
 | - | Berçário | - | - | Aguardando transplante. |
 
 ---
