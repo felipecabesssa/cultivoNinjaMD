@@ -2,6 +2,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+* **30/06/2026:** 📈 **Monitoramento de Alto Consumo (Stretch):** Confirmado o ápice do metabolismo de floração. Apenas 48h após a última rega, as instâncias já apresentam leve perda de turgor foliar novamente. O estirão estrutural está exigindo carga máxima de água. Nova rega programada para amanhã para manter o motor térmico (17°C/20°C) rodando liso.
 * **29/06/2026:** 🛡️ **Validação de Diagnóstico (QA):** Resposta orgânica perfeita à rega de domingo. Recuperação de 100% da pressão de turgor hidráulico. Plantas "rezando" (folhas firmes apontadas para o painel LED), dissipando totalmente a suspeita de *lockout* de nutrientes. Estresse comprovadamente hídrico.
 * **28/06/2026:** 🚿 **Rega de Flora (Ajuste por Titulação):** Executada rega estrutural focada em evitar o overfert anterior. Solução preparada por titulação manual até cravar a meta segura. Entrada: 2.5L/planta (EC 900 / pH 6.2). Sistema respondeu com precisão: Runoff de 1L com EC estável em 1.100.
 * **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração definitiva para o quarto (Flora). Painel Pro-Master a 25cm (80%). Executada poda *Lollipopping* para otimização de topos, Início do uso de ar condicionado (EOS - 17ºC (noite) a 24ºC (dia)).
