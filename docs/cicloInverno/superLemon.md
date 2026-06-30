@@ -30,6 +30,13 @@
 
 ---
 
+## 🧬 Diário de Clonagem (Backup Genético)
+
+* **30/06/2026:** 💧 **Manutenção da UTI Neonatal:** Devido à extrema secura do clima, estabelecido protocolo de borrifar as paredes internas dos domos (garrafas PET) 2x ao dia. Folhas sem contato direto com o plástico, mitigando 100% o risco de mofo ou apodrecimento.
+* **28/06/2026:** 🧬 **Monitoramento de Clones (W1):** Sucesso absoluto na estabilização inicial. Estacas mantêm caules rígidos e folhagem verde e vibrante. Nenhuma perda de turgor registrada. Domo segurando umidade perfeitamente na faixa de 80-90%. O sistema vascular se adaptou ao corte e a compilação do sistema radicular está em andamento.
+
+---
+
 ## 🚿 Log de Nutrição e Regas
 
 | Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
