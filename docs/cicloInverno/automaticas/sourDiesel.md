@@ -2,6 +2,7 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **01/07/2026:** 🚿 **Rega e Transição Nutricional:** Aplicação de 500ml de H2O + 1ml CalMag. Planejado aumento de volume para 1L na próxima rega, incluindo a inserção da primeira carga leve de nutrientes base de Vega (Target EC: 400-600) para suprir expansão radicular e foliar.
 * **30/06/2026:** 📈 **Aceleração Vegetativa:** Monitoramento indica que a planta secou o vaso mais rápido que o habitual. Raízes em franca expansão pelo vaso de 15L, começando a exigir um volume hídrico maior para os próximos dias.
 * **28/06/2026:** 🚿 **Rega de Manutenção (Berçário):** Executada hidratação basal focada em desenvolvimento radicular. Volume: 500ml de água declorada + 1ml de CalMag (pH 6.2). Sem runoff, para manter a umidade contida no centro do vaso.
 * **16/06/2026:** 🌤️ **Desmame do Domo:** Retirada definitiva do domo de umidade. Rega de 200ml (H2O + CalMag, pH 6.2). Umidade da sala garantindo o microclima em 80% UR com auxílio de borrifador manual pós-ventilação.
@@ -21,8 +22,12 @@
 
 | Data | Fase | Volume | Nutrição | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **04/07** | Vega | 1L | Mix Vega (Fator 0.40) | **[PROGRAMADA]** Expansão de volume. Target EC 400-600. Início de nutrição mineral leve para suportar estirão radicular. |
+| **01/07** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem Runoff. Raízes em franca expansão; próxima rega requer base nutrients leve (400-600 EC). |
 | **28/06** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem runoff. Planta aumentando demanda hídrica. |
-| - | Berçário | - | - | Aguardando transplante. |
+| **16/06** | Berçário | 200ml | CalMag | Desmame do domo de umidade. |
+| **13/06** | Berçário | 200ml | Água Pura | Expansão foliar inicial. |
+| - | Germinação | - | - | Semente transplantada direto para 15L (09/06). |
 
 ---
 

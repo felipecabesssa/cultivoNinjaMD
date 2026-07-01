@@ -19,6 +19,10 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 ## 🚀 Projetos e Frentes Ativas (Atualização: 18/06/2026)
 
 
+* **Status Atual (01/07/2026):** 
+  * **Super Lemon Haze (Flora W1):** Em pleno *stretch* (estirão). Metabolismo acelerado, consumindo 2.5L por rega. Runoff estável e ambiente controlado via ar condicionado (18°C - 22°C).
+  * **Sour Diesel (Vega):** Evolução vegetativa inicial. Aumento da capacidade de rega para 1L e introdução da primeira carga de nutrientes base.
+  * **Clones SLH:** Em fase de enraizamento (UTI Neonatal).
 * **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração das SLH para tenda de flora no quarto. Executada poda *Lollipopping* severa. Início do uso de ar condicionado (EOS - 17ºC (noite) a 24ºC (dia)) para controle térmico de flora. 
 * **24/06/2026:** 🧬 **Backup Genético:** Executada clonagem (Backup de segurança) de 2 estacas de SLH via método de imersão em extrato húmico e ambiente de alta umidade (UTI Neonatal).
 * **Legislação e Biossegurança:** Laudo Agronômico emitido com sucesso! Arquitetura legal desenhada para garantir autossuficiência contínua (64 plantas anuais em 3 ciclos)[cite: 1]. 

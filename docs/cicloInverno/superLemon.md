@@ -2,7 +2,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
-
+* **01/07/2026:** 🚿 **Rega Estrutural (Flora W1):** Aplicação de 2.5L/planta com CalMag (2ml no mix total). EC de Entrada: 1.100 / pH 6.4. Retorno de 500-700ml com EC 1.200. Leitura do sistema: Absorção perfeita, sem acúmulo de sais e metabolismo trabalhando em capacidade ideal (18-22°C). 
+* **01/07/2026:** 🧬 **Clones SLH:** Início do planejamento de aclimatação (desmame do domo) para integração ao ambiente vegetativo de 80-90% de UR. Solo mantido úmido, hidratação feita via aspersão foliar e nas paredes da PET.
 * **30/06/2026:** 📈 **Monitoramento de Alto Consumo (Stretch):** Confirmado o ápice do metabolismo de floração. Apenas 48h após a última rega, as instâncias já apresentam leve perda de turgor foliar novamente. O estirão estrutural está exigindo carga máxima de água. Nova rega programada para amanhã para manter o motor térmico (17°C/20°C) rodando liso.
 * **29/06/2026:** 🛡️ **Validação de Diagnóstico (QA):** Resposta orgânica perfeita à rega de domingo. Recuperação de 100% da pressão de turgor hidráulico. Plantas "rezando" (folhas firmes apontadas para o painel LED), dissipando totalmente a suspeita de *lockout* de nutrientes. Estresse comprovadamente hídrico.
 * **28/06/2026:** 🚿 **Rega de Flora (Ajuste por Titulação):** Executada rega estrutural focada em evitar o overfert anterior. Solução preparada por titulação manual até cravar a meta segura. Entrada: 2.5L/planta (EC 900 / pH 6.2). Sistema respondeu com precisão: Runoff de 1L com EC estável em 1.100.
@@ -32,6 +33,7 @@
 
 ## 🧬 Diário de Clonagem (Backup Genético)
 
+* **01/07/2026:** Início do planejamento de aclimatação (*Hardening Off*). Solo úmido, hidratação focada nas paredes dos domos PET. Clones apresentam estrutura vascular firme e saudável.
 * **30/06/2026:** 💧 **Manutenção da UTI Neonatal:** Devido à extrema secura do clima, estabelecido protocolo de borrifar as paredes internas dos domos (garrafas PET) 2x ao dia. Folhas sem contato direto com o plástico, mitigando 100% o risco de mofo ou apodrecimento.
 * **28/06/2026:** 🧬 **Monitoramento de Clones (W1):** Sucesso absoluto na estabilização inicial. Estacas mantêm caules rígidos e folhagem verde e vibrante. Nenhuma perda de turgor registrada. Domo segurando umidade perfeitamente na faixa de 80-90%. O sistema vascular se adaptou ao corte e a compilação do sistema radicular está em andamento.
 
@@ -41,6 +43,8 @@
 
 | Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **04/07** | Flora (W1) | 2.5L | Mix Flora (Fator 0.40) | **[PROGRAMADA]** Target EC 1.100. Mix: 2.5ml A / 2.5ml B / 0.5ml C (Para 5L totais) + 2ml CalMag. |
+| **01/07** | Flora (W1) | 2.5L | Mix Flora + 2ml CalMag | Entrada EC 1.100 / pH 6.4. Runoff 500-700ml (EC 1.200). Absorção limpa. |
 | **28/06** | Flora (W1) | 2.5L | Mix Flora Titulado | Entrada EC 900 / pH 6.2. Runoff 1L (EC 1.100). Substrato lavado e com salinidade perfeita. |
 | **16/06** | Vega | 2L | 1ml CalMag (Flush) | Entrada EC 200 / pH 6.2. Runoff 700ml (EC 1080). Lavagem de sais bem-sucedida. |
 | **13/06** | Vega | 2L | 2A + 2B + 0.40C | Runoff EC 2.500 (Alerta de acúmulo de sais no substrato). |
@@ -62,8 +66,8 @@
 * [x] **30/03/2026:** Germinação e superação de gargalo inicial.
 * [x] **Maio/2026:** Transplante para 20L e introdução de dieta mineral.
 * [x] **Junho/2026:** Vegetativo Pleno. Foco em treinamento intensivo (LST/Podas) para multiplicar os topos e alargar a copa.
-* [ ] **Final de Junho/2026 (Pós-viagem):** **Flip para Floração (12/12).** Ajuste de infraestrutura (elevação do painel LED Pro-Mid) para acomodar o estirão inicial (*stretch*).
-* [ ] **Julho/2026:** Acompanhamento do *stretch*, controle de umidade e desfolha tática (Lollipopping) para focar energia nos topos superiores.
+* [x] **24/06/2026:** **Flip para Floração (12/12).** Migração para o quarto com ar condicionado. Poda *Lollipopping* executada com sucesso.
+* [ ] **Julho/2026:** Acompanhamento do *stretch* (W1-W3), gestão de nutrição focada em pistilos e manutenção térmica (17°C noturno / 22°C diurno) para indução de tricomas.
 * [ ] **Final de Agosto / Início de Setembro/2026:** **Data Prevista de Colheita (Harvest).** Estimativa de 9 a 10 semanas de floração pós-flip.
 * [ ] **Meados de Setembro/2026:** **Secagem:** Processo de 10 a 14 dias em ambiente controlado (foco em retenção de terpenos e cura lenta).
 * [ ] **Início de Outubro/2026:** **Cura e Consumo.** Ponto de maturação ideal nos potes herméticos. Liberada para testes de fumaça (Smoke Test) e reposição oficial do estoque.
@@ -71,9 +75,9 @@
 ---
 
 ## 🛠️ Infraestrutura e Ambiente
-* **Iluminação:** Painel LED Pro-Mid 240W (Dimmer 30% | Altura: ~60cm - *Preparado para elevação pós-flip*).
-* **Ventilação:** Ventilador oscilante vel. 1 para Tigmomorfogênese e controle de pragas.
-* **Umidade:** Target >70% na Vega (Redução progressiva programada para o Flip).
+* **Iluminação:** Painel LED Pro-Master 240W (Dimmer 80% | Altura: ~25cm do topo da copa).
+* **Ventilação:** Exaustão ativa. Ar Condicionado (EOS 12K) mantendo controle térmico rígido (17-22°C). Ventilador oscilante para dispersão.
+* **Umidade:** Target de Flora inicial ~50-55% UR.
 * **Estrutura Radicular:** Vasos Feltro 20L | Carolina Soil + Dreno de Argila + Bokashi + Fibra de Coco.
 
 ---
