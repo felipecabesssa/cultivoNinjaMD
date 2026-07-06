@@ -8,11 +8,12 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 | Ambiente / Projeto | Estágio Atual | Parâmetros / Manejo |
 | :--- | :--- | :--- |
-| ⚖️ **Biossegurança Legal** | 🟢 HC Preventivo | 📝 Laudo Agronômico emitido. Escopo: 64 plantas/ano[cite: 1]. |
-| 🍇 **Radical Juice** | 🟡 Cura a Frio (Cold Cure) | 📦 12°C / 62% UR (Boveda). Racionamento de ~20g. |
-| 🍋 **Super Lemon Haze** | 🟢 Vegetativo Pleno | ✂️ Poda Top / LST agressivo. EC estabilizado pós-flush (1080). |
-| ⛽ **Sour Diesel Auto** | 🟢 Berçário (Vaso 15L) | 🌱 Sem domo. Vegetativo inicial rodando liso a 80% UR. |
-| 🧊 **Ice Hash (Bubble)** | 🟢 Consumo / Degustação | ⚖️ 5g totais finalizados com técnica Cannoli. |
+| ⚖️ **Biossegurança Legal** | 🟢 HC Preventivo | 📄 Laudo Agronômico emitido. Escopo: 64 plantas/ano. |
+| 🍇 **Radical Juice** | 🔴 Fim de Estoque | 🚬 Último beck sobrevivente. Ciclo finalizado com glória. |
+| 🍋 **Super Lemon Haze** | 🟢 Flora (W2 - Engorda) | 🌸 *Stretch* finalizado. EC In/Out cravado e perfeito. |
+| ⛽ **Sour Diesel Auto** | 🟢 Vegetativo Pleno | 🌱 Expansão em Living Soil (15L). Falso positivo de EC resolvido. |
+| 🧬 **Clones SLH** | 🟢 UTI Neonatal | 💧 Domos de umidade ativos (80-90% UR) com aspersão diária. |
+| 🧊 **Ice Hash (Bubble)** | 🚬 Finalizado com glória | ⚖️ 5g totais finalizados com técnica Cannoli. |
 
 ---
 
