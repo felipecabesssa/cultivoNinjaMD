@@ -2,6 +2,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **06/07/2026:** 🚿 **Flush de Correção:** Executada rega com 1.5L de H2O declorada (pH 6.2) para desobstrução preventiva. Runoff alcançou ~2L (utilizando resíduos do vaso) com EC 2.100. Lavagem de sais concluída.
+* **04/07/2026:** 🚨 **Falso Positivo de EC (Living Soil):** Executada rega de 1.5L com sobra de solução (EC 500). O runoff de 500ml retornou leitura assustadora de 2.800 de EC. Confirmado que não se trata de overfert tóxico, mas sim da alta condutividade dos ácidos orgânicos gerados pela biologia do Bokashi e Living Soil.
 * **01/07/2026:** 🚿 **Rega e Transição Nutricional:** Aplicação de 500ml de H2O + 1ml CalMag. Planejado aumento de volume para 1L na próxima rega, incluindo a inserção da primeira carga leve de nutrientes base de Vega (Target EC: 400-600) para suprir expansão radicular e foliar.
 * **30/06/2026:** 📈 **Aceleração Vegetativa:** Monitoramento indica que a planta secou o vaso mais rápido que o habitual. Raízes em franca expansão pelo vaso de 15L, começando a exigir um volume hídrico maior para os próximos dias.
 * **28/06/2026:** 🚿 **Rega de Manutenção (Berçário):** Executada hidratação basal focada em desenvolvimento radicular. Volume: 500ml de água declorada + 1ml de CalMag (pH 6.2). Sem runoff, para manter a umidade contida no centro do vaso.
@@ -22,7 +24,10 @@
 
 | Data | Fase | Volume | Nutrição | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
-| **04/07** | Vega | 1L | Mix Vega (Fator 0.40) | **[PROGRAMADA]** Expansão de volume. Target EC 400-600. Início de nutrição mineral leve para suportar estirão radicular. |
+| **06/07** | Vega | 1.5L | Água Pura | Entrada pH 6.2. Runoff ~2L (EC 2.100). Flush corretivo executado com sucesso. |
+| **04/07** | Vega | 1.5L | Base Leve (EC 500) | Runoff 500ml (EC 2.800). Alerta de Falso Positivo gerado pelo Living Soil. |
+| **01/07** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem Runoff. Raízes em franca expansão. |
+| **04/07** | Vega | 1L | Mix Vega (Fator 0.40) | Expansão de volume. Target EC 400-600. Início de nutrição mineral leve para suportar estirão radicular. |
 | **01/07** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem Runoff. Raízes em franca expansão; próxima rega requer base nutrients leve (400-600 EC). |
 | **28/06** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem runoff. Planta aumentando demanda hídrica. |
 | **16/06** | Berçário | 200ml | CalMag | Desmame do domo de umidade. |

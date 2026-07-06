@@ -18,7 +18,10 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ## 🚀 Projetos e Frentes Ativas (Atualização: 18/06/2026)
 
-
+* **Status Atual (06/07/2026):** 
+  * **Super Lemon Haze (Flora W2):** *Stretch* vertical finalizado. Entrando oficialmente na fase de densidade e engorda dos cálices (formação dos pompons). Nutrição e absorção operando com 100% de eficiência (EC de saída quase cravado com o de entrada).
+  * **Sour Diesel (Vega):** Mantida no solo vivo (Living Soil). Recuperada do susto do falso-positivo de EC do final de semana.
+  * **Clones SLH:** Em fase de manutenção na UTI Neonatal. Umidade alta e domos funcionando.
 * **Status Atual (01/07/2026):** 
   * **Super Lemon Haze (Flora W1):** Em pleno *stretch* (estirão). Metabolismo acelerado, consumindo 2.5L por rega. Runoff estável e ambiente controlado via ar condicionado (18°C - 22°C).
   * **Sour Diesel (Vega):** Evolução vegetativa inicial. Aumento da capacidade de rega para 1L e introdução da primeira carga de nutrientes base.
