@@ -2,6 +2,7 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **07/07/2026:** ✂️ **Treinamento de Alto Estresse (HST) - Poda Top:** Executada a remoção do ápice principal (Topping) para quebra de dominância apical e incentivo ao desenvolvimento lateral. Estrutura da planta exibe altíssimo vigor e saúde foliar plena, garantindo rápida recuperação. Ambiente de UTI mantido a 85% UR para mitigar o estresse cirúrgico.
 * **06/07/2026:** 🚿 **Flush de Correção:** Executada rega com 1.5L de H2O declorada (pH 6.2) para desobstrução preventiva. Runoff alcançou ~2L (utilizando resíduos do vaso) com EC 2.100. Lavagem de sais concluída.
 * **04/07/2026:** 🚨 **Falso Positivo de EC (Living Soil):** Executada rega de 1.5L com sobra de solução (EC 500). O runoff de 500ml retornou leitura assustadora de 2.800 de EC. Confirmado que não se trata de overfert tóxico, mas sim da alta condutividade dos ácidos orgânicos gerados pela biologia do Bokashi e Living Soil.
 * **01/07/2026:** 🚿 **Rega e Transição Nutricional:** Aplicação de 500ml de H2O + 1ml CalMag. Planejado aumento de volume para 1L na próxima rega, incluindo a inserção da primeira carga leve de nutrientes base de Vega (Target EC: 400-600) para suprir expansão radicular e foliar.
