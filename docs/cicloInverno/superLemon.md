@@ -2,6 +2,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+* **08/07/2026:** 🚿 **Rega de Manutenção (Bridge Feed):** Executada rega intermediária rápida para evitar estresse hídrico severo antes do final de semana. Aplicados 2L/planta utilizando sobra de solução base leve (EC 600). Runoff mínimo com leitura de EC entre 700-800. Absorção cirúrgica confirmada, mantendo o metabolismo de engorda ativo e o substrato livre de acúmulo salino.
 * **06/07/2026:** 🚿 **Rega de Flora (Fim do Stretch / Início de Engorda):** Aplicação de 2.5L/planta. Entrada: EC 1.100 / pH 6.2. Runoff espetacular de ~1L com EC 1.200. O sistema está com a taxa de absorção perfeita (Delta de apenas 100 EC). Estrutura vegetal confirmando o fim do estirão e concentrando energia no adensamento dos pistilos ("pompons").
 * **01/07/2026:** 🚿 **Rega Estrutural (Flora W1):** Aplicação de 2.5L/planta com CalMag (2ml no mix total). EC de Entrada: 1.100 / pH 6.4. Retorno de 500-700ml com EC 1.200. Leitura do sistema: Absorção perfeita, sem acúmulo de sais e metabolismo trabalhando em capacidade ideal (18-22°C). 
 * **01/07/2026:** 🧬 **Clones SLH:** Início do planejamento de aclimatação (desmame do domo) para integração ao ambiente vegetativo de 80-90% de UR. Solo mantido úmido, hidratação feita via aspersão foliar e nas paredes da PET.
@@ -45,6 +47,7 @@
 
 | Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **08/07** | Flora (W2) | 2L | Manutenção Leve | Entrada EC 600. Runoff baixo (EC 700-800). Rega ponte até o sábado. |
 | **06/07** | Flora (W2) | 2.5L | Mix Flora Titulado | Entrada EC 1.100 / pH 6.2. Runoff 1L (EC 1.200). Absorção perfeita, transição para engorda. |
 | **01/07** | Flora (W1) | 2.5L | Mix Flora + 2ml CalMag | Entrada EC 1.100 / pH 6.4. Runoff 500-700ml (EC 1.200). Absorção limpa. |
 | **04/07** | Flora (W1) | 2.5L | Mix Flora (Fator 0.40) | Target EC 1.100. Mix: 2.5ml A / 2.5ml B / 0.5ml C (Para 5L totais) + 2ml CalMag. |
