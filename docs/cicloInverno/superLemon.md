@@ -2,7 +2,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
-
+* **09/07/2026:** 🎨 **Expressão Fenotípica (Antocianinas):** Observada mudança de pigmentação foliar para tons roxos e escuros. Resposta biológica direta e positiva à amplitude térmica (queda para 17°C noturnos via AC). Estrutura de floração avançando com excelente formação de cálices.
+* **09/07/2026:** ✂️ **Planejamento de Manejo (QA):** Definida estratégia de desfolha de baixa intensidade para o próximo final de semana. O foco será apenas desobstrução de fluxo de ar interno, evitando o excesso de remoção de "painéis solares" experimentado no ciclo anterior, garantindo máxima energia para a fase de engorda.
 * **08/07/2026:** 🚿 **Rega de Manutenção (Bridge Feed):** Executada rega intermediária rápida para evitar estresse hídrico severo antes do final de semana. Aplicados 2L/planta utilizando sobra de solução base leve (EC 600). Runoff mínimo com leitura de EC entre 700-800. Absorção cirúrgica confirmada, mantendo o metabolismo de engorda ativo e o substrato livre de acúmulo salino.
 * **06/07/2026:** 🚿 **Rega de Flora (Fim do Stretch / Início de Engorda):** Aplicação de 2.5L/planta. Entrada: EC 1.100 / pH 6.2. Runoff espetacular de ~1L com EC 1.200. O sistema está com a taxa de absorção perfeita (Delta de apenas 100 EC). Estrutura vegetal confirmando o fim do estirão e concentrando energia no adensamento dos pistilos ("pompons").
 * **01/07/2026:** 🚿 **Rega Estrutural (Flora W1):** Aplicação de 2.5L/planta com CalMag (2ml no mix total). EC de Entrada: 1.100 / pH 6.4. Retorno de 500-700ml com EC 1.200. Leitura do sistema: Absorção perfeita, sem acúmulo de sais e metabolismo trabalhando em capacidade ideal (18-22°C). 
