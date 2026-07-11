@@ -1,7 +1,26 @@
 # ⛽ Sour Diesel Auto
 
+
+## 🚿 Log de Nutrição e Regas
+
+| Data | Fase | Volume | Nutrição | Notas / QA |
+| :--- | :--- | :--- | :--- | :--- |
+| **12/07** | Vega Plena | 1.5L | Mix Vega (0.40) | Mix: 0.6g A / 0.6g B / 0.1g C + CalMag. Rega lenta no solo vivo. Estrutura lateral respondendo com força à poda Top. |
+| **06/07** | Vega | 1.5L | Água Pura | Entrada pH 6.2. Runoff ~2L (EC 2.100). Flush corretivo executado com sucesso. |
+| **04/07** | Vega | 1.5L | Base Leve (EC 500) | Runoff 500ml (EC 2.800). Alerta de Falso Positivo gerado pelo Living Soil. |
+| **01/07** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem Runoff. Raízes em franca expansão. |
+| **04/07** | Vega | 1L | Mix Vega (Fator 0.40) | Expansão de volume. Target EC 400-600. Início de nutrição mineral leve para suportar estirão radicular. |
+| **01/07** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem Runoff. Raízes em franca expansão; próxima rega requer base nutrients leve (400-600 EC). |
+| **28/06** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem runoff. Planta aumentando demanda hídrica. |
+| **16/06** | Berçário | 200ml | CalMag | Desmame do domo de umidade. |
+| **13/06** | Berçário | 200ml | Água Pura | Expansão foliar inicial. |
+| - | Germinação | - | - | Semente transplantada direto para 15L (09/06). |
+
+---
+
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **12/07/2026:** 🚿 **Nutrição Vegetativa Plena:** Planta apresentando vigor extremo e ramificações laterais assumindo a estrutura pós-poda Top. Executada rega com 1.5L de solução Vega (Fator 0.40) em aplicação lenta para preservar a microbiologia do Living Soil. Sem medição de runoff para evitar falso-positivo.
 * **07/07/2026:** ✂️ **Treinamento de Alto Estresse (HST) - Poda Top:** Executada a remoção do ápice principal (Topping) para quebra de dominância apical e incentivo ao desenvolvimento lateral. Estrutura da planta exibe altíssimo vigor e saúde foliar plena, garantindo rápida recuperação. Ambiente de UTI mantido a 85% UR para mitigar o estresse cirúrgico.
 * **06/07/2026:** 🚿 **Flush de Correção:** Executada rega com 1.5L de H2O declorada (pH 6.2) para desobstrução preventiva. Runoff alcançou ~2L (utilizando resíduos do vaso) com EC 2.100. Lavagem de sais concluída.
 * **04/07/2026:** 🚨 **Falso Positivo de EC (Living Soil):** Executada rega de 1.5L com sobra de solução (EC 500). O runoff de 500ml retornou leitura assustadora de 2.800 de EC. Confirmado que não se trata de overfert tóxico, mas sim da alta condutividade dos ácidos orgânicos gerados pela biologia do Bokashi e Living Soil.
@@ -21,21 +40,6 @@
 
 ---
 
-## 🚿 Log de Nutrição e Regas
-
-| Data | Fase | Volume | Nutrição | Notas / QA |
-| :--- | :--- | :--- | :--- | :--- |
-| **06/07** | Vega | 1.5L | Água Pura | Entrada pH 6.2. Runoff ~2L (EC 2.100). Flush corretivo executado com sucesso. |
-| **04/07** | Vega | 1.5L | Base Leve (EC 500) | Runoff 500ml (EC 2.800). Alerta de Falso Positivo gerado pelo Living Soil. |
-| **01/07** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem Runoff. Raízes em franca expansão. |
-| **04/07** | Vega | 1L | Mix Vega (Fator 0.40) | Expansão de volume. Target EC 400-600. Início de nutrição mineral leve para suportar estirão radicular. |
-| **01/07** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem Runoff. Raízes em franca expansão; próxima rega requer base nutrients leve (400-600 EC). |
-| **28/06** | Vega | 500ml | 1ml CalMag | Entrada pH 6.2. Sem runoff. Planta aumentando demanda hídrica. |
-| **16/06** | Berçário | 200ml | CalMag | Desmame do domo de umidade. |
-| **13/06** | Berçário | 200ml | Água Pura | Expansão foliar inicial. |
-| - | Germinação | - | - | Semente transplantada direto para 15L (09/06). |
-
----
 
 ## 🛠️ Infraestrutura de Solo (Living Soil Modificado)
 * **Drenagem:** Argila expandida no fundo do vaso de feltro de 15L.

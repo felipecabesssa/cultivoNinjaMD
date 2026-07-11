@@ -1,7 +1,33 @@
 # 🍋 Super Lemon Haze (Fotoperíodo)
 
+## 🚿 Log de Nutrição e Regas
+
+| Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
+| :--- | :--- | :--- | :--- | :--- |
+| **12/07** | Flora (W3) | 3L | Mix Meio Flora (0.40) | Mix: 2g A/ 2g B/ 1g C + CalMag (p/ 5L). Entrada: EC 1.200 / pH 6.2. Runoff: 1L (EC 1.400). Desfolha concluída. |
+| **08/07** | Flora (W2) | 2L | Manutenção Leve | Entrada EC 600. Runoff baixo (EC 700-800). Rega ponte até o sábado. |
+| **06/07** | Flora (W2) | 2.5L | Mix Flora Titulado | Entrada EC 1.100 / pH 6.2. Runoff 1L (EC 1.200). Absorção perfeita, transição para engorda. |
+| **01/07** | Flora (W1) | 2.5L | Mix Flora + 2ml CalMag | Entrada EC 1.100 / pH 6.4. Runoff 500-700ml (EC 1.200). Absorção limpa. |
+| **04/07** | Flora (W1) | 2.5L | Mix Flora (Fator 0.40) | Target EC 1.100. Mix: 2.5ml A / 2.5ml B / 0.5ml C (Para 5L totais) + 2ml CalMag. |
+| **01/07** | Flora (W1) | 2.5L | Mix Flora + 2ml CalMag | Entrada EC 1.100 / pH 6.4. Runoff 500-700ml (EC 1.200). Absorção limpa. |
+| **28/06** | Flora (W1) | 2.5L | Mix Flora Titulado | Entrada EC 900 / pH 6.2. Runoff 1L (EC 1.100). Substrato lavado e com salinidade perfeita. |
+| **16/06** | Vega | 2L | 1ml CalMag (Flush) | Entrada EC 200 / pH 6.2. Runoff 700ml (EC 1080). Lavagem de sais bem-sucedida. |
+| **13/06** | Vega | 2L | 2A + 2B + 0.40C | Runoff EC 2.500 (Alerta de acúmulo de sais no substrato). |
+| **08/06** | Vega | 1L | 2A + 2B + 0.40C + 2ml CalMag | Runoff Zero. Próxima rega subir para 2L. |
+| **25/05** | Vega | 700ml | 1A + 1B + 0.25C | Plantas respondendo com vigor. |
+| **24/05** | Vega | 700ml | 1A + 1B + 0.25C | - |
+| **21/05** | Vega | 500ml | 0.5A + 0.5B + 0.1C + 1g CalMag | Início do Mineral Soft Start. |
+| **18/05** | Vega | 300ml | 2 gotas CalMag | Rega nas bordas para expansão radicular. |
+| **12/05** | Trans. | 700ml | Bokashi | Assentamento de solo nos vasos de 20L. |
+| **08/05** | Vega | - | Água Pura (Detox) | Rega leve de limpeza pré-transplante. |
+| **29/04** | Vega | - | E.C 450 (Base Leve) | Primeira rega com nutrição mineral. |
+| **11/04** | Berço | 50ml | Água Pura | Manutenção de umidade no Carolina Soil. |
+
+---
+
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+* **12/07/2026:** 🚿 **Rega Pesada & Desfolha (Meio de Flora):** Executada limpeza interna cirúrgica (Light Defoliation) para desobstrução de fluxo de ar. Na sequência, aplicação de 3L/planta em rega lenta para reidratação. Dieta ajustada para "Meio de Flora" focando em PK. Entrada perfeita: EC 1.200 / pH 6.2. Runoff cravou 1L com EC 1.400, comprovando ausência de acúmulo de sais.
 * **09/07/2026:** 🎨 **Expressão Fenotípica (Antocianinas):** Observada mudança de pigmentação foliar para tons roxos e escuros. Resposta biológica direta e positiva à amplitude térmica (queda para 17°C noturnos via AC). Estrutura de floração avançando com excelente formação de cálices.
 * **09/07/2026:** ✂️ **Planejamento de Manejo (QA):** Definida estratégia de desfolha de baixa intensidade para o próximo final de semana. O foco será apenas desobstrução de fluxo de ar interno, evitando o excesso de remoção de "painéis solares" experimentado no ciclo anterior, garantindo máxima energia para a fase de engorda.
 * **08/07/2026:** 🚿 **Rega de Manutenção (Bridge Feed):** Executada rega intermediária rápida para evitar estresse hídrico severo antes do final de semana. Aplicados 2L/planta utilizando sobra de solução base leve (EC 600). Runoff mínimo com leitura de EC entre 700-800. Absorção cirúrgica confirmada, mantendo o metabolismo de engorda ativo e o substrato livre de acúmulo salino.
@@ -44,29 +70,6 @@
 
 ---
 
-## 🚿 Log de Nutrição e Regas
-
-| Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
-| :--- | :--- | :--- | :--- | :--- |
-| **08/07** | Flora (W2) | 2L | Manutenção Leve | Entrada EC 600. Runoff baixo (EC 700-800). Rega ponte até o sábado. |
-| **06/07** | Flora (W2) | 2.5L | Mix Flora Titulado | Entrada EC 1.100 / pH 6.2. Runoff 1L (EC 1.200). Absorção perfeita, transição para engorda. |
-| **01/07** | Flora (W1) | 2.5L | Mix Flora + 2ml CalMag | Entrada EC 1.100 / pH 6.4. Runoff 500-700ml (EC 1.200). Absorção limpa. |
-| **04/07** | Flora (W1) | 2.5L | Mix Flora (Fator 0.40) | Target EC 1.100. Mix: 2.5ml A / 2.5ml B / 0.5ml C (Para 5L totais) + 2ml CalMag. |
-| **01/07** | Flora (W1) | 2.5L | Mix Flora + 2ml CalMag | Entrada EC 1.100 / pH 6.4. Runoff 500-700ml (EC 1.200). Absorção limpa. |
-| **28/06** | Flora (W1) | 2.5L | Mix Flora Titulado | Entrada EC 900 / pH 6.2. Runoff 1L (EC 1.100). Substrato lavado e com salinidade perfeita. |
-| **16/06** | Vega | 2L | 1ml CalMag (Flush) | Entrada EC 200 / pH 6.2. Runoff 700ml (EC 1080). Lavagem de sais bem-sucedida. |
-| **13/06** | Vega | 2L | 2A + 2B + 0.40C | Runoff EC 2.500 (Alerta de acúmulo de sais no substrato). |
-| **08/06** | Vega | 1L | 2A + 2B + 0.40C + 2ml CalMag | Runoff Zero. Próxima rega subir para 2L. |
-| **25/05** | Vega | 700ml | 1A + 1B + 0.25C | Plantas respondendo com vigor. |
-| **24/05** | Vega | 700ml | 1A + 1B + 0.25C | - |
-| **21/05** | Vega | 500ml | 0.5A + 0.5B + 0.1C + 1g CalMag | Início do Mineral Soft Start. |
-| **18/05** | Vega | 300ml | 2 gotas CalMag | Rega nas bordas para expansão radicular. |
-| **12/05** | Trans. | 700ml | Bokashi | Assentamento de solo nos vasos de 20L. |
-| **08/05** | Vega | - | Água Pura (Detox) | Rega leve de limpeza pré-transplante. |
-| **29/04** | Vega | - | E.C 450 (Base Leve) | Primeira rega com nutrição mineral. |
-| **11/04** | Berço | 50ml | Água Pura | Manutenção de umidade no Carolina Soil. |
-
----
 
 ## 🗺️ Roadmap e Milestones (Estratégia: Ciclo Rápido)
 * **Objetivo Atualizado:** Controle de altura (mitigação do *stretch* da Sativa) e giro rápido de estoque para reabastecimento contínuo.
