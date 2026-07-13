@@ -16,8 +16,9 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ---
 
-## 🚀 Projetos e Frentes Ativas (Atualização: 10/07/2026)
+## 🚀 Projetos e Frentes Ativas (Atualização: 14/07/2026)
 
+* **14/07/2026:** 🌐 **Infraestrutura Digital:** Aquisição e registro oficial do domínio `cultivoninja.com.br` via Registro.br. O laboratório agora possui um endereço e marca oficial na web para futuras integrações de dashboard.
 * **Status Atual (10/07/2026):** 
   * **Super Lemon Haze (Flora W2):** Concentração total na engorda dos cálices. Gradiente térmico noturno de 17°C estabilizado, induzindo coloração roxa. Planejamento de desfolha tática interna para o final de semana.
   * **Sour Diesel (Vega):** Excelente resposta regenerativa pós-topping. Ramificações secundárias assumindo dominância com microclima travado em 85% UR.
