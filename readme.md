@@ -37,7 +37,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 ## 🗂️ Cards de Histórico das Strains
 
 > [!TIP]
-> ### 🍋 [Super Lemon Haze (#1 e #2)](./docs/superLemonHaze.md)
+> ### 🍋 [Super Lemon Haze (#1 e #2)](./docs/cicloInverno/superLemon.md)
 > **Status:** 🟢 EM OPERAÇÃO (Flora - W2 Engorda)
 > 
 > * **Período de Cultivo:** 30/03/2026 a Set/2026 (Previsão de Colheita)
@@ -48,7 +48,7 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 <br>
 
 > [!NOTE]
-> ### ⛽ [Sour Diesel Auto](./cicloInverno/automaticas/sourDiesel.md)
+> ### ⛽ [Sour Diesel Auto](./docs/cicloInverno/automaticas/sourDiesel.md)
 > **Status:** 🟢 EM OPERAÇÃO (Vegetativo Pleno)
 > 
 > * **Período de Cultivo:** Junho/2026 - Nov/2026

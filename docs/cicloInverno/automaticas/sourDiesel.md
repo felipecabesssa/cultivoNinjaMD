@@ -5,6 +5,7 @@
 
 | Data | Fase | Volume | Nutrição | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **15/07** | Vega Plena | 1.5L | Água + CalMag | Entrada pH 6.2 com 2ml CalMag. Runoff: 500ml (EC 1.900). Condutividade orgânica alta, biologia ativa. |
 | **12/07** | Vega Plena | 1.5L | Mix Vega (0.40) | Mix: 0.6g A / 0.6g B / 0.1g C + CalMag. Rega lenta no solo vivo. Estrutura lateral respondendo com força à poda Top. |
 | **06/07** | Vega | 1.5L | Água Pura | Entrada pH 6.2. Runoff ~2L (EC 2.100). Flush corretivo executado com sucesso. |
 | **04/07** | Vega | 1.5L | Base Leve (EC 500) | Runoff 500ml (EC 2.800). Alerta de Falso Positivo gerado pelo Living Soil. |
@@ -20,6 +21,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+* **15/07/2026:** 🚿 **Rega de Hidratação Organomineral:** Aplicação de 1.5L de água declorada com 2ml de CalMag (pH 6.2). Runoff de 500ml registrou EC 1.900. Valor elevado de condutividade característico da biologia ativa do Living Soil/Bokashi, sem sinais de toxicidade na planta. Estrutura foliar e ramificações laterais com vigor excelente pós-topping.
 * **12/07/2026:** 🚿 **Nutrição Vegetativa Plena:** Planta apresentando vigor extremo e ramificações laterais assumindo a estrutura pós-poda Top. Executada rega com 1.5L de solução Vega (Fator 0.40) em aplicação lenta para preservar a microbiologia do Living Soil. Sem medição de runoff para evitar falso-positivo.
 * **07/07/2026:** ✂️ **Treinamento de Alto Estresse (HST) - Poda Top:** Executada a remoção do ápice principal (Topping) para quebra de dominância apical e incentivo ao desenvolvimento lateral. Estrutura da planta exibe altíssimo vigor e saúde foliar plena, garantindo rápida recuperação. Ambiente de UTI mantido a 85% UR para mitigar o estresse cirúrgico.
 * **06/07/2026:** 🚿 **Flush de Correção:** Executada rega com 1.5L de H2O declorada (pH 6.2) para desobstrução preventiva. Runoff alcançou ~2L (utilizando resíduos do vaso) com EC 2.100. Lavagem de sais concluída.

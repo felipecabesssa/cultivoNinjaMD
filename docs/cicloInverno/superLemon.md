@@ -4,6 +4,7 @@
 
 | Data | Fase | Volume (p/ planta) | Nutrição (Mix) | Notas / QA |
 | :--- | :--- | :--- | :--- | :--- |
+| **15/07** | Flora (W3) | 3L | Mix Meio Flora (0.40) | Mix (6L): 2.4g A / 2.4g B / 1.2g C + 2.4ml CalMag. Entrada: EC 1.400 / pH 6.3. Runoff total: 1L (EC 1.700). |
 | **12/07** | Flora (W3) | 3L | Mix Meio Flora (0.40) | Mix: 2g A/ 2g B/ 1g C + CalMag (p/ 5L). Entrada: EC 1.200 / pH 6.2. Runoff: 1L (EC 1.400). Desfolha concluída. |
 | **08/07** | Flora (W2) | 2L | Manutenção Leve | Entrada EC 600. Runoff baixo (EC 700-800). Rega ponte até o sábado. |
 | **06/07** | Flora (W2) | 2.5L | Mix Flora Titulado | Entrada EC 1.100 / pH 6.2. Runoff 1L (EC 1.200). Absorção perfeita, transição para engorda. |
@@ -27,6 +28,8 @@
 
 ## 📓 Diário de Ciclo (Logs de Desenvolvimento)
 
+
+* **15/07/2026:** 🚿 **Rega de Flora (W3 - Engorda):** Aplicação de 3L/planta. Entrada: EC 1.400 / pH 6.3. Runoff total de 1L apresentando EC de 1.700. Flutuação de EC aceitável e prevista devido à secagem do substrato sob o controle de temperatura noturna. Plantas em pleno desenvolvimento de flores.
 * **12/07/2026:** 🚿 **Rega Pesada & Desfolha (Meio de Flora):** Executada limpeza interna cirúrgica (Light Defoliation) para desobstrução de fluxo de ar. Na sequência, aplicação de 3L/planta em rega lenta para reidratação. Dieta ajustada para "Meio de Flora" focando em PK. Entrada perfeita: EC 1.200 / pH 6.2. Runoff cravou 1L com EC 1.400, comprovando ausência de acúmulo de sais.
 * **09/07/2026:** 🎨 **Expressão Fenotípica (Antocianinas):** Observada mudança de pigmentação foliar para tons roxos e escuros. Resposta biológica direta e positiva à amplitude térmica (queda para 17°C noturnos via AC). Estrutura de floração avançando com excelente formação de cálices.
 * **09/07/2026:** ✂️ **Planejamento de Manejo (QA):** Definida estratégia de desfolha de baixa intensidade para o próximo final de semana. O foco será apenas desobstrução de fluxo de ar interno, evitando o excesso de remoção de "painéis solares" experimentado no ciclo anterior, garantindo máxima energia para a fase de engorda.
