@@ -18,6 +18,9 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 ## 🚀 Projetos e Frentes Ativas (Atualização: 14/07/2026)
 
+
+* **17/07/2026:** 🧬 **Monitoramento (UTI Neonatal):** Observado leve murchamento foliar (perda de turgor) em uma das estacas da SLH, devido a um gap de 24h+ sem aspersão manual. Domo reidratado imediatamente para recuperar a umidade de 80-90% UR.
+* **17/07/2026:** 📋 **Handover Operacional (Operação Maceió):** Cuidador oficial do ecossistema alterado. Sai Caio (logística Taguatinga inviável) e entra André (Advogado responsável pelo HC, residente no Guará). O período servirá como estágio prático de cultivo para o André. Acordado protocolo de desligamento noturno do Ar Condicionado para otimização de custo energético.
 * **14/07/2026:** 🌐 **Infraestrutura Digital:** Aquisição e registro oficial do domínio `cultivoninja.com.br` via Registro.br. O laboratório agora possui um endereço e marca oficial na web para futuras integrações de dashboard.
 * **Status Atual (10/07/2026):** 
   * **Super Lemon Haze (Flora W2):** Concentração total na engorda dos cálices. Gradiente térmico noturno de 17°C estabilizado, induzindo coloração roxa. Planejamento de desfolha tática interna para o final de semana.
