@@ -1,5 +1,17 @@
 # ⛽ Sour Diesel Auto
 
+## 🏁 Encerramento de Ciclo (Colheita e Cura)
+
+* **Rendimento Final:** 70g (Flor Premium) / 30g (Material Extração)
+* **Análise Visual:** Flores expressaram tonalidade roxa rara mesmo sob média de 25°C.
+
+### 🧊 Protocolo de Cura Tática (Cold Cure)
+* **Acondicionamento:** 1 Pote de Vidro Hermético (1 Litro).
+* **Controle de Umidade:** 3x Boveda (62%) + 1 Higrômetro interno.
+* **Ambiente:** Geladeira (Preservação máxima de terpenos altamente voláteis).
+* **⚠️ SOP de Aeração (Burping):** Para evitar condensação (suor/mofo) causada pelo choque térmico, o pote **DEVE obrigatoriamente** repousar fora da geladeira por **20 minutos** em temperatura ambiente antes de ser aberto. Após o período, abrir por 10-15 minutos para troca gasosa (eliminação de etileno/clorofila) e retornar à refrigeração.
+
+---
 
 ## 🚿 Log de Nutrição e Regas
 

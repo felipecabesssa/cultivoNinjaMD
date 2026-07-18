@@ -9,31 +9,34 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 | Ambiente / Projeto | Estágio Atual | Parâmetros / Manejo |
 | :--- | :--- | :--- |
 | ⚖️ **Biossegurança Legal** | 🟢 HC Preventivo | 📄 Laudo Agronômico emitido. Escopo: 64 plantas/ano. |
-| 🍋 **Super Lemon Haze** | 🟢 Flora (W2 - Engorda) | 🌸 *Stretch* finalizado. Expressão de antocianinas (folhas roxas) ativa. |
-| ⛽ **Sour Diesel Auto** | 🟢 Vegetativo Pleno | 🌱 Poda Top (HST) executada. Recuperação excelente a 85% UR. |
-| 🧬 **Clones SLH** | 🟢 UTI Neonatal | 💧 Domos de umidade ativos (80-90% UR) com aspersão diária. |
-| 🧊 **Ice Hash (Bubble)** | 🚬 Finalizado com glória | ⚖️ 5g totais finalizados com técnica Cannoli. |
+| 🍋 **Super Lemon Haze** | 🏁 Finalizado | 🏺 Em processo de cura (Potes Herméticos + Boveda). |
+| ⛽ **Sour Diesel Auto** | 🏁 Finalizado | 🏺 Em processo de cura (Potes Herméticos + Boveda). |
+| 🧬 **Clones SLH** | 🟢 Vegetativo | 🌱 Estabilizados pós-transplante e poda top. Ciclo 18/6. |
+| 🧊 **Ice Hash (Bubble)** | 🟡 Preparação | ❄️ 80g de material congelado (trim/pipocas) aguardando extração. |
 
 ---
 
-## 🚀 Projetos e Frentes Ativas (Atualização: 14/07/2026)
+## 🏆 Balanço Final da Colheita (Setembro/2026)
 
+| Strain (Genética) | Flor Seca (Cura) | Material p/ Extração (Ice) | Rendimento Total |
+| :--- | :--- | :--- | :--- |
+| **Sour Diesel Auto** | 70g | 30g | **100g** |
+| **SLH #1 (Verdinha)**| 50g | 30g | **80g** |
+| **SLH #2 (Roxinha)** | 70g | 20g | **90g** |
+| **TOTAL GERAL** | **190g** | **80g** | **270g** |
 
-* **17/07/2026:** 🧬 **Monitoramento (UTI Neonatal):** Observado leve murchamento foliar (perda de turgor) em uma das estacas da SLH, devido a um gap de 24h+ sem aspersão manual. Domo reidratado imediatamente para recuperar a umidade de 80-90% UR.
-* **17/07/2026:** 📋 **Handover Operacional (Operação Maceió):** Cuidador oficial do ecossistema alterado. Sai Caio (logística Taguatinga inviável) e entra André (Advogado responsável pelo HC, residente no Guará). O período servirá como estágio prático de cultivo para o André. Acordado protocolo de desligamento noturno do Ar Condicionado para otimização de custo energético.
-* **14/07/2026:** 🌐 **Infraestrutura Digital:** Aquisição e registro oficial do domínio `cultivoninja.com.br` via Registro.br. O laboratório agora possui um endereço e marca oficial na web para futuras integrações de dashboard.
-* **Status Atual (10/07/2026):** 
-  * **Super Lemon Haze (Flora W2):** Concentração total na engorda dos cálices. Gradiente térmico noturno de 17°C estabilizado, induzindo coloração roxa. Planejamento de desfolha tática interna para o final de semana.
-  * **Sour Diesel (Vega):** Excelente resposta regenerativa pós-topping. Ramificações secundárias assumindo dominância com microclima travado em 85% UR.
-  * **Clones SLH:** Hidratação foliar mantida. Preparação de vasos de espera no radar.
-* **Status Atual (06/07/2026):** 
-  * **Super Lemon Haze (Flora W2):** *Stretch* vertical finalizado. Entrando oficialmente na fase de densidade e engorda dos cálices (formação dos pompons). Nutrição e absorção operando com 100% de eficiência (EC de saída quase cravado com o de entrada).
-  * **Sour Diesel (Vega):** Mantida no solo vivo (Living Soil). Recuperada do susto do falso-positivo de EC do final de semana.
-* **Status Atual (01/07/2026):** 
-  * **Super Lemon Haze (Flora W1):** Em pleno *stretch* (estirão). Metabolismo acelerado, consumindo 2.5L por rega. Runoff estável e ambiente controlado via ar condicionado (18°C - 22°C).
-* **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração das SLH para tenda de flora no quarto. Executada poda *Lollipopping* severa. Início do uso de ar condicionado (EOS - 17ºC (noite) a 24ºC (dia)) para controle térmico de flora. 
-* **24/06/2026:** 🧬 **Backup Genético:** Executada clonagem (Backup de segurança) de 2 estacas de SLH via método de imersão em extrato húmico e ambiente de alta umidade (UTI Neonatal).
-* **Legislação e Biossegurança:** Laudo Agronômico emitido com sucesso! Arquitetura legal desenhada para garantir autossuficiência contínua (64 plantas anuais em 3 ciclos). 
+*Nota Técnica: Genética SLH #2 apresentou forte expressão de antocianinas, entregando coloração roxa intensa e densidade superior.*
+
+---
+
+## 🚀 Projetos e Frentes Ativas (Atualização: 03/09/2026)
+
+* **03/09/2026:** ✂️ **Dry Trim e Envasamento:** Processo de manicure seca finalizado. Flores transferidas para potes herméticos para início da cura térmica e estabilização de terpenos. Material de trim congelado para extração.
+* **Ago/Set 2026:** 🌬️ **Secagem:** Concluída sob método *whole-plant hang* para mitigar os efeitos da baixa umidade local (VPD agressivo), protegendo os colas internos e preservando o perfil de terpenos.
+* **17/07/2026:** 📋 **Handover Operacional (Operação Maceió):** Cuidador oficial do ecossistema alterado. Sai Caio (logística Taguatinga inviável) e entra André (Advogado responsável pelo HC, residente no Guará). 
+* **14/07/2026:** 🌐 **Infraestrutura Digital:** Aquisição e registro oficial do domínio `cultivoninja.com.br` via Registro.br. 
+* **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração das SLH para tenda de flora no quarto. 
+* **24/06/2026:** 🧬 **Backup Genético:** Executada clonagem (Backup de segurança) de 2 estacas de SLH via método de imersão em extrato húmico.
 
 ---
 
@@ -41,19 +44,20 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 > [!TIP]
 > ### 🍋 [Super Lemon Haze (#1 e #2)](./docs/cicloInverno/superLemon.md)
-> **Status:** 🟢 EM OPERAÇÃO (Flora - W2 Engorda)
+> **Status:** 🏁 COLHIDA E CURANDO
 > 
-> * **Período de Cultivo:** 30/03/2026 a Set/2026 (Previsão de Colheita)
+> * **Período de Cultivo:** 30/03/2026 a Ago/2026
 > * **Data Germinação:** 28/03/2026 (Hidratação) / 30/03/2026 (Solo)
-> * **Treinamento Atual:** Poda Top + LST + Desfolha Tática Interna (FDS)
-> * **Janela Prevista de Secagem/Cura:** Setembro/2026
+> * **Rendimento Flor:** 120g totais (Alta densidade, fenótipo roxo isolado na #2)
+> * **Status Atual:** Potes de vidro com controle de umidade.
 
 <br>
 
 > [!NOTE]
 > ### ⛽ [Sour Diesel Auto](./docs/cicloInverno/automaticas/sourDiesel.md)
-> **Status:** 🟢 EM OPERAÇÃO (Vegetativo Pleno)
+> **Status:** 🏁 COLHIDA E CURANDO
 > 
-> * **Período de Cultivo:** Junho/2026 - Nov/2026
+> * **Período de Cultivo:** Junho/2026 - Ago/2026
 > * **Data Germinação:** 06/06/2026
-> * **Treinamento Atual:** Poda Top (HST) Executada em 07/07
+> * **Rendimento Flor:** 70g (Surpresa de eficiência no Living Soil)
+> * **Status Atual:** Potes de vidro com controle de umidade.
