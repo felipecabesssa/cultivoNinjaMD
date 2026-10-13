@@ -25,3 +25,4 @@ desktop.ini
 # Mantemos as imagens leves liberadas, mas se for subir videos, ignore:
 *.mp4
 *.mov
+*.jpg

@@ -8,35 +8,37 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 
 | Ambiente / Projeto | Estágio Atual | Parâmetros / Manejo |
 | :--- | :--- | :--- |
-| ⚖️ **Biossegurança Legal** | 🟢 HC Preventivo | 📄 Laudo Agronômico emitido. Escopo: 64 plantas/ano. |
-| 🍋 **Super Lemon Haze** | 🏁 Finalizado | 🏺 Em processo de cura (Potes Herméticos + Boveda). |
-| ⛽ **Sour Diesel Auto** | 🏁 Finalizado | 🏺 Em processo de cura (Potes Herméticos + Boveda). |
-| 🧬 **Clones SLH** | 🟢 Vegetativo | 🌱 Estabilizados pós-transplante e poda top. Ciclo 18/6. |
-| 🧊 **Ice Hash (Bubble)** | 🟡 Preparação | ❄️ 80g de material congelado (trim/pipocas) aguardando extração. |
+| ⚖️ **Biossegurança Legal** | 🟢 HC Preventivo | 📄 Protocolado em 10/10/2026. Escopo: 64 plantas/ano. |
+| 🍋 **Super Lemon Haze (Clones)** | 🟡 Floração | 🚀 Flip 12/12 em 01/10/2026. Pistilos e botões bem formados. |
+| 🍋 **Super Lemon Haze (Madres)** | 🏁 Finalizado | 🏺 Curada. Avaliação: Alta densidade, aroma complexo (fenótipo roxo superior). |
+| ⛽ **Sour Diesel Auto** | 🏁 Finalizado | 🏺 Curada e finalizada. |
+| 🧬 **Clones Novos (SLH)** | 🟢 Incubadora | 🌱 10 estacas (5 Verdinha / 5 Roxinha) retiradas em 01/10. Lã de rocha, umidade alta, ciclo 18/6 suave. |
+| 🧊 **Ice Hash (Bubble)** | 🏁 Finalizado | ❄️ Processo validado com trim de SLH (50g) e flor curada (Sour Diesel + SLH). Rendimento: 5g a 10g. Qualidade Excepcional. |
 
 ---
 
-## 🏆 Balanço Final da Colheita (Setembro/2026)
+## 🏆 Balanço de Produção (Último Ciclo)
 
 | Strain (Genética) | Flor Seca (Cura) | Material p/ Extração (Ice) | Rendimento Total |
 | :--- | :--- | :--- | :--- |
 | **Sour Diesel Auto** | 70g | 30g | **100g** |
 | **SLH #1 (Verdinha)**| 50g | 30g | **80g** |
-| **SLH #2 (Roxinha)** | 70g | 20g | **90g** |
-| **TOTAL GERAL** | **190g** | **80g** | **270g** |
+| **SLH #2 (Roxinha)** | 80g | 20g | **90g** |
+| **TOTAL GERAL** | **200g** | **80g** | **270g** |
 
-*Nota Técnica: Genética SLH #2 apresentou forte expressão de antocianinas, entregando coloração roxa intensa e densidade superior.*
+*Nota de Degustação: O fenótipo SLH #2 (Roxinha) apresentou perfil organoléptico e de potência significativamente superior, sendo classificado como a melhor colheita da operação até o momento.*
 
 ---
 
-## 🚀 Projetos e Frentes Ativas (Atualização: 03/09/2026)
+## 🚀 Log de Progresso e Frentes Ativas
 
-* **03/09/2026:** ✂️ **Dry Trim e Envasamento:** Processo de manicure seca finalizado. Flores transferidas para potes herméticos para início da cura térmica e estabilização de terpenos. Material de trim congelado para extração.
-* **Ago/Set 2026:** 🌬️ **Secagem:** Concluída sob método *whole-plant hang* para mitigar os efeitos da baixa umidade local (VPD agressivo), protegendo os colas internos e preservando o perfil de terpenos.
-* **17/07/2026:** 📋 **Handover Operacional (Operação Maceió):** Cuidador oficial do ecossistema alterado. Sai Caio (logística Taguatinga inviável) e entra André (Advogado responsável pelo HC, residente no Guará). 
-* **14/07/2026:** 🌐 **Infraestrutura Digital:** Aquisição e registro oficial do domínio `cultivoninja.com.br` via Registro.br. 
-* **24/06/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Migração das SLH para tenda de flora no quarto. 
-* **24/06/2026:** 🧬 **Backup Genético:** Executada clonagem (Backup de segurança) de 2 estacas de SLH via método de imersão em extrato húmico.
+- **10/10/2026:** ⚖️ **Habeas Corpus:** Documentação, procuração e contrato assinados. Processo protocolado com sucesso.
+- **06/10/2026:** 🧊 **Ice Hash:** Execução de lavagem com matéria seca/curada. Resultados excepcionais de sabor e pureza. Protocolo oficial atualizado: curar a planta antes da extração.
+- **01/10/2026:** 🚀 **FLIP PARA FLORAÇÃO (12/12):** Transição dos clones de Super Lemon Haze para o fotoperíodo de flora.
+- **01/10/2026:** 🧬 **Clonagem (Nova Geração):** Retirada de 10 estacas (5 da SLH #1 e 5 da SLH #2) no momento do flip. Alojadas em lã de rocha sob umidificador.
+- **Ago/Set 2026:** 🌬️ **Secagem:** Concluída sob método *whole-plant hang* para mitigar os efeitos da baixa umidade local (VPD agressivo).
+- **17/07/2026:** 📋 **Handover Operacional:** Cuidador oficial alterado para André. 
+- **14/07/2026:** 🌐 **Infraestrutura Digital:** Aquisição e registro do domínio `cultivoninja.com.br`.
 
 ---
 
@@ -47,9 +49,8 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 > **Status:** 🏁 COLHIDA E CURANDO
 > 
 > * **Período de Cultivo:** 30/03/2026 a Ago/2026
-> * **Data Germinação:** 28/03/2026 (Hidratação) / 30/03/2026 (Solo)
 > * **Rendimento Flor:** 120g totais (Alta densidade, fenótipo roxo isolado na #2)
-> * **Status Atual:** Potes de vidro com controle de umidade.
+> * **Destaque:** Genética Roxinha selecionada como favorita do ciclo.
 
 <br>
 
@@ -58,6 +59,18 @@ Repositório dedicado ao controle técnico, financeiro e biológico do ciclo de 
 > **Status:** 🏁 COLHIDA E CURANDO
 > 
 > * **Período de Cultivo:** Junho/2026 - Ago/2026
-> * **Data Germinação:** 06/06/2026
 > * **Rendimento Flor:** 70g (Surpresa de eficiência no Living Soil)
-> * **Status Atual:** Potes de vidro com controle de umidade.
+
+<br>
+
+> [!TIP]
+> ### 🍋 [Super Lemon Haze (Clones Atuais)](#)
+> **Status:** 🟡 EM FLORAÇÃO
+> 
+> * **Data Flip Flora:** 01/10/2026
+> * **Status:** Pistilos e botões em pleno desenvolvimento.
+
+---
+
+*Status: Operacional (Modo Flora/Clonagem)* | *Infraestrutura: Controle de VPD ativo e extração aprimorada*
+*Última atualização: 13/10/2026*
