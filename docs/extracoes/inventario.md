@@ -1,29 +1,22 @@
 # 📦 Dashboard de Inventário e Rendimento
 
-## 📊 Ciclo de Inverno (Colheita: Agosto/Setembro 2026)
+## 📊 Reserva do Inverno (Colheita: Ago/Set 2026)
 
-| ID / Genética | Flor Seca (Premium) | Material Extração (Trim/Pipocas) | Embalagem de Cura |
-| :--- | :--- | :--- | :--- |
-| **⛽ Sour Diesel Auto** | 70g | 30g | 1x Pote Vidro Hermético (1L) |
-| **🍋 SLH #1 (Verdinha)**| 50g | 30g | 1x Pote Vidro Hermético (2L) |
-| **🍋 SLH #2 (Roxinha)** | 70g | 20g | 1x Pote Vidro Hermético (2L) |
-| **🏆 TOTAL GERAL** | **190g** | **80g** | *Matéria de extração congelada (-18°C)* |
+| ID / Genética | Flor Seca (Premium) | Consumo / Qualidade |
+| :--- | :--- | :--- |
+| **🍋 SLH #1 (Verdinha)**| 50g Iniciais | Perfil cítrico clássico. Utilizada parcialmente (flor curada) em extração de sucesso. |
+| **🍋 SLH #2 (Roxinha)** | 70g Iniciais | O Ouro da casa. Altíssima potência, aroma complexo e denso. |
+| **⛽ Sour Diesel Auto** | 70g Iniciais | *Strain Descontinuada.* Estoque de uso comum. |
 
-> **Nota:** Rendimento excepcional da Sour Diesel no *Living Soil* (70g limpas). A expressão fenotípica da SLH #2 entregou 20g a mais de flores densas em comparação à #1.
-
+*Nota Logística:* A estratégia de secar a planta inteira (whole-plant) e curar tudo antes de definir a destinação (Flor vs Ice) se provou altamente eficaz. A partir do próximo ciclo, este será o padrão oficial para não engessar o estoque em "*trim/pipocas*".
 
 ---
 
-# 📦 Inventário Final - Radical Juice
+## 🧊 Inventário de Resina (Ice Hash)
 
-| Tipo de Matéria | Quantidade | Destino / Status |
+| Lote / Matéria | Rendimento Líquido | Status / Notas de Degustação |
 | :--- | :--- | :--- |
-| **Flores de Elite (Buds)** | ~100g | Potes herméticos de 1L (Em cura estabilizada a 64%). |
-| **Fresh Frozen (Pipocas/Trim)**| 75g | Freezer. Aguardando "Ice Day" para virar Bubble Hash. |
-| **Dry Trim (Manicure)** | 25g | Freezer. Agregado ao estoque de extração. |
-| **Ice Caseiro (Canoli)** | 12.1g | Consumo ativo. Estabilidade e controle de ansiedade. |
+| **Mix Trim SLH (Curado)** | ~5g a 10g | Qualidade excepcional. Coloração dourada/clara e fusão perfeita com a flor Roxinha. |
+| **Mix Flores Sour Diesel + SLH #1**| ~5g a 10g | Excelente rendimento. O processo pós-cura elevou absurdamente o perfil de terpenos final da resina. |
 
-*Nota de QA:* O rendimento atingiu a meta de estoque de inverno com qualidade de coffeeshop (roxitude preservada).
-
-
-
+*Feedback da Diretoria:* O *blend* (baseado no relato dos *testers* e do mestre cultivo) do baseado de SLH #2 (Roxinha) com o Ice orgânico do ciclo foi eleito "o melhor da vida".
